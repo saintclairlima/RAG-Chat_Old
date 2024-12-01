@@ -1,4 +1,4 @@
-[
+documentos_perguntas=[
     {
         "id": "1",
         "page_content": "Art. 1. A Assembleia Legislativa é composta de Deputados, representantes do povo norte-rio-grandense, eleitos, na forma da lei, para mandato de 4 (quatro) anos. ",
@@ -33,7 +33,7 @@
     },
     {
         "id": "2",
-        "page_content": "Art. 2. A Assembleia Legislativa do Rio Grande do Norte, com sede na cidade do Natal, funciona no Palácio \"José Augusto\". § 1. No Palácio \"José Augusto\", não serão realizados atos estranhos à Assembleia sem autorização da Mesa. § 2. Havendo motivo relevante, a Assembleia Legislativa poderá, por iniciativa da Mesa, com a aprovação da maioria absoluta dos Deputados, reunir-se em outro edifício ou em ponto diverso no território norte-rio-grandense.",
+        "page_content": 'Art. 2. A Assembleia Legislativa do Rio Grande do Norte, com sede na cidade do Natal, funciona no Palácio "José Augusto". § 1. No Palácio "José Augusto", não serão realizados atos estranhos à Assembleia sem autorização da Mesa. § 2. Havendo motivo relevante, a Assembleia Legislativa poderá, por iniciativa da Mesa, com a aprovação da maioria absoluta dos Deputados, reunir-se em outro edifício ou em ponto diverso no território norte-rio-grandense.',
         "metadata": {
             "autor": "Assembleia Legislativa do Rio Grande do Norte - ALERN",
             "fonte": "https://www.al.rn.leg.br/regimento-interno/Regimento_Interno_ALRN_junho_2024_DL.pdf",
@@ -42,12 +42,12 @@
         },
         "perguntas": [
             {
-                "pergunta": "Em que cidade o Palácio \"José Augusto\" está localizado?",
+                "pergunta": 'Em que cidade o Palácio "José Augusto" está localizado?',
                 "resposta": "cidade do Natal"
             },
             {
                 "pergunta": "Onde a Assembleia Legislativa reúne para funcionar?",
-                "resposta": "Palácio \"José Augusto\""
+                "resposta": 'Palácio "José Augusto"'
             },
             {
                 "pergunta": "Em que edifício a Assembleia pode se reunir, conforme estabelece o artigo 2?",
@@ -123,7 +123,7 @@
             },
             {
                 "pergunta": "Por que o artigo foi alterado pela Resolução nº 38 de 19 de agosto de 2021?",
-                "resposta": "para dar uma nova redação ao Art. 4."
+                "resposta": "para dar uma nova redação ao Art. 4."  
             }
         ]
     },
@@ -285,7 +285,7 @@
     },
     {
         "id": "10",
-        "page_content": "Art. 7. No dia 1º de fevereiro do primeiro ano de cada legislatura, mediante convocação do Presidente, a partir das 10h30min (dez horas e trinta minutos), em horário por ele designado, os candidatos diplomados Deputados Estaduais reunir-se-ão em sessão preparatória, na sede da Assembleia Legislativa. (Redação dada pela Resolução nº 38, de 19 de agosto de 2021) § 1. Assumirá a direção dos trabalhos o último Presidente, se reeleito Deputado, na sua falta, qualquer membro da Mesa da legislatura passada, se reeleito, segundo a ordem de precedência dos cargos ou, finalmente, o Deputado mais idoso, dentre os de maior número de legislaturas. \"Prometo desempenhar fiel e lealmente o mandato que me foi confiado, manter, defender e cumprir as Constituições da República e do Estado, observar as leis, promover o bem geral do povo norte-rio-grandense e sustentar a união, a integridade e a independência do Brasil, assim como a autonomia do Estado do Rio Grande do Norte\" II - O 1º Secretário fará a chamada nominal, ao que o Deputado levantar-se-á e, com o braço direito erguido, dirá \"Assim o prometo\", permanecendo os demais Deputados sentados e em silêncio. § 4. O conteúdo do compromisso e o ritual de sua prestação não poderão ser modificados",
+        "page_content": 'Art. 7. No dia 1º de fevereiro do primeiro ano de cada legislatura, mediante convocação do Presidente, a partir das 10h30min (dez horas e trinta minutos), em horário por ele designado, os candidatos diplomados Deputados Estaduais reunir-se-ão em sessão preparatória, na sede da Assembleia Legislativa. (Redação dada pela Resolução nº 38, de 19 de agosto de 2021) § 1. Assumirá a direção dos trabalhos o último Presidente, se reeleito Deputado, na sua falta, qualquer membro da Mesa da legislatura passada, se reeleito, segundo a ordem de precedência dos cargos ou, finalmente, o Deputado mais idoso, dentre os de maior número de legislaturas. "Prometo desempenhar fiel e lealmente o mandato que me foi confiado, manter, defender e cumprir as Constituições da República e do Estado, observar as leis, promover o bem geral do povo norte-rio-grandense e sustentar a união, a integridade e a independência do Brasil, assim como a autonomia do Estado do Rio Grande do Norte" II - O 1º Secretário fará a chamada nominal, ao que o Deputado levantar-se-á e, com o braço direito erguido, dirá "Assim o prometo", permanecendo os demais Deputados sentados e em silêncio. § 4. O conteúdo do compromisso e o ritual de sua prestação não poderão ser modificados',
         "metadata": {
             "autor": "Assembleia Legislativa do Rio Grande do Norte - ALERN",
             "fonte": "https://www.al.rn.leg.br/regimento-interno/Regimento_Interno_ALRN_junho_2024_DL.pdf",
@@ -356,32 +356,7 @@
             "subtitulo": "Art. 7 - 6",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quando os candidatos diplomados Deputados Estaduais devem reunir-se em sessão preparatória?",
-                "resposta": "No dia 1º de fevereiro do primeiro ano de cada legislatura, mediante convocação do Presidente, a partir das 10h30min (dez horas e trinta minutos)"
-            },
-            {
-                "pergunta": "Quem assume a direção dos trabalhos na sessão preparatória?",
-                "resposta": "O último Presidente"
-            },
-            {
-                "pergunta": "Quem assessorará os Deputados Estaduais",
-                "resposta": "na sua falta, qualquer membro da Mesa da legislatura passada, se reeleito, segundo a ordem de precedência dos cargos ou, finalmente, o Deputado mais idoso, dentre os de maior número de legislaturas."
-            },
-            {
-                "pergunta": "Em que período é dispensa de prestação do compromisso perante a Mesa?",
-                "resposta": "exceto durante período de recesso da Assembleia Legislativa"
-            },
-            {
-                "pergunta": "Qual o prazo para posse em dias, contado da primeira sessão preparatória?",
-                "resposta": "30 (trinta) dias"
-            },
-            {
-                "pergunta": "Quais são os motivos que podem alterar a data de posse?",
-                "resposta": "motivo de força maior ou enfermidade devidamente comprovados"
-            }
-        ]
+        "perguntas": [{"pergunta": "Quando os candidatos diplomados Deputados Estaduais devem reunir-se em sessão preparatória?", "resposta": "No dia 1º de fevereiro do primeiro ano de cada legislatura, mediante convocação do Presidente, a partir das 10h30min (dez horas e trinta minutos)"}, {"pergunta": "Quem assume a direção dos trabalhos na sessão preparatória?", "resposta": "O último Presidente" }, {"pergunta": "Quem assessorará os Deputados Estaduais", "resposta": "na sua falta, qualquer membro da Mesa da legislatura passada, se reeleito, segundo a ordem de precedência dos cargos ou, finalmente, o Deputado mais idoso, dentre os de maior número de legislaturas." }, {"pergunta": "Em que período é dispensa de prestação do compromisso perante a Mesa?", "resposta": "exceto durante período de recesso da Assembleia Legislativa" }, {"pergunta": "Qual o prazo para posse em dias, contado da primeira sessão preparatória?", "resposta": "30 (trinta) dias"}, {"pergunta": "Quais são os motivos que podem alterar a data de posse?", "resposta": "motivo de força maior ou enfermidade devidamente comprovados"}]
     },
     {
         "id": "13",
@@ -672,28 +647,7 @@
             "subtitulo": "Art. 13 - 3",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quais são as formalidades para o registro da eleição?",
-                "resposta": "O registro deverá ser apresentado após a posse dos Deputados e até o início da sessão de eleição."
-            },
-            {
-                "pergunta": "Qual é o requisito necessário para que haja a votação na escolha da Mesa?",
-                "resposta": "exigida a presença da maioria absoluta dos Deputados"
-            },
-            {
-                "pergunta": "De que forma será realizada a votação caso não seja possível utilizar o sistema eletrônico de votação?",
-                "resposta": "Far-se-á a eleição por cédulas."
-            },
-            {
-                "pergunta": "Quais são os requisitos necessários para a escolha da Mesa?",
-                "resposta": "exigida a presença da maioria absoluta dos Deputados e observadas as seguintes exigências"
-            },
-            {
-                "pergunta": "Qual é o sistema utilizado em caso de votação na escolha da Mesa?",
-                "resposta": "sistema eletrônico de votação"
-            }
-        ]
+        "perguntas": [{"pergunta": "Quais são as formalidades para o registro da eleição?", "resposta": "O registro deverá ser apresentado após a posse dos Deputados e até o início da sessão de eleição."}, {"pergunta": "Qual é o requisito necessário para que haja a votação na escolha da Mesa?", "resposta": "exigida a presença da maioria absoluta dos Deputados"}, {"pergunta": "De que forma será realizada a votação caso não seja possível utilizar o sistema eletrônico de votação?", "resposta": "Far-se-á a eleição por cédulas."}, {"pergunta": "Quais são os requisitos necessários para a escolha da Mesa?", "resposta": "exigida a presença da maioria absoluta dos Deputados e observadas as seguintes exigências"}, {"pergunta": "Qual é o sistema utilizado em caso de votação na escolha da Mesa?", "resposta": "sistema eletrônico de votação"}]
     },
     {
         "id": "23",
@@ -796,32 +750,7 @@
             "subtitulo": "Art. 15 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quando ocorre a eleição para os demais cargos da Mesa?",
-                "resposta": "proceder-se-á a eleição para os demais cargos da Mesa, na mesma ou em sessão do dia seguinte."
-            },
-            {
-                "pergunta": "O que acontece com o registro se uma bancada quiser alterar? ",
-                "resposta": "os registros podem ser alterados, a requerimento das bancadas, desde que seja feita comunicação ao Presidente até 1 (uma) hora após o encerramento da sessão que o elegeu;"
-            },
-            {
-                "pergunta": "Como ocorrem as eleições?",
-                "resposta": "as eleições se farão com cédulas uninominais, contendo a indicação do cargo a preencher"
-            },
-            {
-                "pergunta": "De que forma serão colocadas as cédulas para o voto? ",
-                "resposta": "as cédulas, para os diversos cargos, serão todas colocadas, por cada votante, numa mesma sobrecarta;"
-            },
-            {
-                "pergunta": "O que acontece com a apuração?",
-                "resposta": "a apuração será única para todos os cargos, separando-se as cédulas correspondentes a cada um, e assim proclamando-se os resultados;"
-            },
-            {
-                "pergunta": "Quais são as condições para novo escrutínio? ",
-                "resposta": "só para o cargo, com relação ao qual nenhum dos candidatos obtiver maioria absoluta,"
-            }
-        ]
+        "perguntas": [{"pergunta": "Quando ocorre a eleição para os demais cargos da Mesa?", "resposta": "proceder-se-á a eleição para os demais cargos da Mesa, na mesma ou em sessão do dia seguinte."},{"pergunta": "O que acontece com o registro se uma bancada quiser alterar? ", "resposta": "os registros podem ser alterados, a requerimento das bancadas, desde que seja feita comunicação ao Presidente até 1 (uma) hora após o encerramento da sessão que o elegeu;"}, {"pergunta": "Como ocorrem as eleições?", "resposta": "as eleições se farão com cédulas uninominais, contendo a indicação do cargo a preencher"}, {"pergunta": "De que forma serão colocadas as cédulas para o voto? ", "resposta": "as cédulas, para os diversos cargos, serão todas colocadas, por cada votante, numa mesma sobrecarta;"},{"pergunta": "O que acontece com a apuração?", "resposta": "a apuração será única para todos os cargos, separando-se as cédulas correspondentes a cada um, e assim proclamando-se os resultados;"}, {"pergunta": "Quais são as condições para novo escrutínio? ", "resposta": "só para o cargo, com relação ao qual nenhum dos candidatos obtiver maioria absoluta,"}]
     },
     {
         "id": "27",
@@ -864,28 +793,7 @@
             "subtitulo": "Art. 17 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Qual é a data para a sessão solene de abertura da Sessão Legislativa Ordinária?",
-                "resposta": "o dia 2 de fevereiro, ou para o primeiro dia útil subsequente"
-            },
-            {
-                "pergunta": "Quem convocará anualmente para a sessão solene de abertura da Sessão Legislativa Ordinária?",
-                "resposta": "O Presidente"
-            },
-            {
-                "pergunta": "Em que horário será realizada a sessão solene de abertura da Sessão Legislativa Ordinária?",
-                "resposta": "em horário por ele designado"
-            },
-            {
-                "pergunta": "Quais documentos o Governador do Estado remeterá ao Presidente?",
-                "resposta": "mensagem anual e plano de governo"
-            },
-            {
-                "pergunta": "Onde será lido os documento mensagens anual e plano de governo, caso o Governador assim desejar?",
-                "resposta": "em Plenário"
-            }
-        ]
+        "perguntas": [{"pergunta": "Qual é a data para a sessão solene de abertura da Sessão Legislativa Ordinária?", "resposta": "o dia 2 de fevereiro, ou para o primeiro dia útil subsequente"},{"pergunta": "Quem convocará anualmente para a sessão solene de abertura da Sessão Legislativa Ordinária?", "resposta": "O Presidente"},{"pergunta": "Em que horário será realizada a sessão solene de abertura da Sessão Legislativa Ordinária?", "resposta": "em horário por ele designado"},{"pergunta": "Quais documentos o Governador do Estado remeterá ao Presidente?", "resposta": "mensagem anual e plano de governo"},{"pergunta": "Onde será lido os documento mensagens anual e plano de governo, caso o Governador assim desejar?", "resposta": "em Plenário"}]
     },
     {
         "id": "29",
@@ -1073,35 +981,14 @@
     },
     {
         "id": "35",
-        "page_content": "Art. 24. No âmbito da Assembleia Legislativa poderá ser constituída \"Frente Parlamentar\", associação suprapartidária, destinada a promover o aprimoramento de legislação estadual e de políticas públicas sobre determinado setor da sociedade. § 1. Poderão funcionar concomitantemente em cada legislatura, no máximo, o dobro do número de Comissões Permanentes. (REVOGADO pela Resolução nº 74, de 10 de junho de 2024) I § 2. As Frentes Parlamentares não poderão versar sobre matéria objeto das Comissões Permanentes. (REVOGADO pela Resolução nº 70, de 21 de março de 2024)",
+        "page_content": 'Art. 24. No âmbito da Assembleia Legislativa poderá ser constituída "Frente Parlamentar", associação suprapartidária, destinada a promover o aprimoramento de legislação estadual e de políticas públicas sobre determinado setor da sociedade. § 1. Poderão funcionar concomitantemente em cada legislatura, no máximo, o dobro do número de Comissões Permanentes. (REVOGADO pela Resolução nº 74, de 10 de junho de 2024) I § 2. As Frentes Parlamentares não poderão versar sobre matéria objeto das Comissões Permanentes. (REVOGADO pela Resolução nº 70, de 21 de março de 2024)',
         "metadata": {
             "autor": "Assembleia Legislativa do Rio Grande do Norte - ALERN",
             "fonte": "https://www.al.rn.leg.br/regimento-interno/Regimento_Interno_ALRN_junho_2024_DL.pdf",
             "subtitulo": "Art. 24 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "O que é a Frente Parlamentar?",
-                "resposta": "associação suprapartidária, destinada a promover o aprimoramento de legislação estadual e de políticas públicas sobre determinado setor da sociedade."
-            },
-            {
-                "pergunta": "Quando pode ser constituída a Frente Parlamentar?",
-                "resposta": "No âmbito da Assembleia Legislativa poderá ser constituída"
-            },
-            {
-                "pergunta": "Quantas Frentes Parlamentares podem funcionar em cada legislatura?",
-                "resposta": "Poderão funcionar concomitantemente em cada legislatura, no máximo, o dobro do número de Comissões Permanentes."
-            },
-            {
-                "pergunta": "Quais são as matérias que não podem ser versadas pelas Frentes Parlamentares?",
-                "resposta": "As Frentes Parlamentares não poderão versar sobre matéria objeto das Comissões Permanentes"
-            },
-            {
-                "pergunta": "Em qual ano foi revogada a parte do parágrafo 2 da seção I do artigo 24?",
-                "resposta": "2024"
-            }
-        ]
+        "perguntas": [{"pergunta": "O que é a Frente Parlamentar?", "resposta": "associação suprapartidária, destinada a promover o aprimoramento de legislação estadual e de políticas públicas sobre determinado setor da sociedade."}, {"pergunta": "Quando pode ser constituída a Frente Parlamentar?", "resposta": "No âmbito da Assembleia Legislativa poderá ser constituída"}, {"pergunta": "Quantas Frentes Parlamentares podem funcionar em cada legislatura?", "resposta": "Poderão funcionar concomitantemente em cada legislatura, no máximo, o dobro do número de Comissões Permanentes."}, {"pergunta": "Quais são as matérias que não podem ser versadas pelas Frentes Parlamentares?", "resposta": "As Frentes Parlamentares não poderão versar sobre matéria objeto das Comissões Permanentes"}, {"pergunta": "Em qual ano foi revogada a parte do parágrafo 2 da seção I do artigo 24?", "resposta": "2024"}]
     },
     {
         "id": "36",
@@ -1396,48 +1283,7 @@
             "subtitulo": "Art. 34 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quais são as atribuições estabelecidas na Constituição Estadual, em lei, no Regimento e por resolução da Assembleia Legislativa?",
-                "resposta": "Compete à Mesa, dentre outras atribuições estabelecidas na Constituição Estadual, em lei, neste Regimento ou por resolução da Assembleia Legislativa, ou delas implicitamente resultantes"
-            },
-            {
-                "pergunta": "O que a Mesa deve fazer durante as sessões legislativas e nos seus interregnos?",
-                "resposta": "dirigir todos os serviços da Casa durante as sessões legislativas e nos seus interregnos"
-            },
-            {
-                "pergunta": "Quais são as medidas necessárias à regularidade dos trabalhos legislativos que a Mesa deve tomar?",
-                "resposta": "tomar as providências necessárias à regularidade dos trabalhos legislativos"
-            },
-            {
-                "pergunta": "A qual área a Mesa pode dar parecer em todas as proposições?",
-                "resposta": "toda a área administrativa da Assembleia, ou alterem este Regimento"
-            },
-            {
-                "pergunta": "Quais são os tipos de penalidades que podem ser aplicadas aos Deputados pela Mesa?",
-                "resposta": "nos limites da competência estabelecida neste Registo"
-            },
-            {
-                "pergunta": "Pode a Mesa conceder licença aos Deputados?",
-                "resposta": "Sim, pode conceder licença aos Deputados"
-            },
-            {
-                "pergunta": "A que órgão a Mesa deve representar quando a imposição da pena for da competência do Plenário?",
-                "resposta": "ao Plenário"
-            },
-            {
-                "pergunta": "Quando ocorre a perda de mandato de Deputado, o que a Mesa deve fazer?",
-                "resposta": "declarar a perda de mandato de Deputado"
-            },
-            {
-                "pergunta": "Pode a Mesa encaminhar pedidos de informações ao Poder Executivo?",
-                "resposta": "Sim, pode encaminhar pedidos de informações ao Poder Executivo"
-            },
-            {
-                "pergunta": "O que a Mesa deve fazer com os pedidos de informações não atendidos pelo Poder Executivo?",
-                "resposta": "apurando, de ofício, a responsabilidade pelo não atendimento"
-            }
-        ]
+        "perguntas": [{"pergunta": "Quais são as atribuições estabelecidas na Constituição Estadual, em lei, no Regimento e por resolução da Assembleia Legislativa?", "resposta": "Compete à Mesa, dentre outras atribuições estabelecidas na Constituição Estadual, em lei, neste Regimento ou por resolução da Assembleia Legislativa, ou delas implicitamente resultantes"}, {"pergunta": "O que a Mesa deve fazer durante as sessões legislativas e nos seus interregnos?", "resposta": "dirigir todos os serviços da Casa durante as sessões legislativas e nos seus interregnos"} , {"pergunta": "Quais são as medidas necessárias à regularidade dos trabalhos legislativos que a Mesa deve tomar?", "resposta": "tomar as providências necessárias à regularidade dos trabalhos legislativos"}, {"pergunta": "A qual área a Mesa pode dar parecer em todas as proposições?", "resposta": "toda a área administrativa da Assembleia, ou alterem este Regimento"}, {"pergunta": "Quais são os tipos de penalidades que podem ser aplicadas aos Deputados pela Mesa?", "resposta": "nos limites da competência estabelecida neste Registo"} , {"pergunta": "Pode a Mesa conceder licença aos Deputados?", "resposta": "Sim, pode conceder licença aos Deputados"}, {"pergunta": "A que órgão a Mesa deve representar quando a imposição da pena for da competência do Plenário?", "resposta": "ao Plenário"} , {"pergunta": "Quando ocorre a perda de mandato de Deputado, o que a Mesa deve fazer?", "resposta": "declarar a perda de mandato de Deputado"}, {"pergunta": "Pode a Mesa encaminhar pedidos de informações ao Poder Executivo?", "resposta": "Sim, pode encaminhar pedidos de informações ao Poder Executivo"} , {"pergunta": "O que a Mesa deve fazer com os pedidos de informações não atendidos pelo Poder Executivo?", "resposta": "apurando, de ofício, a responsabilidade pelo não atendimento"}]
     },
     {
         "id": "46",
@@ -1473,7 +1319,7 @@
     },
     {
         "id": "47",
-        "page_content": "Art. 34. Compete à Mesa, dentre outras atribuições estabelecidas na Constituição Estadual, em lei, neste Regimento ou por resolução da Assembleia Legislativa, ou delas implicitamente resultantes XVII - promover ou adotar as providências necessárias para cumprimento de decisão judicial tomada em decorrência da alínea \"g\" do inciso I do art. 71 e seu § 4., da Constituição do Estado, quando se tratar de atribuição de sua alçada ou da competência legislativa da Assembleia",
+        "page_content": 'Art. 34. Compete à Mesa, dentre outras atribuições estabelecidas na Constituição Estadual, em lei, neste Regimento ou por resolução da Assembleia Legislativa, ou delas implicitamente resultantes XVII - promover ou adotar as providências necessárias para cumprimento de decisão judicial tomada em decorrência da alínea "g" do inciso I do art. 71 e seu § 4., da Constituição do Estado, quando se tratar de atribuição de sua alçada ou da competência legislativa da Assembleia',
         "metadata": {
             "autor": "Assembleia Legislativa do Rio Grande do Norte - ALERN",
             "fonte": "https://www.al.rn.leg.br/regimento-interno/Regimento_Interno_ALRN_junho_2024_DL.pdf",
@@ -1512,28 +1358,7 @@
             "subtitulo": "Art. 34 - 4",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quais são as atribuições da Mesa?",
-                "resposta": "Compete à Mesa, dentre outras atribuições estabelecidas na Constituição Estadual, em lei, neste Regimento ou por resolução da Assembleia Legislativa, ou delas implicitamente resultantes"
-            },
-            {
-                "pergunta": "Qual é a competência da mesa relacionada à organização?",
-                "resposta": "propor, privativamente, à Assembleia Legislativa proposições disponso sobre sua organização, funcionamento, polícia e serviços administrativos,"
-            },
-            {
-                "pergunta": "Quais são as atribuições da Mesa em relação a cargos e funções?",
-                "resposta": "criação, transformação ou extinção de cargos, empregos e funções e fixação da respectiva remuneração"
-            },
-            {
-                "pergunta": "O que diz o artigo sobre a remuneração dos servidores?",
-                "resposta": "tomar a iniciativa de propor à Assembleia projeto de lei para a fixação da remuneração dos servidores de seu quadro de pessoal,"
-            },
-            {
-                "pergunta": "Quais são as limitações na fixação de remuneração dos servidores?",
-                "resposta": "observados os parâmetros estabelecidos na lei de diretrizes orçamentárias"
-            }
-        ]
+        "perguntas": [{"pergunta": "Quais são as atribuições da Mesa?", "resposta": "Compete à Mesa, dentre outras atribuições estabelecidas na Constituição Estadual, em lei, neste Regimento ou por resolução da Assembleia Legislativa, ou delas implicitamente resultantes"},{"pergunta": "Qual é a competência da mesa relacionada à organização?", "resposta": "propor, privativamente, à Assembleia Legislativa proposições disponso sobre sua organização, funcionamento, polícia e serviços administrativos,"},{"pergunta": "Quais são as atribuições da Mesa em relação a cargos e funções?", "resposta": "criação, transformação ou extinção de cargos, empregos e funções e fixação da respectiva remuneração"},{"pergunta": "O que diz o artigo sobre a remuneração dos servidores?", "resposta": "tomar a iniciativa de propor à Assembleia projeto de lei para a fixação da remuneração dos servidores de seu quadro de pessoal,"},{"pergunta": "Quais são as limitações na fixação de remuneração dos servidores?", "resposta": "observados os parâmetros estabelecidos na lei de diretrizes orçamentárias"}]
     },
     {
         "id": "49",
@@ -1840,32 +1665,7 @@
             "subtitulo": "Art. 36 - 5",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quais são as atribuições do Presidente?",
-                "resposta": "São atribuições do Presidente, além das que estão expressas neste Regimento, ou decorram da natureza de suas funções e prerrogativas"
-            },
-            {
-                "pergunta": "Qual é a função do Presidente no pedido de instalação de processo nos crimes de responsabilidade?",
-                "resposta": "fazer o juízo de prelibação dos pedidos de instalação de processo nos crimes de responsabilidade das autoridades descritas no Capítulo VI do Título V deste Regimento"
-            },
-            {
-                "pergunta": "O que o Presidente faz com os requerimentos?",
-                "resposta": "despachar requerimentos"
-            },
-            {
-                "pergunta": "Quais são as ações do Presidente em relação ao arquivamento de processos?",
-                "resposta": "determinar o seu arquivamento ou desarquivamento, nos termos regimentais"
-            },
-            {
-                "pergunta": "Qual é a função do Presidente no cumprimento dos prazos regimentais de tramitação?",
-                "resposta": "velar pelo cumprimento dos prazos regimentais de tramitação"
-            },
-            {
-                "pergunta": "O que acontece com as proposições que incorrem em determinado erro?",
-                "resposta": "devolver ao Autor a proposição que incorra no disposto no § 1. do art. 227"
-            }
-        ]
+        "perguntas": [{"pergunta": "Quais são as atribuições do Presidente?", "resposta": "São atribuições do Presidente, além das que estão expressas neste Regimento, ou decorram da natureza de suas funções e prerrogativas"},{"pergunta": "Qual é a função do Presidente no pedido de instalação de processo nos crimes de responsabilidade?", "resposta": "fazer o juízo de prelibação dos pedidos de instalação de processo nos crimes de responsabilidade das autoridades descritas no Capítulo VI do Título V deste Regimento"},{"pergunta": "O que o Presidente faz com os requerimentos?", "resposta": "despachar requerimentos"},{"pergunta": "Quais são as ações do Presidente em relação ao arquivamento de processos?", "resposta": "determinar o seu arquivamento ou desarquivamento, nos termos regimentais"},{"pergunta": "Qual é a função do Presidente no cumprimento dos prazos regimentais de tramitação?", "resposta": "velar pelo cumprimento dos prazos regimentais de tramitação"},{"pergunta": "O que acontece com as proposições que incorrem em determinado erro?", "resposta": "devolver ao Autor a proposição que incorra no disposto no § 1. do art. 227"}]
     },
     {
         "id": "59",
@@ -1940,28 +1740,7 @@
             "subtitulo": "Art. 36 - 8",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quais são as atribuições do Presidente da Câmara dos Deputados?",
-                "resposta": "São atribuições do Presidente, além das que estão expressas neste Regimento, ou decorram da natureza de suas funções e prerrogativas"
-            },
-            {
-                "pergunta": "Quando o Presidente pode designar um Deputado para oferecer parecer oral em substituição à Comissão?",
-                "resposta": "quando esta não o fizer no prazo regimental, nem o designar o Presidente da Comissão faltosa"
-            },
-            {
-                "pergunta": "O que o Presidente pode fazer se a Comissão não cumprir com um determinado prazo?",
-                "resposta": "o Presidente pode designar um Deputado para oferecer parecer oral em substituição à Comissão, quando esta não o fizer no prazo regimental"
-            },
-            {
-                "pergunta": "Quais são as situações que permitem ao Presidente convidar o Relator ou outro membro da Comissão?",
-                "resposta": "para esclarecimento de parecer"
-            },
-            {
-                "pergunta": "O que é a prerrogativa do Presidente para convocar as Comissões Permanentes?",
-                "resposta": "para a eleição dos respectivos Presidentes e Vice-Presidentes, em dia e hora que designar"
-            }
-        ]
+        "perguntas": [{  "pergunta": "Quais são as atribuições do Presidente da Câmara dos Deputados?",  "resposta": "São atribuições do Presidente, além das que estão expressas neste Regimento, ou decorram da natureza de suas funções e prerrogativas"},{  "pergunta": "Quando o Presidente pode designar um Deputado para oferecer parecer oral em substituição à Comissão?",  "resposta": "quando esta não o fizer no prazo regimental, nem o designar o Presidente da Comissão faltosa"},{  "pergunta": "O que o Presidente pode fazer se a Comissão não cumprir com um determinado prazo?",  "resposta": "o Presidente pode designar um Deputado para oferecer parecer oral em substituição à Comissão, quando esta não o fizer no prazo regimental"},{  "pergunta": "Quais são as situações que permitem ao Presidente convidar o Relator ou outro membro da Comissão?",  "resposta": "para esclarecimento de parecer"},{  "pergunta": "O que é a prerrogativa do Presidente para convocar as Comissões Permanentes?",  "resposta": "para a eleição dos respectivos Presidentes e Vice-Presidentes, em dia e hora que designar"}]
     },
     {
         "id": "62",
@@ -2044,28 +1823,7 @@
             "subtitulo": "Art. 36 - 11",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quais são as atribuições do Presidente, além das expressas no Regimento?",
-                "resposta": "além das que estão expressas neste Regimento,"
-            },
-            {
-                "pergunta": "Que é zelar pelo prestígio e decoro da Assembleia?",
-                "resposta": "zelar pelo prestígio e decoro da Assembleia,"
-            },
-            {
-                "pergunta": "Quais são os objetivos do Presidente em relação à dignidade dos membros da Assembleia?",
-                "resposta": "pela dignidade e respeito às prerrogativas constitucionais de seus membros,"
-            },
-            {
-                "pergunta": "O que é dirigir a polícia da Assembleia?",
-                "resposta": "dirigir, com suprema autoridade, a polícia da Assembleia"
-            },
-            {
-                "pergunta": "De acordo com o Regimento, qual é a natureza de funções e prerrogativas do Presidente?",
-                "resposta": "ou decorram da natureza de suas funções e prerrogativas"
-            }
-        ]
+        "perguntas": [{"pergunta": "Quais são as atribuições do Presidente, além das expressas no Regimento?", "resposta": "além das que estão expressas neste Regimento,"},{"pergunta": "Que é zelar pelo prestígio e decoro da Assembleia?", "resposta": "zelar pelo prestígio e decoro da Assembleia,"},{"pergunta": "Quais são os objetivos do Presidente em relação à dignidade dos membros da Assembleia?", "resposta": "pela dignidade e respeito às prerrogativas constitucionais de seus membros,"},{"pergunta": "O que é dirigir a polícia da Assembleia?", "resposta": "dirigir, com suprema autoridade, a polícia da Assembleia" },{"pergunta": "De acordo com o Regimento, qual é a natureza de funções e prerrogativas do Presidente?", "resposta": "ou decorram da natureza de suas funções e prerrogativas"}]
     },
     {
         "id": "65",
@@ -2337,7 +2095,7 @@
     },
     {
         "id": "74",
-        "page_content": "Art. 38-A. As competências do Presidente no âmbito dos processos de licitações e contratações, previstas no art. 36, § 7., \"a\" e \"b\", poderão ser delegadas ao Diretor-Geral, na forma do art. 60, I, da Resolução nº 090, de 12 de dezembro de 2017. (Incluído pela Resolução nº 06, de 21 de março de 2023)",
+        "page_content": 'Art. 38-A. As competências do Presidente no âmbito dos processos de licitações e contratações, previstas no art. 36, § 7., "a" e "b", poderão ser delegadas ao Diretor-Geral, na forma do art. 60, I, da Resolução nº 090, de 12 de dezembro de 2017. (Incluído pela Resolução nº 06, de 21 de março de 2023)',
         "metadata": {
             "autor": "Assembleia Legislativa do Rio Grande do Norte - ALERN",
             "fonte": "https://www.al.rn.leg.br/regimento-interno/Regimento_Interno_ALRN_junho_2024_DL.pdf",
@@ -2351,7 +2109,7 @@
             },
             {
                 "pergunta": "Quais as competências delegáveis ao Diretor-Geral?",
-                "resposta": "\"a\" e \"b\", previstas no art. 36, § 7."
+                "resposta": '"a" e "b", previstas no art. 36, § 7.'
             },
             {
                 "pergunta": "Em qual resolução está prevista a delegação de competência?",
@@ -2408,28 +2166,7 @@
             "subtitulo": "Art. 40 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quais são as competências do Primeiro Secretário?",
-                "resposta": "I - ao Primeiro Secretário a) ler em Plenário o resumo da correspondência recebida pela Assembleia, despachando-a b) ler em Plenário, na íntegra, as mensagens e os ofícios recebidos dos demais Poderes do Estado, bem como do Tribunal de Contas e do Procurador-Geral de Justiça, e a súmula das proposições em geral c) assinar a correspondência da Assembleia, exceto aquela que deva ser assinada pelo Presidente, e fornecer certidões sobre matéria legislativa em trâmite ou constante do arquivo, visando as de caráter administrativo d) supervisionar a elaboração das atas e revisá-las (Redação dada pela Resolução nº 38, de 19 de agosto de 2021)"
-            },
-            {
-                "pergunta": "Qual é o papel do Primeiro Secretário na supervisão da elaboração das atas?",
-                "resposta": "supervisionar a elaboração das atas e revisá-las (Redação dada pela Resolução nº 38, de 19 de agosto de 2021)"
-            },
-            {
-                "pergunta": "Quais são as competências do Primeiro Secretário na área de correspondência?",
-                "resposta": "I - ao Primeiro Secretário a) ler em Plenário o resumo da correspondência recebida pela Assembleia, despachando-a b) ler em Plenário, na íntegra, as mensagens e os ofícios recebidos dos demais Poderes do Estado, bem como do Tribunal de Contas e do Procurador-Geral de Justiça, e a súmula das proposições em geral c) assinar a correspondência da Assembleia, exceto aquela que deva ser assinada pelo Presidente, e fornecer certidões sobre matéria legislativa em trâmite ou constante do arquivo, visando as de caráter administrativo"
-            },
-            {
-                "pergunta": "Quais são as responsabilidades do Primeiro Secretário no processo de votação?",
-                "resposta": "f) proceder à chamada dos Deputados para a votação ou verificação de quórum, depois da determinação do Presidente g) comunicar ao Presidente o resultado da chamada"
-            },
-            {
-                "pergunta": "Quais são as competências do Primeiro Secretário na área de certidão?",
-                "resposta": "c) assinar a correspondência da Assembleia, exceto aquela que deva ser assinada pelo Presidente, e fornecer certidões sobre matéria legislativa em trâmite ou constante do arquivo, visando as de caráter administrativo"
-            }
-        ]
+        "perguntas": [{"pergunta": "Quais são as competências do Primeiro Secretário?", "resposta": "I - ao Primeiro Secretário a) ler em Plenário o resumo da correspondência recebida pela Assembleia, despachando-a b) ler em Plenário, na íntegra, as mensagens e os ofícios recebidos dos demais Poderes do Estado, bem como do Tribunal de Contas e do Procurador-Geral de Justiça, e a súmula das proposições em geral c) assinar a correspondência da Assembleia, exceto aquela que deva ser assinada pelo Presidente, e fornecer certidões sobre matéria legislativa em trâmite ou constante do arquivo, visando as de caráter administrativo d) supervisionar a elaboração das atas e revisá-las (Redação dada pela Resolução nº 38, de 19 de agosto de 2021)"},{"pergunta": "Qual é o papel do Primeiro Secretário na supervisão da elaboração das atas?", "resposta": "supervisionar a elaboração das atas e revisá-las (Redação dada pela Resolução nº 38, de 19 de agosto de 2021)"},{"pergunta": "Quais são as competências do Primeiro Secretário na área de correspondência?", "resposta": "I - ao Primeiro Secretário a) ler em Plenário o resumo da correspondência recebida pela Assembleia, despachando-a b) ler em Plenário, na íntegra, as mensagens e os ofícios recebidos dos demais Poderes do Estado, bem como do Tribunal de Contas e do Procurador-Geral de Justiça, e a súmula das proposições em geral c) assinar a correspondência da Assembleia, exceto aquela que deva ser assinada pelo Presidente, e fornecer certidões sobre matéria legislativa em trâmite ou constante do arquivo, visando as de caráter administrativo"},{"pergunta": "Quais são as responsabilidades do Primeiro Secretário no processo de votação?", "resposta": "f) proceder à chamada dos Deputados para a votação ou verificação de quórum, depois da determinação do Presidente g) comunicar ao Presidente o resultado da chamada"},{"pergunta": "Quais são as competências do Primeiro Secretário na área de certidão?", "resposta": "c) assinar a correspondência da Assembleia, exceto aquela que deva ser assinada pelo Presidente, e fornecer certidões sobre matéria legislativa em trâmite ou constante do arquivo, visando as de caráter administrativo"}]
     },
     {
         "id": "77",
@@ -2568,32 +2305,7 @@
             "subtitulo": "Art. 42 - 3",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quem faz parte do Colégio de Líderes?",
-                "resposta": "O Presidente da Assembleia, os Líderes da Maioria, da Minoria e das bancadas constituem o Colégio de Líderes"
-            },
-            {
-                "pergunta": "Como é convocado o Colégio de Líderes quando for necessária uma reunião extraordinária?",
-                "resposta": "sempre que convocado por este ou pela maioria absoluta de seus membros"
-            },
-            {
-                "pergunta": "Quem preside o Colégio de Líderes?",
-                "resposta": "O Presidente da Assembleia"
-            },
-            {
-                "pergunta": "O que acontece com a Ordem do Dia se for convocada uma reunião do Colégio de Líderes?",
-                "resposta": "A Ordem do Dia não poderá ser adiada, suspensa ou prorrogada."
-            },
-            {
-                "pergunta": "Para quais casos o Colégio de Líderes pode dispensar a exigência da leitura da proposição no expediente?",
-                "resposta": "Observada a exceção prevista no § 1. do art. 223"
-            },
-            {
-                "pergunta": "Qual é o sistema onde a disponibilização das propostas principais e emendas deve ser realizada pelo Colégio de Líderes antes da inclusão na Ordem do Dia?",
-                "resposta": "no sistema eletrônico"
-            }
-        ]
+        "perguntas": [{"pergunta": "Quem faz parte do Colégio de Líderes?", "resposta": "O Presidente da Assembleia, os Líderes da Maioria, da Minoria e das bancadas constituem o Colégio de Líderes"},{"pergunta": "Como é convocado o Colégio de Líderes quando for necessária uma reunião extraordinária?", "resposta": "sempre que convocado por este ou pela maioria absoluta de seus membros"},{"pergunta": "Quem preside o Colégio de Líderes?", "resposta": "O Presidente da Assembleia"},{"pergunta": "O que acontece com a Ordem do Dia se for convocada uma reunião do Colégio de Líderes?", "resposta": "A Ordem do Dia não poderá ser adiada, suspensa ou prorrogada."},{"pergunta": "Para quais casos o Colégio de Líderes pode dispensar a exigência da leitura da proposição no expediente?", "resposta": "Observada a exceção prevista no § 1. do art. 223"},{"pergunta": "Qual é o sistema onde a disponibilização das propostas principais e emendas deve ser realizada pelo Colégio de Líderes antes da inclusão na Ordem do Dia?", "resposta": "no sistema eletrônico"}]
     },
     {
         "id": "82",
@@ -2964,28 +2676,7 @@
             "subtitulo": "Art. 53 - 2",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Qual é o órgão responsável por examinar as condutas dos Deputados?",
-                "resposta": "O Conselho de Ética e Decoro Parlamentar."
-            },
-            {
-                "pergunta": "Quais são os objetivos do Conselho de Ética e Decoro Parlamentar?",
-                "resposta": "zelar pela observância dos preceitos deste Regimento Interno, na preservação da dignidade do mandato parlamentar no Poder Legislativo."
-            },
-            {
-                "pergunta": "Quais são as condições para a composição do Conselho de Ética e Decoro Parlamentar?",
-                "resposta": "5 deputados, sendo 3 (três) titulares e 2 (dois) suplentes, todos indicados pelo Presidente da Assembleia."
-            },
-            {
-                "pergunta": "Quem escolhe os membros do Conselho de Ética e Decoro Parlamentar?",
-                "resposta": "O Presidente da Assembleia."
-            },
-            {
-                "pergunta": "Como são definidas as sessões legislativas para a composição do Conselho de Ética e Decoro Parlamentar?",
-                "resposta": "início da primeira e terceira sessões legislativas."
-            }
-        ]
+        "perguntas": [{"pergunta": "Qual é o órgão responsável por examinar as condutas dos Deputados?", "resposta": "O Conselho de Ética e Decoro Parlamentar."}, {"pergunta": "Quais são os objetivos do Conselho de Ética e Decoro Parlamentar?", "resposta": "zelar pela observância dos preceitos deste Regimento Interno, na preservação da dignidade do mandato parlamentar no Poder Legislativo."}, {"pergunta": "Quais são as condições para a composição do Conselho de Ética e Decoro Parlamentar?", "resposta": "5 deputados, sendo 3 (três) titulares e 2 (dois) suplentes, todos indicados pelo Presidente da Assembleia."}, {"pergunta": "Quem escolhe os membros do Conselho de Ética e Decoro Parlamentar?", "resposta": "O Presidente da Assembleia."}, {"pergunta": "Como são definidas as sessões legislativas para a composição do Conselho de Ética e Decoro Parlamentar?", "resposta": "início da primeira e terceira sessões legislativas."}]
     },
     {
         "id": "95",
@@ -2996,28 +2687,7 @@
             "subtitulo": "Art. 53 - 3",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Qual é o órgão da Assembleia Legislativa competente para examinar as condutas dos Deputados no exercício do mandato?",
-                "resposta": "O Conselho de Ética e Decoro Parlamentar"
-            },
-            {
-                "pergunta": "Para que serve o Código de Ética e Decoro Parlamentar?",
-                "resposta": "para atuar no sentido de zelar pela observância dos preceitos deste Regimento Interno, na preservação da dignidade do mandato parlamentar no Poder Legislativo"
-            },
-            {
-                "pergunta": "Como é designado o Presidente e Vice-Presidente do Conselho de Ética?",
-                "resposta": "Por meio da reunião de eleição dos mesmos, cuja data e hora será designada pelo Presidente da Assembleia Legislativa, conforme § 3. O ato de nomeação dos membros do Conselho será lido em Plenário e publicado no Diário Oficial Eletrônico"
-            },
-            {
-                "pergunta": "Quem não pode ser membro do Conselho de Ética?",
-                "resposta": "O Deputado submetido a processo disciplinar em curso, por ato atentatório ao decoro parlamentar ou com este incompatível"
-            },
-            {
-                "pergunta": "O que o Código de Ética e Decoro Parlamentar integra?",
-                "resposta": "este Regimento Interno"
-            }
-        ]
+        "perguntas": [{"pergunta": "Qual é o órgão da Assembleia Legislativa competente para examinar as condutas dos Deputados no exercício do mandato?", "resposta": "O Conselho de Ética e Decoro Parlamentar"},{"pergunta": "Para que serve o Código de Ética e Decoro Parlamentar?", "resposta": "para atuar no sentido de zelar pela observância dos preceitos deste Regimento Interno, na preservação da dignidade do mandato parlamentar no Poder Legislativo"},{"pergunta": "Como é designado o Presidente e Vice-Presidente do Conselho de Ética?", "resposta": "Por meio da reunião de eleição dos mesmos, cuja data e hora será designada pelo Presidente da Assembleia Legislativa, conforme § 3. O ato de nomeação dos membros do Conselho será lido em Plenário e publicado no Diário Oficial Eletrônico"},{"pergunta": "Quem não pode ser membro do Conselho de Ética?", "resposta": "O Deputado submetido a processo disciplinar em curso, por ato atentatório ao decoro parlamentar ou com este incompatível"},{"pergunta": "O que o Código de Ética e Decoro Parlamentar integra?", "resposta": "este Regimento Interno"}]
     },
     {
         "id": "96",
@@ -3636,28 +3306,7 @@
             "subtitulo": "Art. 62 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quais as atribuições das Comissões Permanentes?",
-                "resposta": "I - discutir e votar as proposições, oferecendo parecer para a deliberação do Plenário II - discutir e votar projeto de lei que propõe o reconhecimento de instituição como de utilidade pública, dispensada a deliberação do Plenário III - realizar audiências públicas com entidades da sociedade civil"
-            },
-            {
-                "pergunta": "A quais as atribuições das demais Comissões?",
-                "resposta": "no que lhes for aplicável"
-            },
-            {
-                "pergunta": "Quais são os procedimentos de discussão e votação para projetos de lei",
-                "resposta": "discutir e votar projeto de lei que propõe o reconhecimento de instituição como de utilidade pública, dispensada a deliberação do Plenário"
-            },
-            {
-                "pergunta": "Em quais casos as Comissões realizam audiências públicas?",
-                "resposta": "realizar audiências públicas com entidades da sociedade civil"
-            },
-            {
-                "pergunta": "Qual é o propósito das audiências públicas",
-                "resposta": ""
-            }
-        ]
+        "perguntas": [{"pergunta": "Quais as atribuições das Comissões Permanentes?","resposta": "I - discutir e votar as proposições, oferecendo parecer para a deliberação do Plenário II - discutir e votar projeto de lei que propõe o reconhecimento de instituição como de utilidade pública, dispensada a deliberação do Plenário III - realizar audiências públicas com entidades da sociedade civil"},{"pergunta": "A quais as atribuições das demais Comissões?","resposta": "no que lhes for aplicável"},{"pergunta": "Quais são os procedimentos de discussão e votação para projetos de lei","resposta": "discutir e votar projeto de lei que propõe o reconhecimento de instituição como de utilidade pública, dispensada a deliberação do Plenário"},{"pergunta": "Em quais casos as Comissões realizam audiências públicas?","resposta": "realizar audiências públicas com entidades da sociedade civil"},{"pergunta": "Qual é o propósito das audiências públicas","resposta": ""}]
     },
     {
         "id": "116",
@@ -3764,28 +3413,7 @@
             "subtitulo": "Art. 62 - 5",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "As diligências determinadas pelas Comissões implicam dilação dos prazos?",
-                "resposta": "As diligências determinadas pelas Comissões ou pelos Relatores não implicam dilação dos prazos."
-            },
-            {
-                "pergunta": "O Plenário da Assembleia pode prorrogar o prazo inicialmente concedido?",
-                "resposta": "A requerimento da Comissão, ou do Relator, o Plenário da Assembleia pode prorrogar o prazo inicialmente concedido por mais outro tanto."
-            },
-            {
-                "pergunta": "As demais comissões podem aplicar o que foi determinado nas outras?",
-                "resposta": "e às demais Comissões, no que lhes for aplicável,"
-            },
-            {
-                "pergunta": "Quem pode requerer a prorrogação do prazo inicialmente concedido?",
-                "resposta": "A requerimento da Comissão, ou do Relator"
-            },
-            {
-                "pergunta": "O Plenário da Assembleia pode aumentar o prazo inicialmente concedido em quanto tempo?",
-                "resposta": "por mais outro tanto"
-            }
-        ]
+        "perguntas": [{"pergunta": "As diligências determinadas pelas Comissões implicam dilação dos prazos?", "resposta": "As diligências determinadas pelas Comissões ou pelos Relatores não implicam dilação dos prazos."},{"pergunta": "O Plenário da Assembleia pode prorrogar o prazo inicialmente concedido?", "resposta": "A requerimento da Comissão, ou do Relator, o Plenário da Assembleia pode prorrogar o prazo inicialmente concedido por mais outro tanto."},{"pergunta": "As demais comissões podem aplicar o que foi determinado nas outras?", "resposta": "e às demais Comissões, no que lhes for aplicável,"},{"pergunta": "Quem pode requerer a prorrogação do prazo inicialmente concedido?", "resposta": "A requerimento da Comissão, ou do Relator"},{"pergunta": "O Plenário da Assembleia pode aumentar o prazo inicialmente concedido em quanto tempo?", "resposta": "por mais outro tanto"}]
     },
     {
         "id": "120",
@@ -3796,28 +3424,7 @@
             "subtitulo": "Art. 62 - 6",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "A quem cabe a atribuição contida no inciso V do artigo?",
-                "resposta": "Às Comissões Permanentes, em razão da matéria de sua competência"
-            },
-            {
-                "pergunta": "As demais comissões podem fazer o que nas matérias de sua competência?",
-                "resposta": "no que lhes for aplicável"
-            },
-            {
-                "pergunta": "A iniciativa individual de Deputado pode propor ao Plenário as providências previstas nos incisos IV e X?",
-                "resposta": "sim, também"
-            },
-            {
-                "pergunta": "As comissões têm poder para fazer o quê nas matérias de sua competência?",
-                "resposta": "cabe a atribuição contida no inciso V"
-            },
-            {
-                "pergunta": "A iniciativa individual de Deputado pode proponer as providências previstas nos incisos IV e X ?",
-                "resposta": "sim, também"
-            }
-        ]
+        "perguntas": [{"pergunta": "A quem cabe a atribuição contida no inciso V do artigo?", "resposta": "Às Comissões Permanentes, em razão da matéria de sua competência"},{"pergunta": "As demais comissões podem fazer o que nas matérias de sua competência?", "resposta": "no que lhes for aplicável"},{"pergunta": "A iniciativa individual de Deputado pode propor ao Plenário as providências previstas nos incisos IV e X?", "resposta": "sim, também"},{"pergunta": "As comissões têm poder para fazer o quê nas matérias de sua competência?", "resposta": "cabe a atribuição contida no inciso V"}, {"pergunta": "A iniciativa individual de Deputado pode proponer as providências previstas nos incisos IV e X ?", "resposta": "sim, também"}]
     },
     {
         "id": "121",
@@ -3828,28 +3435,7 @@
             "subtitulo": "Art. 63 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quais as comissões permanentes da Assembleia?",
-                "resposta": "I - de Constituição, Justiça e Redação; II - de Finanças e Fiscalização; III - de Administração, Serviços Públicos, Trabalho e Segurança Pública;"
-            },
-            {
-                "pergunta": "Quais são as outras comissões permanentes da Assembleia?",
-                "resposta": "IV - de Educação, Ciência e Tecnologia, Desenvolvimento Socioeconômico, Meio Ambiente e Turismo; V - de Defesa do Consumidor, dos Direitos Humanos e Cidadania;"
-            },
-            {
-                "pergunta": "Quais são as comissões permanentes da Assembleia?",
-                "resposta": "I - de Constituição, Justiça e Redação; II - de Finanças e Fiscalização; III - de Administração, Serviços Públicos, Trabalho e Segurança Pública;"
-            },
-            {
-                "pergunta": "Qual a comissão permanente da Assembleia sobre Saúde?",
-                "resposta": "VI - de Saúde"
-            },
-            {
-                "pergunta": "Quais são as outras comissões permanentes da Assembleia?",
-                "resposta": "IV - de Educação, Ciência e Tecnologia, Desenvolvimento Socioeconômico, Meio Ambiente e Turismo; V - de Defesa do Consumidor, dos Direitos Humanos e Cidadania;"
-            }
-        ]
+        "perguntas": [{"pergunta": "Quais as comissões permanentes da Assembleia?", "resposta": "I - de Constituição, Justiça e Redação; II - de Finanças e Fiscalização; III - de Administração, Serviços Públicos, Trabalho e Segurança Pública;"}, {"pergunta": "Quais são as outras comissões permanentes da Assembleia?", "resposta": "IV - de Educação, Ciência e Tecnologia, Desenvolvimento Socioeconômico, Meio Ambiente e Turismo; V - de Defesa do Consumidor, dos Direitos Humanos e Cidadania;"}, {"pergunta": "Quais são as comissões permanentes da Assembleia?", "resposta": "I - de Constituição, Justiça e Redação; II - de Finanças e Fiscalização; III - de Administração, Serviços Públicos, Trabalho e Segurança Pública;"}, {"pergunta": "Qual a comissão permanente da Assembleia sobre Saúde?", "resposta": "VI - de Saúde"}, {"pergunta": "Quais são as outras comissões permanentes da Assembleia?", "resposta": "IV - de Educação, Ciência e Tecnologia, Desenvolvimento Socioeconômico, Meio Ambiente e Turismo; V - de Defesa do Consumidor, dos Direitos Humanos e Cidadania;"}]
     },
     {
         "id": "122",
@@ -4376,28 +3962,7 @@
             "subtitulo": "Art. 70 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quais são os requisitos necessários para instituição de uma Comissão Parlamentar de Inquérito?",
-                "resposta": "a requerimento de 1/3 (um terço) de seus membros, instituirá Comissão Parlamentar de Inquérito para apuração de fato determinado e por prazo certo,"
-            },
-            {
-                "pergunta": "O que caracteriza um fato determinado?",
-                "resposta": "Considera-se fato determinado o acontecimento de relevante interesse para a vida pública e a ordem constitucional, legal, econômica e social do Estado,"
-            },
-            {
-                "pergunta": "Como funciona o recebimento dos pedidos?",
-                "resposta": "Recebido o requerimento, o Presidente o mandará a publicação, desde que satisfeitos os requisitos regimentais; caso contrário, devolvê-lo-á ao Autor,"
-            },
-            {
-                "pergunta": "Quais são as regras sobre prazo da Comissão?",
-                "resposta": "A Comissão terá o prazo de, no máximo, 120 (cento e vinte) dias,"
-            },
-            {
-                "pergunta": "O que é necessário para a prorrogação do prazo?",
-                "resposta": "mediante requerimento subscrito por 1/3 dos membros da Assembleia Legislativa"
-            }
-        ]
+        "perguntas": [  {"pergunta": "Quais são os requisitos necessários para instituição de uma Comissão Parlamentar de Inquérito?",   "resposta": "a requerimento de 1/3 (um terço) de seus membros, instituirá Comissão Parlamentar de Inquérito para apuração de fato determinado e por prazo certo,"},  {"pergunta": "O que caracteriza um fato determinado?",   "resposta": "Considera-se fato determinado o acontecimento de relevante interesse para a vida pública e a ordem constitucional, legal, econômica e social do Estado,"},  {"pergunta": "Como funciona o recebimento dos pedidos?",   "resposta": "Recebido o requerimento, o Presidente o mandará a publicação, desde que satisfeitos os requisitos regimentais; caso contrário, devolvê-lo-á ao Autor,"},  {"pergunta": "Quais são as regras sobre prazo da Comissão?",   "resposta": "A Comissão terá o prazo de, no máximo, 120 (cento e vinte) dias,"},  {"pergunta": "O que é necessário para a prorrogação do prazo?",   "resposta": "mediante requerimento subscrito por 1/3 dos membros da Assembleia Legislativa"}]
     },
     {
         "id": "137",
@@ -4440,24 +4005,7 @@
             "subtitulo": "Art. 72 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "O que é fixado quando o ato de nomeação dos membros da Comissão publica no Diário Oficial Eletrônico?",
-                "resposta": "local, dia e hora para a reunião de eleição do Presidente e Vice-Presidente, e designação do Relator"
-            },
-            {
-                "pergunta": "Quantos dias leva a realização da reunião de eleição do Presidente e Vice-Presidente após o ato de nomeação dos membros da Comissão?",
-                "resposta": "2 (dois) dias"
-            },
-            {
-                "pergunta": "Como será designado o Relator?",
-                "resposta": "designado pelo Presidente da Comissão"
-            },
-            {
-                "pergunta": "O que deve ser feito em relação à bancada da qual faz parte o Relator?",
-                "resposta": "se aquele for da Maioria, integrar a bancada da Minoria e vice-versa"
-            }
-        ]
+        "perguntas": [{"pergunta": "O que é fixado quando o ato de nomeação dos membros da Comissão publica no Diário Oficial Eletrônico?", "resposta": "local, dia e hora para a reunião de eleição do Presidente e Vice-Presidente, e designação do Relator"}, {"pergunta": "Quantos dias leva a realização da reunião de eleição do Presidente e Vice-Presidente após o ato de nomeação dos membros da Comissão?", "resposta": "2 (dois) dias"}, {"pergunta": "Como será designado o Relator?", "resposta": "designado pelo Presidente da Comissão"}, {"pergunta": "O que deve ser feito em relação à bancada da qual faz parte o Relator?", "resposta": "se aquele for da Maioria, integrar a bancada da Minoria e vice-versa"}]
     },
     {
         "id": "139",
@@ -4468,28 +4016,7 @@
             "subtitulo": "Art. 73 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "O que consta na resolução?",
-                "resposta": "A provisão de meios ou recursos administrativos, as condições organizacionais e o assessoramento necessários ao bom desempenho da Comissão"
-            },
-            {
-                "pergunta": "Quem é incumbido do atendimento preferencial das providências solicitadas?",
-                "resposta": "Mesa e à administração da Assembleia"
-            },
-            {
-                "pergunta": "A quem cabe solicitar diretamente às providências referidas no artigo?",
-                "resposta": "Presidente ou ao Relator"
-            },
-            {
-                "pergunta": "Quais providências podem ser solicitadas diretamente à Mesa?",
-                "resposta": "inclusive a alteração ou reforço dos meios, recursos e assessoramento originariamente destinados à Comissão"
-            },
-            {
-                "pergunta": "A quem cabe solicitar diretamente à Mesa as providências referidas no artigo?",
-                "resposta": "Presidente ou ao Relator"
-            }
-        ]
+        "perguntas": [  {      "pergunta": "O que consta na resolução?",      "resposta": "A provisão de meios ou recursos administrativos, as condições organizacionais e o assessoramento necessários ao bom desempenho da Comissão"  },  {      "pergunta": "Quem é incumbido do atendimento preferencial das providências solicitadas?",      "resposta": "Mesa e à administração da Assembleia"  },  {      "pergunta": "A quem cabe solicitar diretamente às providências referidas no artigo?",      "resposta": "Presidente ou ao Relator"  },  {      "pergunta": "Quais providências podem ser solicitadas diretamente à Mesa?",      "resposta": "inclusive a alteração ou reforço dos meios, recursos e assessoramento originariamente destinados à Comissão"  },  {      "pergunta": "A quem cabe solicitar diretamente à Mesa as providências referidas no artigo?",      "resposta": "Presidente ou ao Relator"}]
     },
     {
         "id": "140",
@@ -4724,28 +4251,7 @@
             "subtitulo": "Art. 77 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quais são os documentos que serão enviados para o Ministério Público?",
-                "resposta": "cópia de toda a documentação necessária"
-            },
-            {
-                "pergunta": "A quem será enviado o relatório da Comissão, no caso do inciso III?",
-                "resposta": "ao Poder Executivo"
-            },
-            {
-                "pergunta": "O prazo para que as providências sugeridas pelo inquérito sejam atendidas é de quantos dias?",
-                "resposta": "hábile"
-            },
-            {
-                "pergunta": "Quem remeterá o relatório da Comissão ao Poder Executivo, no caso do inciso III?",
-                "resposta": "O Presidente da Assembleia"
-            },
-            {
-                "pergunta": "A quem será encaminhado o projeto de lei resultante do inquérito?",
-                "resposta": "à Mesa"
-            }
-        ]
+        "perguntas": [{"pergunta": "Quais são os documentos que serão enviados para o Ministério Público?","resposta": "cópia de toda a documentação necessária"},{"pergunta": "A quem será enviado o relatório da Comissão, no caso do inciso III?","resposta": "ao Poder Executivo"},{"pergunta": "O prazo para que as providências sugeridas pelo inquérito sejam atendidas é de quantos dias?","resposta": "hábile"},{"pergunta": "Quem remeterá o relatório da Comissão ao Poder Executivo, no caso do inciso III?","resposta": "O Presidente da Assembleia"},{"pergunta": "A quem será encaminhado o projeto de lei resultante do inquérito?","resposta": "à Mesa"}]
     },
     {
         "id": "148",
@@ -4852,28 +4358,7 @@
             "subtitulo": "Art. 81 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Qual é o cargo mais alto que pode ocupar na Comissão?",
-                "resposta": "Presidente"
-            },
-            {
-                "pergunta": "Por quanto tempo os Presidentes e Vice-Presidentes das Comissões terão mandato?",
-                "resposta": "até a posse dos novos componentes eleitos na sessão legislativa subsequente"
-            },
-            {
-                "pergunta": "Quais são as comissões que não possuem vedação de reeleição?",
-                "resposta": "Comissões Temporárias"
-            },
-            {
-                "pergunta": "Para quais Comissões o mandato dos Presidentes e Vice-Presidentes perdurarão por todo o prazo de sua duração?",
-                "resposta": "nas quais os mandatos dos Presidentes e Vice Presidentes perdurarão por todo o prazo de sua duração"
-            },
-            {
-                "pergunta": "O que não é permitido para as Comissões em geral, mas é permitido para a Temporária?",
-                "resposta": "a reeleição"
-            }
-        ]
+        "perguntas": [{  "pergunta": "Qual é o cargo mais alto que pode ocupar na Comissão?",  "resposta": "Presidente"},{  "pergunta": "Por quanto tempo os Presidentes e Vice-Presidentes das Comissões terão mandato?",  "resposta": "até a posse dos novos componentes eleitos na sessão legislativa subsequente"},{  "pergunta": "Quais são as comissões que não possuem vedação de reeleição?",  "resposta": "Comissões Temporárias"},{  "pergunta": "Para quais Comissões o mandato dos Presidentes e Vice-Presidentes perdurarão por todo o prazo de sua duração?",  "resposta": "nas quais os mandatos dos Presidentes e Vice Presidentes perdurarão por todo o prazo de sua duração"},{  "pergunta": "O que não é permitido para as Comissões em geral, mas é permitido para a Temporária?",  "resposta": "a reeleição"}]
     },
     {
         "id": "152",
@@ -4884,28 +4369,7 @@
             "subtitulo": "Art. 82 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quem convoca a reunião do Presidente e Vice-Presidente de Comissão?",
-                "resposta": "presidente da Assembleia"
-            },
-            {
-                "pergunta": "Em caso de recondução, quem preside a reunião de eleição?",
-                "resposta": "último Presidente ou Vice-Presidente"
-            },
-            {
-                "pergunta": "Quem preside a reunião se os últimos Presidentes não são reconduzidos à mesma Comissão?",
-                "resposta": "Deputado mais idoso, dentre os de maior número de legislaturas"
-            },
-            {
-                "pergunta": "Como se classifica o Deputado que preside a reunião em caso de ausência de recondução dos últimos Presidentes?",
-                "resposta": "mais idoso"
-            },
-            {
-                "pergunta": "Quais são as condições necessárias para escolha do Deputado mais idoso como presidente da reunião?",
-                "resposta": "de maior número de legislaturas"
-            }
-        ]
+        "perguntas": [{"pergunta": "Quem convoca a reunião do Presidente e Vice-Presidente de Comissão?", "resposta": "presidente da Assembleia"},{"pergunta": "Em caso de recondução, quem preside a reunião de eleição?", "resposta": "último Presidente ou Vice-Presidente"},{"pergunta": "Quem preside a reunião se os últimos Presidentes não são reconduzidos à mesma Comissão?", "resposta": "Deputado mais idoso, dentre os de maior número de legislaturas"},{"pergunta": "Como se classifica o Deputado que preside a reunião em caso de ausência de recondução dos últimos Presidentes?", "resposta": "mais idoso"},{"pergunta": "Quais são as condições necessárias para escolha do Deputado mais idoso como presidente da reunião?", "resposta": "de maior número de legislaturas"}]
     },
     {
         "id": "153",
@@ -5040,28 +4504,7 @@
             "subtitulo": "Art. 85 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Importa renúncia à Presidência ou Vice-Presidência de Comissão a licença por mais de 120 (cento e vinte) dias, bem como a investidura em cargo do Poder Executivo.",
-                "resposta": "Art. 85. Importa renúncia à Presidência ou Vice-Presidência de Comissão a licença por mais de 120 (cento e vinte) dias, bem como a investidura em cargo do Poder Executivo."
-            },
-            {
-                "pergunta": "Quando a eleição para a presidência da comissão deve ocorrer?",
-                "resposta": "§ 1. A eleição de que trata o art. 82 dar-se-á na primeira reunião ordinária após a publicação da vaga no Diário Oficial Eletrônico."
-            },
-            {
-                "pergunta": "Quem não pode ser eleito presidente ou vice-presidente da comissão?",
-                "resposta": "§ 2. O membro suplente não poderá ser eleito Presidente ou Vice-Presidente da Comissão."
-            },
-            {
-                "pergunta": "O que acontece em caso de mudança de legenda partidária para o presidente ou vice-presidente da comissão?",
-                "resposta": "§ 3. Em caso de mudança de legenda partidária, o Presidente ou Vice-Presidente da Comissão perderá automaticamente o cargo que ocupa."
-            },
-            {
-                "pergunta": "Qual é a duração máxima da licença para renúncia à presidência ou vice-presidência da comissão?",
-                "resposta": "Art. 85. Importa renúncia à Presidência ou Vice-Presidência de Comissão a licença por mais de 120 (cento e vinte) dias, bem como a investidura em cargo do Poder Executivo."
-            }
-        ]
+        "perguntas": [{"pergunta": "Importa renúncia à Presidência ou Vice-Presidência de Comissão a licença por mais de 120 (cento e vinte) dias, bem como a investidura em cargo do Poder Executivo.","resposta": "Art. 85. Importa renúncia à Presidência ou Vice-Presidência de Comissão a licença por mais de 120 (cento e vinte) dias, bem como a investidura em cargo do Poder Executivo."},{"pergunta": "Quando a eleição para a presidência da comissão deve ocorrer?","resposta": "§ 1. A eleição de que trata o art. 82 dar-se-á na primeira reunião ordinária após a publicação da vaga no Diário Oficial Eletrônico."},{"pergunta": "Quem não pode ser eleito presidente ou vice-presidente da comissão?","resposta": "§ 2. O membro suplente não poderá ser eleito Presidente ou Vice-Presidente da Comissão."},{"pergunta": "O que acontece em caso de mudança de legenda partidária para o presidente ou vice-presidente da comissão?","resposta": "§ 3. Em caso de mudança de legenda partidária, o Presidente ou Vice-Presidente da Comissão perderá automaticamente o cargo que ocupa."},{"pergunta": "Qual é a duração máxima da licença para renúncia à presidência ou vice-presidência da comissão?","resposta": "Art. 85. Importa renúncia à Presidência ou Vice-Presidência de Comissão a licença por mais de 120 (cento e vinte) dias, bem como a investidura em cargo do Poder Executivo."}]
     },
     {
         "id": "158",
@@ -5072,28 +4515,7 @@
             "subtitulo": "Art. 86 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quando deve ser feita a designação de Relator?",
-                "resposta": "dentro de vinte e quatro horas do recebimento da matéria na Comissão"
-            },
-            {
-                "pergunta": "O que ocorre se o Relator oferecer emenda em Plenário?",
-                "resposta": "outra Relator será designado para relatá-la, sendo tal circunstância referida no parecer"
-            },
-            {
-                "pergunta": "Quem pode atuar como Relator em apenas uma Comissão?",
-                "resposta": "O Deputado que for membro de mais de uma Comissão"
-            },
-            {
-                "pergunta": "Qual é o prazo atribuído à Comissão e metade disso que o Relator tem para apresentar seu relatório e parecer?",
-                "resposta": "o prazo atribuído à Comissão"
-            },
-            {
-                "pergunta": "O mesmo Relator da proposição principal será o das emendas oferecidas a esta em Plenário, salvo ausência ou recusa?",
-                "resposta": "sim"
-            }
-        ]
+        "perguntas": [{"pergunta": "Quando deve ser feita a designação de Relator?", "resposta": "dentro de vinte e quatro horas do recebimento da matéria na Comissão"},{"pergunta": "O que ocorre se o Relator oferecer emenda em Plenário?", "resposta": "outra Relator será designado para relatá-la, sendo tal circunstância referida no parecer"},{"pergunta": "Quem pode atuar como Relator em apenas uma Comissão?", "resposta": "O Deputado que for membro de mais de uma Comissão"},{"pergunta": "Qual é o prazo atribuído à Comissão e metade disso que o Relator tem para apresentar seu relatório e parecer?", "resposta": "o prazo atribuído à Comissão"},{"pergunta": "O mesmo Relator da proposição principal será o das emendas oferecidas a esta em Plenário, salvo ausência ou recusa?", "resposta": "sim"}]
     },
     {
         "id": "159",
@@ -5273,7 +4695,7 @@
     },
     {
         "id": "165",
-        "page_content": "Art. 93. A perda do lugar na Comissão será declarada pelo Presidente da Assembleia, à vista da comunicação do Líder, ou do Presidente da Comissão, quando o Deputado faltar a 5 (cinco) reuniões consecutivas, ou no caso da alínea \"c\" do art. 116.",
+        "page_content": 'Art. 93. A perda do lugar na Comissão será declarada pelo Presidente da Assembleia, à vista da comunicação do Líder, ou do Presidente da Comissão, quando o Deputado faltar a 5 (cinco) reuniões consecutivas, ou no caso da alínea "c" do art. 116.',
         "metadata": {
             "autor": "Assembleia Legislativa do Rio Grande do Norte - ALERN",
             "fonte": "https://www.al.rn.leg.br/regimento-interno/Regimento_Interno_ALRN_junho_2024_DL.pdf",
@@ -5869,7 +5291,7 @@
     },
     {
         "id": "185",
-        "page_content": "Art. 109. Os membros da Comissão poderão obter vista das matérias em apreciação, observados os seguintes prazos máximos: I - 1 (um) dia, quando em regime de prioridade; II - 3 (três) dias, quando em regime de tramitação ordinária e de urgência constitucional. (Redação dada pela Resolução nº 68, de 07 de março de 2024) § 1. Não se concederá vista de proposições em regime de urgência regimental. Entretanto, o membro de Comissão, que o desejar, pedirá ao Presidente a suspensão da reunião por até 1 (uma) hora para melhor exame, sempre o atendendo o Presidente.\" (NR) (Redação dada pela Resolução nº 68, de 07 de março de 2024) § 2. Para o fim previsto no parágrafo anterior, para cada matéria em apreciação a reunião só poderá ser suspensa uma vez. § 3. A vista será conjunta, e na Secretaria da Comissão, quando houver mais de um pedido, sempre respeitados os prazos previstos neste artigo. § 4. Concedida vista uma vez, novamente não se a concederá, quer ao mesmo, quer a outro Deputado. Devolvida, entretanto, a matéria ao debate, depois de vista, outro Deputado poderá pedir a suspensão da reunião por até 1 (uma) hora para melhor exame de nova argumentação, o que só se fará uma única vez. § 5. Os pedidos de vista serão indeferidos pelo Presidente se, caso deferidos, forem ultrapassados os prazos concedidos à Comissão.",
+        "page_content": 'Art. 109. Os membros da Comissão poderão obter vista das matérias em apreciação, observados os seguintes prazos máximos: I - 1 (um) dia, quando em regime de prioridade; II - 3 (três) dias, quando em regime de tramitação ordinária e de urgência constitucional. (Redação dada pela Resolução nº 68, de 07 de março de 2024) § 1. Não se concederá vista de proposições em regime de urgência regimental. Entretanto, o membro de Comissão, que o desejar, pedirá ao Presidente a suspensão da reunião por até 1 (uma) hora para melhor exame, sempre o atendendo o Presidente." (NR) (Redação dada pela Resolução nº 68, de 07 de março de 2024) § 2. Para o fim previsto no parágrafo anterior, para cada matéria em apreciação a reunião só poderá ser suspensa uma vez. § 3. A vista será conjunta, e na Secretaria da Comissão, quando houver mais de um pedido, sempre respeitados os prazos previstos neste artigo. § 4. Concedida vista uma vez, novamente não se a concederá, quer ao mesmo, quer a outro Deputado. Devolvida, entretanto, a matéria ao debate, depois de vista, outro Deputado poderá pedir a suspensão da reunião por até 1 (uma) hora para melhor exame de nova argumentação, o que só se fará uma única vez. § 5. Os pedidos de vista serão indeferidos pelo Presidente se, caso deferidos, forem ultrapassados os prazos concedidos à Comissão.',
         "metadata": {
             "autor": "Assembleia Legislativa do Rio Grande do Norte - ALERN",
             "fonte": "https://www.al.rn.leg.br/regimento-interno/Regimento_Interno_ALRN_junho_2024_DL.pdf",
@@ -6004,28 +5426,7 @@
             "subtitulo": "Art. 113 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quais são os aspectos que envolvem competência da Comissão de Finanças e Fiscalização?",
-                "resposta": "aspectos financeiros e orçamentários públicos"
-            },
-            {
-                "pergunta": "O que a comissão deve fazer previamente em relação ao plano plurianual, à lei de diretrizes orçamentárias e ao orçamento anual?",
-                "resposta": "manifestar-se quanto à sua compatibilidade ou adequação"
-            },
-            {
-                "pergunta": "Quais são as leis que a comissão deve verificar se estão alinhados?",
-                "resposta": "plano plurianual, a lei de diretrizes orçamentárias e o orçamento anual"
-            },
-            {
-                "pergunta": "Qual é o objetivo da manifestação previamente feita pela Comissão de Finanças e Fiscalização?",
-                "resposta": "manifestar-se quanto à sua compatibilidade ou adequação com as leis"
-            },
-            {
-                "pergunta": "Quem são os que tem competência para verificar se a proposta está alinhada às leis?",
-                "resposta": "Comissão de Finanças e Fiscalização"
-            }
-        ]
+        "perguntas": [{"pergunta": "Quais são os aspectos que envolvem competência da Comissão de Finanças e Fiscalização?", "resposta": "aspectos financeiros e orçamentários públicos"},{"pergunta": "O que a comissão deve fazer previamente em relação ao plano plurianual, à lei de diretrizes orçamentárias e ao orçamento anual?", "resposta": "manifestar-se quanto à sua compatibilidade ou adequação"},{"pergunta": "Quais são as leis que a comissão deve verificar se estão alinhados?", "resposta": "plano plurianual, a lei de diretrizes orçamentárias e o orçamento anual"},{"pergunta": "Qual é o objetivo da manifestação previamente feita pela Comissão de Finanças e Fiscalização?", "resposta": "manifestar-se quanto à sua compatibilidade ou adequação com as leis"},{"pergunta": "Quem são os que tem competência para verificar se a proposta está alinhada às leis?", "resposta": "Comissão de Finanças e Fiscalização"}]
     },
     {
         "id": "190",
@@ -6313,22 +5714,18 @@
     },
     {
         "id": "199",
-        "page_content": "Art. 115. No desenvolvimento de seus trabalhos, os Relatores e as Comissões observarão as seguintes normas XXI - se for aprovado o parecer do Relator em todos os seus termos, será tido como da Comissão e, desde logo, assinado pelo Presidente, Relator e demais membros, constando da ata o nome dos votantes e respectivos votos XXII - se o voto do Relator não for adotado pela Comissão, a redação do parecer vencedor será feita por outro Deputado designado pelo Presidente, observando-se as regras dos incisos XIX e XX quanto aos prazos XXIII - na hipótese de a Comissão adotar parecer diverso do voto do Relator, o deste constituirá voto em separado XXIV - para efeito da contagem dos votos relativos aos pareceres, serão considerados a) favoráveis os que os aprovarem integralmente, os \"pelas conclusões\", os \"com restrições\" e os \"em separado não divergentes das conclusões\" b) contrários os \"vencidos\" e os \"em separado divergentes das conclusões\"",
+        "page_content": 'Art. 115. No desenvolvimento de seus trabalhos, os Relatores e as Comissões observarão as seguintes normas XXI - se for aprovado o parecer do Relator em todos os seus termos, será tido como da Comissão e, desde logo, assinado pelo Presidente, Relator e demais membros, constando da ata o nome dos votantes e respectivos votos XXII - se o voto do Relator não for adotado pela Comissão, a redação do parecer vencedor será feita por outro Deputado designado pelo Presidente, observando-se as regras dos incisos XIX e XX quanto aos prazos XXIII - na hipótese de a Comissão adotar parecer diverso do voto do Relator, o deste constituirá voto em separado XXIV - para efeito da contagem dos votos relativos aos pareceres, serão considerados a) favoráveis os que os aprovarem integralmente, os "pelas conclusões", os "com restrições" e os "em separado não divergentes das conclusões" b) contrários os "vencidos" e os "em separado divergentes das conclusões"',
         "metadata": {
             "autor": "Assembleia Legislativa do Rio Grande do Norte - ALERN",
             "fonte": "https://www.al.rn.leg.br/regimento-interno/Regimento_Interno_ALRN_junho_2024_DL.pdf",
             "subtitulo": "Art. 115 - 9",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "O que acontece quando o parecer do Relator é aprovado em todos os seus termos?\",  \"resposta\": \"será tido como da Comissão e, desde logo, assinado pelo Presidente, Relator e demais membros\"},{  \"pergunta\": \"O que acontece se o voto do Relator não for adotado pela Comissão?\",  \"resposta\": \"a redação do parecer vencedor será feita por outro Deputado designado pelo Presidente, observando-se as regras dos incisos XIX e XX quanto aos prazos\"},{  \"pergunta\": \"O que acontece se a Comissão adotar um parecer diverso do voto do Relator?\",  \"resposta\": \"o deste constituirá voto em separado\"},{  \"pergunta\": \"Quais os votos considerados favoráveis?\",  \"resposta\": \"a) favoráveis os que os aprovarem integralmente, os \"pelas conclusões\", os \"com restrições\" e os \"em separado não divergentes das conclusões\"\"},{  \"pergunta\": \"Quais os votos considerados contrários?\",  \"resposta\": \"b) contrários os \"vencidos\" e os \"em separado divergentes das conclusões\""
-            }
-        ]
+        "perguntas": [{  "pergunta": 'O que acontece quando o parecer do Relator é aprovado em todos os seus termos?",  "resposta": "será tido como da Comissão e, desde logo, assinado pelo Presidente, Relator e demais membros"},{  "pergunta": "O que acontece se o voto do Relator não for adotado pela Comissão?",  "resposta": "a redação do parecer vencedor será feita por outro Deputado designado pelo Presidente, observando-se as regras dos incisos XIX e XX quanto aos prazos"},{  "pergunta": "O que acontece se a Comissão adotar um parecer diverso do voto do Relator?",  "resposta": "o deste constituirá voto em separado"},{  "pergunta": "Quais os votos considerados favoráveis?",  "resposta": "a) favoráveis os que os aprovarem integralmente, os "pelas conclusões", os "com restrições" e os "em separado não divergentes das conclusões""},{  "pergunta": "Quais os votos considerados contrários?",  "resposta": "b) contrários os "vencidos" e os "em separado divergentes das conclusões"'}]
     },
     {
         "id": "200",
-        "page_content": "Art. 115. No desenvolvimento de seus trabalhos, os Relatores e as Comissões observarão as seguintes normas XXV - os membros da Comissão podem oferecer voto em separado, que será anexado aos autos em qualquer fase da tramitação, bem como assinar os pareceres com as declarações de \"pelas conclusões\", \"com restrições\" ou \"vencido\" XXVI - sendo favorável o parecer sobre proposição ou outro documento contendo sugestão ou solicitação que ensejar a elaboração de projeto de lei, de decreto legislativo ou de resolução, será ele anexado ao projeto correlato",
+        "page_content": 'Art. 115. No desenvolvimento de seus trabalhos, os Relatores e as Comissões observarão as seguintes normas XXV - os membros da Comissão podem oferecer voto em separado, que será anexado aos autos em qualquer fase da tramitação, bem como assinar os pareceres com as declarações de "pelas conclusões", "com restrições" ou "vencido" XXVI - sendo favorável o parecer sobre proposição ou outro documento contendo sugestão ou solicitação que ensejar a elaboração de projeto de lei, de decreto legislativo ou de resolução, será ele anexado ao projeto correlato',
         "metadata": {
             "autor": "Assembleia Legislativa do Rio Grande do Norte - ALERN",
             "fonte": "https://www.al.rn.leg.br/regimento-interno/Regimento_Interno_ALRN_junho_2024_DL.pdf",
@@ -6338,11 +5735,11 @@
         "perguntas": [
             {
                 "pergunta": "Quais as normas que os Relatores e as Comissões observam no desenvolvimento de seus trabalhos?",
-                "resposta": "As normas XXV - os membros da Comissão podem oferecer voto em separado, que será anexado aos autos em qualquer fase da tramitação, bem como assinar os pareceres com as declarações de \"pelas conclusões\", \"com restrições\" ou \"vencido\" XXVI - sendo favorável o parecer sobre proposição ou outro documento contendo sugestão ou solicitação que ensejar a elaboração de projeto de lei, de decreto legislativo ou de resolução, será ele anexado ao projeto correlato"
+                "resposta": 'As normas XXV - os membros da Comissão podem oferecer voto em separado, que será anexado aos autos em qualquer fase da tramitação, bem como assinar os pareceres com as declarações de "pelas conclusões", "com restrições" ou "vencido" XXVI - sendo favorável o parecer sobre proposição ou outro documento contendo sugestão ou solicitação que ensejar a elaboração de projeto de lei, de decreto legislativo ou de resolução, será ele anexado ao projeto correlato'
             },
             {
                 "pergunta": "Quais são as formas de voto em separado dos membros da Comissão?",
-                "resposta": "os membros da Comissão podem oferecer voto em separado, que será anexado aos autos em qualquer fase da tramitação, bem como assinar os pareceres com as declarações de \"pelas conclusões\", \"com restrições\" ou \"vencido\""
+                "resposta": 'os membros da Comissão podem oferecer voto em separado, que será anexado aos autos em qualquer fase da tramitação, bem como assinar os pareceres com as declarações de "pelas conclusões", "com restrições" ou "vencido"'
             },
             {
                 "pergunta": "O que acontece se o parecer sobre uma proposição for favorável?",
@@ -6350,7 +5747,7 @@
             },
             {
                 "pergunta": "Quais são as formas de assinatura dos membros da Comissão nos pareceres?",
-                "resposta": "com as declarações de \"pelas conclusões\", \"com restrições\" ou \"vencido\""
+                "resposta": 'com as declarações de "pelas conclusões", "com restrições" ou "vencido"'
             },
             {
                 "pergunta": "O que acontece com o voto em separado nos autos da tramitação?",
@@ -6367,28 +5764,7 @@
             "subtitulo": "Art. 115 - 11",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quais as normas que os Relatores e as Comissões devem observar durante a tramitação de uma matéria?",
-                "resposta": "XXVII - devendo ser proferido parecer oral em Plenário, por Relator designado pelo Presidente da Assembleia ou de Comissão, se dele decorrer proposição, sugestão ou solicitação, o texto respectivo deverá ser remetido à Mesa, assinado pelo Relator XXVIII - os pareceres, votos, emendas e quaisquer pronunciamentos dos Relatores e demais membros de Comissão, bem como pequenos despachos de ordenação da tramitação, serão disponibilizados no sistema eletrônico XXIX - concluída a tramitação de uma matéria em determinada Comissão, será ela encaminhada imediatamente à Mesa ou à Comissão que em seguida deva pronunciar-se."
-            },
-            {
-                "pergunta": "Quais os documentos que serão disponibilizados no sistema eletrônico?",
-                "resposta": "os pareceres, votos, emendas e quaisquer pronunciamentos dos Relatores e demais membros de Comissão, bem como pequenos despachos de ordenação da tramitação."
-            },
-            {
-                "pergunta": "Quando uma matéria deve ser encaminhada à Mesa ou à Comissão que em seguida deva pronunciar-se?",
-                "resposta": "concluída a tramitação de uma matéria em determinada Comissão."
-            },
-            {
-                "pergunta": "Quem é o responsável por designar o Relator para proferir parecer oral em Plenário?",
-                "resposta": "Presidente da Assembleia ou de Comissão"
-            },
-            {
-                "pergunta": "O que deve ser feito com o texto das proposições, sugestões ou solicitações?",
-                "resposta": "deverá ser remetido à Mesa, assinado pelo Relator"
-            }
-        ]
+        "perguntas": [{"pergunta": "Quais as normas que os Relatores e as Comissões devem observar durante a tramitação de uma matéria?", "resposta": "XXVII - devendo ser proferido parecer oral em Plenário, por Relator designado pelo Presidente da Assembleia ou de Comissão, se dele decorrer proposição, sugestão ou solicitação, o texto respectivo deverá ser remetido à Mesa, assinado pelo Relator XXVIII - os pareceres, votos, emendas e quaisquer pronunciamentos dos Relatores e demais membros de Comissão, bem como pequenos despachos de ordenação da tramitação, serão disponibilizados no sistema eletrônico XXIX - concluída a tramitação de uma matéria em determinada Comissão, será ela encaminhada imediatamente à Mesa ou à Comissão que em seguida deva pronunciar-se."},{"pergunta": "Quais os documentos que serão disponibilizados no sistema eletrônico?", "resposta": "os pareceres, votos, emendas e quaisquer pronunciamentos dos Relatores e demais membros de Comissão, bem como pequenos despachos de ordenação da tramitação."},{"pergunta": "Quando uma matéria deve ser encaminhada à Mesa ou à Comissão que em seguida deva pronunciar-se?", "resposta": "concluída a tramitação de uma matéria em determinada Comissão."},{"pergunta": "Quem é o responsável por designar o Relator para proferir parecer oral em Plenário?", "resposta": "Presidente da Assembleia ou de Comissão"},{"pergunta": "O que deve ser feito com o texto das proposições, sugestões ou solicitações?", "resposta": "deverá ser remetido à Mesa, assinado pelo Relator"}]
     },
     {
         "id": "202",
@@ -6431,28 +5807,7 @@
             "subtitulo": "Art. 117 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quem pode levantar questão de ordem?",
-                "resposta": "O membro de Comissão e os Líderes"
-            },
-            {
-                "pergunta": "Qual é a responsabilidade do Presidente da respectiva Comissão?",
-                "resposta": "será resolvida terminativamente pelo Presidente da respectiva Comissão"
-            },
-            {
-                "pergunta": "Em até quantas horas deve ser feito o recurso ao Presidente da Assembleia?",
-                "resposta": "em até vinte e quatro horas"
-            },
-            {
-                "pergunta": "Qual é a consequência de não se fazer o recurso em tempo hábil?",
-                "resposta": "sem prejuízo do andamento da matéria em trâmite"
-            },
-            {
-                "pergunta": "Como deve ser feito o recurso ao Presidente da Assembleia?",
-                "resposta": "por escrito"
-            }
-        ]
+        "perguntas": [  {      "pergunta": "Quem pode levantar questão de ordem?",      "resposta": "O membro de Comissão e os Líderes"  },  {      "pergunta": "Qual é a responsabilidade do Presidente da respectiva Comissão?",      "resposta": "será resolvida terminativamente pelo Presidente da respectiva Comissão"  },  {      "pergunta": "Em até quantas horas deve ser feito o recurso ao Presidente da Assembleia?",      "resposta": "em até vinte e quatro horas"  },  {      "pergunta": "Qual é a consequência de não se fazer o recurso em tempo hábil?",      "resposta": "sem prejuízo do andamento da matéria em trâmite"  },  {      "pergunta": "Como deve ser feito o recurso ao Presidente da Assembleia?",      "resposta": "por escrito"}]
     },
     {
         "id": "204",
@@ -6520,7 +5875,7 @@
     },
     {
         "id": "206",
-        "page_content": "Art. 120. No caso da alínea  do inciso XI, do art. 115, a decisão da Comissão depende de aprovação do Plenário, salvo concordância do Autor da proposição. Parágrafo único. Não se admitirá a providência referida neste artigo se a proposição não for de iniciativa parlamentar. ",
+        "page_content": "Art. 120. No caso da alínea "f" do inciso XI, do art. 115, a decisão da Comissão depende de aprovação do Plenário, salvo concordância do Autor da proposição. Parágrafo único. Não se admitirá a providência referida neste artigo se a proposição não for de iniciativa parlamentar. ",
         "metadata": {
             "autor": "Assembleia Legislativa do Rio Grande do Norte - ALERN",
             "fonte": "https://www.al.rn.leg.br/regimento-interno/Regimento_Interno_ALRN_junho_2024_DL.pdf",
@@ -6607,28 +5962,7 @@
             "subtitulo": "Art. 121 - 3",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "O que acontece com os pareceres das Comissões após sua aprovação?",
-                "resposta": "a aprovação dos pareceres importa aprovação ou rejeição da matéria pela Assembleia, de acordo com suas conclusões"
-            },
-            {
-                "pergunta": "Quais são os requisitos para a interposição do recurso?",
-                "resposta": "O recurso deve ser interposto por documento dirigido ao Presidente da Assembleia, subscrito por, no mínimo 3 (três) Deputados..."
-            },
-            {
-                "pergunta": "O que acontece com o recurso após sua recepção pelo Presidente?",
-                "resposta": "O Presidente o submeterá ao Plenário na mesma sessão, desde que devidamente formalizado"
-            },
-            {
-                "pergunta": "Quais são os efeitos da aprovação do recurso?",
-                "resposta": "O recurso será provido para o único efeito de possibilitar discussão e votação da matéria pelo Plenário..."
-            },
-            {
-                "pergunta": "Qual é a condição necessária para que o recurso seja provido?",
-                "resposta": "se este (Plenário) o acolher pelo voto favorável da maioria, presente a maioria absoluta dos Deputados"
-            }
-        ]
+        "perguntas": [{"pergunta": "O que acontece com os pareceres das Comissões após sua aprovação?","resposta": "a aprovação dos pareceres importa aprovação ou rejeição da matéria pela Assembleia, de acordo com suas conclusões"},{"pergunta": "Quais são os requisitos para a interposição do recurso?","resposta": "O recurso deve ser interposto por documento dirigido ao Presidente da Assembleia, subscrito por, no mínimo 3 (três) Deputados..."},{"pergunta": "O que acontece com o recurso após sua recepção pelo Presidente?","resposta": "O Presidente o submeterá ao Plenário na mesma sessão, desde que devidamente formalizado"},{"pergunta": "Quais são os efeitos da aprovação do recurso?","resposta": "O recurso será provido para o único efeito de possibilitar discussão e votação da matéria pelo Plenário..."},{"pergunta": "Qual é a condição necessária para que o recurso seja provido?","resposta": "se este (Plenário) o acolher pelo voto favorável da maioria, presente a maioria absoluta dos Deputados"}]
     },
     {
         "id": "210",
@@ -7123,28 +6457,7 @@
             "subtitulo": "Art. 132 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Qual é a forma em que as atas são disponibilizadas?",
-                "resposta": "a qual será disponibilizada no sistema eletrônico,"
-            },
-            {
-                "pergunta": "Quanto tempo tem o Deputado para manifestar após inserção na ata no sistema eletrônico?",
-                "resposta": "os Deputados disporão de, no máximo, 3 (três) dias, para manifestação."
-            },
-            {
-                "pergunta": "O que acontece se o prazo do parágrafo anterior se encerra sem manifestação?",
-                "resposta": "o Presidente certificará a aprovação e determinará, em reunião ordinária, a publicação no Diário Oficial Eletrônico."
-            },
-            {
-                "pergunta": "O que deve constar na ata da ata?",
-                "resposta": "Da ata, deverá constar: I - data, hora e local da reunião; II - nomes dos membros presentes e ausentes, com expressa referência às faltas justificadas; III - resumo do expediente; IV - registro das proposições apreciadas e das respectivas conclusões."
-            },
-            {
-                "pergunta": "O que acontece se uma retificação for apresentada?",
-                "resposta": "Caso seja apresentada retificação, o Presidente dará ciência à Comissão na reunião ordinária subsequente, devendo a correção constar na ata desta reunião."
-            }
-        ]
+        "perguntas": [{"pergunta": "Qual é a forma em que as atas são disponibilizadas?", "resposta": "a qual será disponibilizada no sistema eletrônico,"},{"pergunta": "Quanto tempo tem o Deputado para manifestar após inserção na ata no sistema eletrônico?", "resposta": "os Deputados disporão de, no máximo, 3 (três) dias, para manifestação."},{"pergunta": "O que acontece se o prazo do parágrafo anterior se encerra sem manifestação?", "resposta": "o Presidente certificará a aprovação e determinará, em reunião ordinária, a publicação no Diário Oficial Eletrônico."},{"pergunta": "O que deve constar na ata da ata?", "resposta": "Da ata, deverá constar: I - data, hora e local da reunião; II - nomes dos membros presentes e ausentes, com expressa referência às faltas justificadas; III - resumo do expediente; IV - registro das proposições apreciadas e das respectivas conclusões."},{"pergunta": "O que acontece se uma retificação for apresentada?", "resposta": "Caso seja apresentada retificação, o Presidente dará ciência à Comissão na reunião ordinária subsequente, devendo a correção constar na ata desta reunião."}]
     },
     {
         "id": "226",
@@ -7155,28 +6468,7 @@
             "subtitulo": "Art. 133 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quais são os elementos que compõe as Comissões?",
-                "resposta": "As Comissões contarão, para o desempenho das suas atribuições,"
-            },
-            {
-                "pergunta": "Qual a estrutura organizacional da Assembleia que atua junto às Comissões?",
-                "resposta": "a cargo da estrutura organizacional da Assembleia."
-            },
-            {
-                "pergunta": "O que é fornecido para o desempenho das atribuições das Comissões?",
-                "resposta": "assessoramento técnico-legislativo e especializado em suas áreas de competência,"
-            },
-            {
-                "pergunta": "Em quais áreas as Comissões contarão com assessoramentos?",
-                "resposta": "em suas áreas de competência"
-            },
-            {
-                "pergunta": "Qual é a finalidade da estrutura organizacional da Assembleia junto às Comissões?",
-                "resposta": "desempenho das suas atribuições"
-            }
-        ]
+        "perguntas": [{"pergunta": "Quais são os elementos que compõe as Comissões?", "resposta": "As Comissões contarão, para o desempenho das suas atribuições,"},{"pergunta": "Qual a estrutura organizacional da Assembleia que atua junto às Comissões?", "resposta": "a cargo da estrutura organizacional da Assembleia."},{"pergunta": "O que é fornecido para o desempenho das atribuições das Comissões?", "resposta": "assessoramento técnico-legislativo e especializado em suas áreas de competência,"},{"pergunta": "Em quais áreas as Comissões contarão com assessoramentos?", "resposta": "em suas áreas de competência"},{"pergunta": "Qual é a finalidade da estrutura organizacional da Assembleia junto às Comissões?", "resposta": "desempenho das suas atribuições"}]
     },
     {
         "id": "227",
@@ -7444,7 +6736,7 @@
     },
     {
         "id": "236",
-        "page_content": "Art. 143. Presente na Casa pelo menos 1/3 (um terço) dos Deputados, o Presidente anunciará o número de presentes, declarará aberta a sessão, e proferirá as seguintes palavras: \"Invocando a proteção de Deus e em nome do povo do Rio Grande do Norte, iniciamos nossos trabalhos\". Parágrafo único. Não se verificando o quórum de presença, o Presidente aguardará, durante 30 (trinta) minutos, que ele se complete, sendo o retardamento deduzido do tempo destinado ao expediente. Se persistir a falta de número, o Presidente declarará que não pode haver sessão, determinando a atribuição de falta aos ausentes para os efeitos legais.",
+        "page_content": 'Art. 143. Presente na Casa pelo menos 1/3 (um terço) dos Deputados, o Presidente anunciará o número de presentes, declarará aberta a sessão, e proferirá as seguintes palavras: "Invocando a proteção de Deus e em nome do povo do Rio Grande do Norte, iniciamos nossos trabalhos". Parágrafo único. Não se verificando o quórum de presença, o Presidente aguardará, durante 30 (trinta) minutos, que ele se complete, sendo o retardamento deduzido do tempo destinado ao expediente. Se persistir a falta de número, o Presidente declarará que não pode haver sessão, determinando a atribuição de falta aos ausentes para os efeitos legais.',
         "metadata": {
             "autor": "Assembleia Legislativa do Rio Grande do Norte - ALERN",
             "fonte": "https://www.al.rn.leg.br/regimento-interno/Regimento_Interno_ALRN_junho_2024_DL.pdf",
@@ -7635,32 +6927,11 @@
             "subtitulo": "Art. 147 - 3",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quais são as regras para a manutenção da ordem e respeito nas sessões?",
-                "resposta": "Art. 147. Para a manutenção da ordem, respeito e austeridade das sessões, observam-se as seguintes regras"
-            },
-            {
-                "pergunta": "Quais são os tipos de referências descorteses permitidas?",
-                "resposta": "nenhum Deputado poderá referir-se de forma descortês ou insultuosa a membros do Poder Legislativo ou às autoridades dos demais Poderes da República e do Estado, ou às instituições nacionais"
-            },
-            {
-                "pergunta": "Quem pode interromper o orador na sessão?",
-                "resposta": "o Presidente, quando autorizado por este Regimento"
-            },
-            {
-                "pergunta": "Por quê um Deputado não pode ser interrompido?",
-                "resposta": "salvo quando conceder aparte"
-            },
-            {
-                "pergunta": "Quais são os tipos de situacoes em que o orador pode ser interrompido",
-                "resposta": "quando conceder aparte, ou pelo Presidente, quando autorizado por este Regimento"
-            }
-        ]
+        "perguntas": [{"pergunta": "Quais são as regras para a manutenção da ordem e respeito nas sessões?", "resposta": "Art. 147. Para a manutenção da ordem, respeito e austeridade das sessões, observam-se as seguintes regras"},{"pergunta": "Quais são os tipos de referências descorteses permitidas?", "resposta": "nenhum Deputado poderá referir-se de forma descortês ou insultuosa a membros do Poder Legislativo ou às autoridades dos demais Poderes da República e do Estado, ou às instituições nacionais"},{"pergunta": "Quem pode interromper o orador na sessão?", "resposta": "o Presidente, quando autorizado por este Regimento"},{"pergunta": "Por quê um Deputado não pode ser interrompido?", "resposta": "salvo quando conceder aparte"},{"pergunta": "Quais são os tipos de situacoes em que o orador pode ser interrompido", "resposta": "quando conceder aparte, ou pelo Presidente, quando autorizado por este Regimento"}]
     },
     {
         "id": "243",
-        "page_content": "Art. 147. Para a manutenção da ordem, respeito e austeridade das sessões, observam-se as seguintes regras XIV - o Deputado poderá realizar um breve comentário em qualquer fase da sessão, para dar conhecimento ao Plenário assunto relevante ou esclarecer algum procedimento, valendo-se da expressão \"Pela Ordem\", dispondo para tanto de, no máximo, 1 (um) minuto, sem apartes",
+        "page_content": 'Art. 147. Para a manutenção da ordem, respeito e austeridade das sessões, observam-se as seguintes regras XIV - o Deputado poderá realizar um breve comentário em qualquer fase da sessão, para dar conhecimento ao Plenário assunto relevante ou esclarecer algum procedimento, valendo-se da expressão "Pela Ordem", dispondo para tanto de, no máximo, 1 (um) minuto, sem apartes',
         "metadata": {
             "autor": "Assembleia Legislativa do Rio Grande do Norte - ALERN",
             "fonte": "https://www.al.rn.leg.br/regimento-interno/Regimento_Interno_ALRN_junho_2024_DL.pdf",
@@ -7731,28 +7002,7 @@
             "subtitulo": "Art. 147 - 6",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quais equipamentos podem exibir arquivos nas sessões solenes?",
-                "resposta": "XVII - os equipamentos mencionados no inciso anterior poderão exibir arquivos atinentes ao escopo da solenidade, com a devida autorização da Presidência."
-            },
-            {
-                "pergunta": "Que tipo de sessões são mencionadas?",
-                "resposta": "nas sessões solenes"
-            },
-            {
-                "pergunta": "Quem deve conceder permissão para exibir arquivos nas sessões solenes?",
-                "resposta": "a Presidência"
-            },
-            {
-                "pergunta": "A Mesa da Casa expedirá atos sobre o uso dos painéis eletrônicos?",
-                "resposta": "sim, a Mesa expedirá atos para regulamentar o procedimento concernente ao uso dos painéis eletrônicos no âmbito das sessões desta Casa."
-            },
-            {
-                "pergunta": "Que tipo de procedimentos devem ser regulamentados pela Mesa?",
-                "resposta": "o procedimento concernente ao uso dos painéis eletrônicos"
-            }
-        ]
+        "perguntas": [{"pergunta": "Quais equipamentos podem exibir arquivos nas sessões solenes?", "resposta": "XVII - os equipamentos mencionados no inciso anterior poderão exibir arquivos atinentes ao escopo da solenidade, com a devida autorização da Presidência."},{"pergunta": "Que tipo de sessões são mencionadas?", "resposta": "nas sessões solenes"},{"pergunta": "Quem deve conceder permissão para exibir arquivos nas sessões solenes?", "resposta": "a Presidência"},{"pergunta": "A Mesa da Casa expedirá atos sobre o uso dos painéis eletrônicos?", "resposta": "sim, a Mesa expedirá atos para regulamentar o procedimento concernente ao uso dos painéis eletrônicos no âmbito das sessões desta Casa."},{"pergunta": "Que tipo de procedimentos devem ser regulamentados pela Mesa?", "resposta": "o procedimento concernente ao uso dos painéis eletrônicos"}]
     },
     {
         "id": "246",
@@ -7795,28 +7045,7 @@
             "subtitulo": "Art. 149 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Onde será franqueado o acesso ao público?",
-                "resposta": "ao público será franqueado o acesso às galerias circundantes"
-            },
-            {
-                "pergunta": "Como deve ser a assistência ao público?",
-                "resposta": "A assistência deve conservar-se em silêncio, sem dar qualquer sinal de aplauso ou de reprovação ao que nas sessões se passar,"
-            },
-            {
-                "pergunta": "Quem fará retirar das galerias quem infringir o parágrafo anterior?",
-                "resposta": "O Presidente"
-            },
-            {
-                "pergunta": "Por quais meios não deve dar qualquer sinal de aplauso ou de reprovação ao que nas sessões se passar?",
-                "resposta": "por meio de escritos, desenhos ou símbolos"
-            },
-            {
-                "pergunta": "O que o Presidente deve mandar evacuar sempre que necessário?",
-                "resposta": "As galerias"
-            }
-        ]
+        "perguntas": [{  "pergunta": "Onde será franqueado o acesso ao público?",  "resposta": "ao público será franqueado o acesso às galerias circundantes"},{  "pergunta": "Como deve ser a assistência ao público?",  "resposta": "A assistência deve conservar-se em silêncio, sem dar qualquer sinal de aplauso ou de reprovação ao que nas sessões se passar,"},{  "pergunta": "Quem fará retirar das galerias quem infringir o parágrafo anterior?",  "resposta": "O Presidente"},{  "pergunta": "Por quais meios não deve dar qualquer sinal de aplauso ou de reprovação ao que nas sessões se passar?",  "resposta": "por meio de escritos, desenhos ou símbolos"},{  "pergunta": "O que o Presidente deve mandar evacuar sempre que necessário?",  "resposta": "As galerias"}]
     },
     {
         "id": "248",
@@ -7948,7 +7177,7 @@
     },
     {
         "id": "252",
-        "page_content": "Art. 154. Aberta a sessão, durante 1 (uma) hora cuida-se do Expediente, que constará de: I - leitura das proposições, mensagens, ofícios, representações, petições e toda a correspondência dirigida à Mesa ou ao Presidente, de interesse do Plenário, observada a alínea \"b\" do inciso I do art. 40; II - discursos dos Deputados inscritos.",
+        "page_content": 'Art. 154. Aberta a sessão, durante 1 (uma) hora cuida-se do Expediente, que constará de: I - leitura das proposições, mensagens, ofícios, representações, petições e toda a correspondência dirigida à Mesa ou ao Presidente, de interesse do Plenário, observada a alínea "b" do inciso I do art. 40; II - discursos dos Deputados inscritos.',
         "metadata": {
             "autor": "Assembleia Legislativa do Rio Grande do Norte - ALERN",
             "fonte": "https://www.al.rn.leg.br/regimento-interno/Regimento_Interno_ALRN_junho_2024_DL.pdf",
@@ -7965,8 +7194,8 @@
                 "resposta": "leitura das proposições, mensagens, ofícios, representações, petições e toda a correspondência dirigida à Mesa ou ao Presidente,"
             },
             {
-                "pergunta": "Para qual tipo de documento é observada a alínea \"b\" do inciso I do art. 40 durante o Expediente?",
-                "resposta": "observada a alínea \"b\" do inciso I do art. 40;"
+                "pergunta": 'Para qual tipo de documento é observada a alínea "b" do inciso I do art. 40 durante o Expediente?',
+                "resposta": 'observada a alínea "b" do inciso I do art. 40;'
             },
             {
                 "pergunta": "Qual é o procedimento adotado após a leitura de documentos no Expediente?",
@@ -8051,28 +7280,7 @@
             "subtitulo": "Art. 157 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Como é determinado o número de oradores por ciclo de sessões?",
-                "resposta": "será respeitado, impreterivelmente, o número de 4 (quatro) oradores por ciclo de 6 (seis) sessões;"
-            },
-            {
-                "pergunta": "Em qual momento da sessão a ordem alfabética é observada?",
-                "resposta": "em cada sessão"
-            },
-            {
-                "pergunta": "O que acontece se um deputado ausentar-se em uma sessão em que consta como orador no Expediente?",
-                "resposta": "será franqueado o uso da palavra para outro Deputado que queira fazê-lo naquela sessão, respeitada a ordem alfabética de preferência"
-            },
-            {
-                "pergunta": "Em quais momentos a palavra pode ser concedida ao primeiro orador que solicitar?",
-                "resposta": "não havendo oradores, ou tendo falado o último deles"
-            },
-            {
-                "pergunta": "A partir de qual horário o Presidente encerra o Expediente?",
-                "resposta": "improrrogavelmente às 11h30min (onze horas e trinta minutos)"
-            }
-        ]
+        "perguntas": [  {"pergunta": "Como é determinado o número de oradores por ciclo de sessões?", "resposta": "será respeitado, impreterivelmente, o número de 4 (quatro) oradores por ciclo de 6 (seis) sessões;"},   {"pergunta": "Em qual momento da sessão a ordem alfabética é observada?", "resposta": "em cada sessão"},   {"pergunta": "O que acontece se um deputado ausentar-se em uma sessão em que consta como orador no Expediente?", "resposta": "será franqueado o uso da palavra para outro Deputado que queira fazê-lo naquela sessão, respeitada a ordem alfabética de preferência"},   {"pergunta": "Em quais momentos a palavra pode ser concedida ao primeiro orador que solicitar?", "resposta": "não havendo oradores, ou tendo falado o último deles"},   {"pergunta": "A partir de qual horário o Presidente encerra o Expediente?", "resposta": "improrrogavelmente às 11h30min (onze horas e trinta minutos)"}]
     },
     {
         "id": "256",
@@ -8391,28 +7599,7 @@
             "subtitulo": "Art. 168 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quem pode pedir a verificação do quórum de deliberação?",
-                "resposta": "Qualquer Deputado"
-            },
-            {
-                "pergunta": "Se o quórum for solicitado, em que momento isso acontece?",
-                "resposta": "Imediatamente após a proclamação do resultado de uma votação"
-            },
-            {
-                "pergunta": "Qual é a regra aplicada à verificação de quórum?",
-                "resposta": "A regra do § 2. do art. 249"
-            },
-            {
-                "pergunta": "O que acontece se o resultado da votação não for pelo processo nominal?",
-                "resposta": "Faz-se, desde já, a chamada para nova votação"
-            },
-            {
-                "pergunta": "Quem será atendido quando pedir verbalmente a verificação do quórum de deliberação?",
-                "resposta": "Sempre"
-            }
-        ]
+        "perguntas": [  {      "pergunta": "Quem pode pedir a verificação do quórum de deliberação?",      "resposta": "Qualquer Deputado"  },  {      "pergunta": "Se o quórum for solicitado, em que momento isso acontece?",      "resposta": "Imediatamente após a proclamação do resultado de uma votação"  },  {      "pergunta": "Qual é a regra aplicada à verificação de quórum?",      "resposta": "A regra do § 2. do art. 249"  },  {      "pergunta": "O que acontece se o resultado da votação não for pelo processo nominal?",      "resposta": "Faz-se, desde já, a chamada para nova votação"  },  {      "pergunta": "Quem será atendido quando pedir verbalmente a verificação do quórum de deliberação?",      "resposta": "Sempre"}]
     },
     {
         "id": "267",
@@ -8824,7 +8011,7 @@
     },
     {
         "id": "280",
-        "page_content": "Art. 180. Deliberando o Plenário, a requerimento de qualquer Deputado, será realizada sessão solene para comemoração de evento relevante ou homenagem a pessoas ou instituições. § 7. Cada Deputado poderá propor até 16 (dezesseis) sessões solenes no curso da legislatura, limitando-se a 4 (quatro) sessões solenes por ano, remanescendo fora desses cômputos as destinadas à entrega dos títulos honoríficos de cidadania norte-rio-grandense.\" (NR) (Redação dada pela Resolução nº 69, de 07 de março de 2024) § 8. O Deputado poderá ceder o direito de propor sessão solene a que faz jus a outro Deputado, na forma regulamentada em ato próprio. § 9. A realização das sessões solenes dispostas no § 7., fica condicionada à disponibilidade da agenda e dotação orçamentária.",
+        "page_content": 'Art. 180. Deliberando o Plenário, a requerimento de qualquer Deputado, será realizada sessão solene para comemoração de evento relevante ou homenagem a pessoas ou instituições. § 7. Cada Deputado poderá propor até 16 (dezesseis) sessões solenes no curso da legislatura, limitando-se a 4 (quatro) sessões solenes por ano, remanescendo fora desses cômputos as destinadas à entrega dos títulos honoríficos de cidadania norte-rio-grandense." (NR) (Redação dada pela Resolução nº 69, de 07 de março de 2024) § 8. O Deputado poderá ceder o direito de propor sessão solene a que faz jus a outro Deputado, na forma regulamentada em ato próprio. § 9. A realização das sessões solenes dispostas no § 7., fica condicionada à disponibilidade da agenda e dotação orçamentária.',
         "metadata": {
             "autor": "Assembleia Legislativa do Rio Grande do Norte - ALERN",
             "fonte": "https://www.al.rn.leg.br/regimento-interno/Regimento_Interno_ALRN_junho_2024_DL.pdf",
@@ -9319,28 +8506,7 @@
             "subtitulo": "Art. 194 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quais os atos do processo legislativo previstos neste Regimento são praticados por meio digital?",
-                "resposta": "entre eles a apresentação e a subscrição de proposições"
-            },
-            {
-                "pergunta": "Por qual forma atos do processo legislativo são praticados, segundo o Regimento?",
-                "resposta": "por meio digital, na forma de ato da Mesa"
-            },
-            {
-                "pergunta": "Quais os padrões preferenciais para o registro dos atos do processo legislativo em meio digital?",
-                "resposta": "padrões preferencialmente abertos"
-            },
-            {
-                "pergunta": "Por qual critério as proposições oriundas de certos órgãos são incluídas no sistema digital?",
-                "resposta": "nos termos do ato da Mesa referido no caput deste artigo"
-            },
-            {
-                "pergunta": "Quais os requisitos que o registro dos atos do processo legislativo em meio digital deve atender?",
-                "resposta": "de autenticidade, de integridade, de temporalidade, de não repúdio, de conservação, de disponibilidade e de confidencialidade"
-            }
-        ]
+        "perguntas": [{"pergunta": "Quais os atos do processo legislativo previstos neste Regimento são praticados por meio digital?","resposta": "entre eles a apresentação e a subscrição de proposições"},{"pergunta": "Por qual forma atos do processo legislativo são praticados, segundo o Regimento?","resposta": "por meio digital, na forma de ato da Mesa"},{"pergunta": "Quais os padrões preferenciais para o registro dos atos do processo legislativo em meio digital?","resposta": "padrões preferencialmente abertos"},{"pergunta": "Por qual critério as proposições oriundas de certos órgãos são incluídas no sistema digital?","resposta": "nos termos do ato da Mesa referido no caput deste artigo"},{"pergunta": "Quais os requisitos que o registro dos atos do processo legislativo em meio digital deve atender?","resposta": "de autenticidade, de integridade, de temporalidade, de não repúdio, de conservação, de disponibilidade e de confidencialidade"}]
     },
     {
         "id": "297",
@@ -9376,35 +8542,14 @@
     },
     {
         "id": "298",
-        "page_content": "Art. 196. Além da proposta de emenda à Constituição, os projetos são: I - de lei, destinados a regular as matérias de competência do Poder Legislativo, com sanção do Governador do Estado; II - de decreto legislativo, destinados a regular as matérias da exclusiva competência do Poder Legislativo, sem sanção do Governador do Estado; III - de resolução, destinados a apresentar proposta de emenda à Constituição Federal na forma do art. 60, III, da CF, e ainda, destinados a regular, com eficácia de lei ordinária, matérias da competência privativa da Assembleia, que interessem apenas à sua economia interna, tais como: (Redação dada pela Resolução nº 38, de 19 de agosto de 2021) a) aplicação de penalidade a Deputado; b) (Suprimida pela Resolução nº 38, de 19 de agosto de 2021) b) Regimento Interno; (Antiga alínea \"c\" renomeada pela Resolução nº 38, de 19 de agosto de 2021) c) organização dos serviços administrativos; (Antiga alínea \"d\" renomeada pela Resolução nº 38, de 19 de agosto de 2021) d) delegação legislativa; (Antiga alínea \"e\" renomeada pela Resolução nº 38, de 19 de agosto de 2021) Parágrafo único. A matéria constante de proposição rejeitada somente poderá constituir objeto de nova proposição, na mesma sessão legislativa, mediante proposta de maioria absoluta dos Deputados.",
+        "page_content": 'Art. 196. Além da proposta de emenda à Constituição, os projetos são: I - de lei, destinados a regular as matérias de competência do Poder Legislativo, com sanção do Governador do Estado; II - de decreto legislativo, destinados a regular as matérias da exclusiva competência do Poder Legislativo, sem sanção do Governador do Estado; III - de resolução, destinados a apresentar proposta de emenda à Constituição Federal na forma do art. 60, III, da CF, e ainda, destinados a regular, com eficácia de lei ordinária, matérias da competência privativa da Assembleia, que interessem apenas à sua economia interna, tais como: (Redação dada pela Resolução nº 38, de 19 de agosto de 2021) a) aplicação de penalidade a Deputado; b) (Suprimida pela Resolução nº 38, de 19 de agosto de 2021) b) Regimento Interno; (Antiga alínea "c" renomeada pela Resolução nº 38, de 19 de agosto de 2021) c) organização dos serviços administrativos; (Antiga alínea "d" renomeada pela Resolução nº 38, de 19 de agosto de 2021) d) delegação legislativa; (Antiga alínea "e" renomeada pela Resolução nº 38, de 19 de agosto de 2021) Parágrafo único. A matéria constante de proposição rejeitada somente poderá constituir objeto de nova proposição, na mesma sessão legislativa, mediante proposta de maioria absoluta dos Deputados.',
         "metadata": {
             "autor": "Assembleia Legislativa do Rio Grande do Norte - ALERN",
             "fonte": "https://www.al.rn.leg.br/regimento-interno/Regimento_Interno_ALRN_junho_2024_DL.pdf",
             "subtitulo": "Art. 196 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quais são os projetos que podem ser apresentados no Poder Legislativo?",
-                "resposta": "I - de lei, destinados a regular as matérias de competência do Poder Legislativo, com sanção do Governador do Estado; II - de decreto legislativo, destinados a regular as matérias da exclusiva competência do Poder Legislativo, sem sanção do Governador do Estado; III - de resolução,"
-            },
-            {
-                "pergunta": "Qual é o tipo de proposição que pode apresentar proposta de emenda à Constituição Federal?",
-                "resposta": "apresentar proposta de emenda à Constituição Federal na forma do art. 60, III, da CF"
-            },
-            {
-                "pergunta": "Como é que uma matéria rejeitada volta a ser tratada no Poder Legislativo?",
-                "resposta": "A matéria constante de proposição rejeitada somente poderá constituir objeto de nova proposição, na mesma sessão legislativa, mediante proposta de maioria absoluta dos Deputados"
-            },
-            {
-                "pergunta": "Quais são os assuntos que podem ser tratados por resolução, com eficácia de lei ordinária?",
-                "resposta": "matérias da competência privativa da Assembleia, que interessem apenas à sua economia interna,"
-            },
-            {
-                "pergunta": "Quais são os assuntos que não podem ser objeto de resolução?",
-                "resposta": "aplicação de penalidade a Deputado; b) Regimento Interno; c) organização dos serviços administrativos; d) delegação legislativa"
-            }
-        ]
+        "perguntas": [{"pergunta": "Quais são os projetos que podem ser apresentados no Poder Legislativo?", "resposta": "I - de lei, destinados a regular as matérias de competência do Poder Legislativo, com sanção do Governador do Estado; II - de decreto legislativo, destinados a regular as matérias da exclusiva competência do Poder Legislativo, sem sanção do Governador do Estado; III - de resolução,"}, {"pergunta": "Qual é o tipo de proposição que pode apresentar proposta de emenda à Constituição Federal?", "resposta": "apresentar proposta de emenda à Constituição Federal na forma do art. 60, III, da CF"}, {"pergunta": "Como é que uma matéria rejeitada volta a ser tratada no Poder Legislativo?", "resposta": "A matéria constante de proposição rejeitada somente poderá constituir objeto de nova proposição, na mesma sessão legislativa, mediante proposta de maioria absoluta dos Deputados"}, {"pergunta": "Quais são os assuntos que podem ser tratados por resolução, com eficácia de lei ordinária?", "resposta": "matérias da competência privativa da Assembleia, que interessem apenas à sua economia interna,"}, {"pergunta": "Quais são os assuntos que não podem ser objeto de resolução?", "resposta": "aplicação de penalidade a Deputado; b) Regimento Interno; c) organização dos serviços administrativos; d) delegação legislativa"}]
     },
     {
         "id": "299",
@@ -9880,7 +9025,7 @@
     },
     {
         "id": "315",
-        "page_content": "Art. 213. As emendas são proposições acessórias de outras, e se classificam em supressivas, aglutinativas, substitutivas, modificativas ou aditivas. § 1. Emenda supressiva é a que manda erradicar qualquer parte de outra proposição. § 2. Aglutinativa é a emenda que resulta da fusão de outras emendas, e destas com o texto da proposição principal, por transação entre os Autores respectivos, tendente à aproximação de seus objetivos. § 3. Emenda substitutiva é aquela apresentada como sucedânea a parte de outra proposição. § 4. Emenda modificativa é a que altera a proposição sem a modificar substancialmente. § 5. Considera-se e denomina-se \"substitutivo\" a emenda que alterar, substancial ou formalmente, toda uma proposição. É apenas formal a alteração que vise exclusivamente ao aperfeiçoamento da técnica legislativa. § 6. Emenda aditiva é a que se acrescenta a outra proposição. § 7. Subemenda é a emenda apresentada a outra emenda, que pode ser, por sua vez, substitutiva ou aditiva. § 8. Denomina-se emenda de redação a modificativa que tem como escopo sanar vício de linguagem, incorreção de técnica legislativa ou lapso manifesto.",
+        "page_content": 'Art. 213. As emendas são proposições acessórias de outras, e se classificam em supressivas, aglutinativas, substitutivas, modificativas ou aditivas. § 1. Emenda supressiva é a que manda erradicar qualquer parte de outra proposição. § 2. Aglutinativa é a emenda que resulta da fusão de outras emendas, e destas com o texto da proposição principal, por transação entre os Autores respectivos, tendente à aproximação de seus objetivos. § 3. Emenda substitutiva é aquela apresentada como sucedânea a parte de outra proposição. § 4. Emenda modificativa é a que altera a proposição sem a modificar substancialmente. § 5. Considera-se e denomina-se "substitutivo" a emenda que alterar, substancial ou formalmente, toda uma proposição. É apenas formal a alteração que vise exclusivamente ao aperfeiçoamento da técnica legislativa. § 6. Emenda aditiva é a que se acrescenta a outra proposição. § 7. Subemenda é a emenda apresentada a outra emenda, que pode ser, por sua vez, substitutiva ou aditiva. § 8. Denomina-se emenda de redação a modificativa que tem como escopo sanar vício de linguagem, incorreção de técnica legislativa ou lapso manifesto.',
         "metadata": {
             "autor": "Assembleia Legislativa do Rio Grande do Norte - ALERN",
             "fonte": "https://www.al.rn.leg.br/regimento-interno/Regimento_Interno_ALRN_junho_2024_DL.pdf",
@@ -10155,28 +9300,7 @@
             "subtitulo": "Art. 221 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "O que a Assembleia pode fazer sobre emendas?",
-                "resposta": "Art. 221. O Presidente da Assembleia ou de Comissão pode recusar emenda que:"
-            },
-            {
-                "pergunta": "Qual é o motivo pelo qual uma emenda pode ser rejeitada pela Assembleia?",
-                "resposta": "I - não tenha relação com a matéria do dispositivo que se pretende emendar, ou verse assunto estranho à proposição principal;"
-            },
-            {
-                "pergunta": "Quando deve ser manifestada a recusa de uma emenda?",
-                "resposta": "Parágrafo único. A recusa deve ser manifestada até 1 (uma) sessão após o recebimento, ou na primeira reunião da Comissão que se seguir à apresentação,"
-            },
-            {
-                "pergunta": "Como um autor pode proceder em caso de recusa de uma emenda?",
-                "resposta": "podendo o Autor, por requerimento oral ou escrito, imediatamente recorrer para o respectivo Plenário"
-            },
-            {
-                "pergunta": "Qual é a ordem de julgamento do recurso?",
-                "resposta": "sendo o recurso apreciado na Ordem do Dia da mesma sessão ou reunião, sem discussão"
-            }
-        ]
+        "perguntas": [{"pergunta": "O que a Assembleia pode fazer sobre emendas?", "resposta": "Art. 221. O Presidente da Assembleia ou de Comissão pode recusar emenda que:"},{"pergunta": "Qual é o motivo pelo qual uma emenda pode ser rejeitada pela Assembleia?", "resposta": "I - não tenha relação com a matéria do dispositivo que se pretende emendar, ou verse assunto estranho à proposição principal;" },{"pergunta": "Quando deve ser manifestada a recusa de uma emenda?" , "resposta": "Parágrafo único. A recusa deve ser manifestada até 1 (uma) sessão após o recebimento, ou na primeira reunião da Comissão que se seguir à apresentação,"},{"pergunta": "Como um autor pode proceder em caso de recusa de uma emenda?", "resposta": "podendo o Autor, por requerimento oral ou escrito, imediatamente recorrer para o respectivo Plenário"},{"pergunta": "Qual é a ordem de julgamento do recurso?", "resposta": "sendo o recurso apreciado na Ordem do Dia da mesma sessão ou reunião, sem discussão"}]
     },
     {
         "id": "324",
@@ -10287,28 +9411,7 @@
             "subtitulo": "Art. 225 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Onde fica o artigo?",
-                "resposta": "Art. 225."
-            },
-            {
-                "pergunta": "Quais as etapas para a proposição que volta das Comissões?",
-                "resposta": "Logo que volte das Comissões a que haja sido distribuída, a proposição será disponibilizada no sistema eletrônico e incluída na pauta da Ordem do Dia."
-            },
-            {
-                "pergunta": "Onde ficará a proposição após voltar das Comissões?",
-                "resposta": "disponibilizada no sistema eletrônico"
-            },
-            {
-                "pergunta": "A partir de quando a proposição será disponibilizada e incluída na pauta da Ordem do Dia?",
-                "resposta": "Logo que volte das Comissões a que haja sido distribuída"
-            },
-            {
-                "pergunta": "Onde ficará a proposta incluída na pauta da Ordem do Dia?",
-                "resposta": "na pauta da Ordem do Dia"
-            }
-        ]
+        "perguntas": [{"pergunta": "Onde fica o artigo?", "resposta": "Art. 225."},{"pergunta": "Quais as etapas para a proposição que volta das Comissões?", "resposta": "Logo que volte das Comissões a que haja sido distribuída, a proposição será disponibilizada no sistema eletrônico e incluída na pauta da Ordem do Dia."},{"pergunta": "Onde ficará a proposição após voltar das Comissões?", "resposta": "disponibilizada no sistema eletrônico"},{"pergunta": "A partir de quando a proposição será disponibilizada e incluída na pauta da Ordem do Dia?", "resposta": "Logo que volte das Comissões a que haja sido distribuída"},{"pergunta": "Onde ficará a proposta incluída na pauta da Ordem do Dia?", "resposta": "na pauta da Ordem do Dia"}]
     },
     {
         "id": "328",
@@ -10376,35 +9479,14 @@
     },
     {
         "id": "330",
-        "page_content": "Art. 228. As proposições terão numeração anual em séries específicas e obedecerão ao seguinte: I - as emendas serão numeradas, em cada turno, pela ordem de entrada e organizadas pela ordem dos artigos do projeto, guardada a sequência determinada pela sua natureza, a saber, supressivas, aglutinativas, substitutivas, modificativas e aditivas; II - as subemendas de Comissão figurarão ao fim da série das emendas de sua iniciativa, subordinadas ao título \"Subemendas\", com a indicação das emendas a que correspondam; quando à mesma emenda forem apresentadas várias subemendas, terão estas numeração ordinal em relação à emenda respectiva. Parágrafo único. Os projetos de lei ordinária tramitarão com a simples denominação de \"projeto de lei\".",
+        "page_content": 'Art. 228. As proposições terão numeração anual em séries específicas e obedecerão ao seguinte: I - as emendas serão numeradas, em cada turno, pela ordem de entrada e organizadas pela ordem dos artigos do projeto, guardada a sequência determinada pela sua natureza, a saber, supressivas, aglutinativas, substitutivas, modificativas e aditivas; II - as subemendas de Comissão figurarão ao fim da série das emendas de sua iniciativa, subordinadas ao título "Subemendas", com a indicação das emendas a que correspondam; quando à mesma emenda forem apresentadas várias subemendas, terão estas numeração ordinal em relação à emenda respectiva. Parágrafo único. Os projetos de lei ordinária tramitarão com a simples denominação de "projeto de lei".',
         "metadata": {
             "autor": "Assembleia Legislativa do Rio Grande do Norte - ALERN",
             "fonte": "https://www.al.rn.leg.br/regimento-interno/Regimento_Interno_ALRN_junho_2024_DL.pdf",
             "subtitulo": "Art. 228 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Como as proposições são numeradas?",
-                "resposta": "As proposições terão numeração anual em séries específicas."
-            },
-            {
-                "pergunta": "Quais as características da numeração das emendas?",
-                "resposta": "I - as emendas serão numeradas, em cada turno, pela ordem de entrada e organizadas pela ordem dos artigos do projeto, guardada a sequência determinada pela sua natureza."
-            },
-            {
-                "pergunta": "Qual o ordenamento das subemendas de Comissão?",
-                "resposta": "as subemendas de Comissão figurarão ao fim da série das emendas de sua iniciativa,"
-            },
-            {
-                "pergunta": "Como as subemendas são numeradas quando apresentadas várias?",
-                "resposta": "terão estas numeração ordinal em relação à emenda respectiva."
-            },
-            {
-                "pergunta": "O que acontece com os projetos de lei ordinária em tramitação?",
-                "resposta": "Os projetos de lei ordinária tramitarão com a simples denominação de 'projeto de lei'."
-            }
-        ]
+        "perguntas": [  {"pergunta": "Como as proposições são numeradas?", "resposta": "As proposições terão numeração anual em séries específicas."},  {"pergunta": "Quais as características da numeração das emendas?", "resposta": "I - as emendas serão numeradas, em cada turno, pela ordem de entrada e organizadas pela ordem dos artigos do projeto, guardada a sequência determinada pela sua natureza."},  {"pergunta": "Qual o ordenamento das subemendas de Comissão?", "resposta": "as subemendas de Comissão figurarão ao fim da série das emendas de sua iniciativa,"},  {"pergunta": "Como as subemendas são numeradas quando apresentadas várias?", "resposta": "terão estas numeração ordinal em relação à emenda respectiva."},  {"pergunta": "O que acontece com os projetos de lei ordinária em tramitação?", "resposta": "Os projetos de lei ordinária tramitarão com a simples denominação de 'projeto de lei'."}]
     },
     {
         "id": "331",
@@ -10787,28 +9869,7 @@
             "subtitulo": "Art. 238 - 4",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "O que acontece quando um requerimento de urgência é aprovado para uma matéria?",
-                "resposta": "A matéria vai às Comissões"
-            },
-            {
-                "pergunta": "O que acontece com o prazo do inciso II se um requerimento de urgência for aprovado para uma matéria anteriormente em tramitação?",
-                "resposta": "Passe a correr no dia seguinte"
-            },
-            {
-                "pergunta": "Quais são as regras observadas quando um requerimento de urgência é aprovado?",
-                "resposta": "Observadas as seguintes regras (Redação dada pela Resolução nº 38, de 19 de agosto de 2021)"
-            },
-            {
-                "pergunta": "O que deve ser apresentado em caso de aprovação de requerimento de urgência para uma matéria anteriormente em tramitação?",
-                "resposta": "Emendas"
-            },
-            {
-                "pergunta": "De que forma as matérias podem ter seu prazo alterado após a aprovação do requerimento de urgência?",
-                "resposta": "Pelo inciso II"
-            }
-        ]
+        "perguntas": [{  "pergunta": "O que acontece quando um requerimento de urgência é aprovado para uma matéria?",  "resposta": "A matéria vai às Comissões"},{  "pergunta": "O que acontece com o prazo do inciso II se um requerimento de urgência for aprovado para uma matéria anteriormente em tramitação?",  "resposta": "Passe a correr no dia seguinte"},{  "pergunta": "Quais são as regras observadas quando um requerimento de urgência é aprovado?",  "resposta": "Observadas as seguintes regras (Redação dada pela Resolução nº 38, de 19 de agosto de 2021)"},{  "pergunta": "O que deve ser apresentado em caso de aprovação de requerimento de urgência para uma matéria anteriormente em tramitação?",  "resposta": "Emendas"},{  "pergunta": "De que forma as matérias podem ter seu prazo alterado após a aprovação do requerimento de urgência?",  "resposta": "Pelo inciso II"}]
     },
     {
         "id": "344",
@@ -10884,23 +9945,10 @@
             "titulo": "Regimento Interno - ALRN"
         },
         "perguntas": [
-            {
-                "pergunta": "Quais dispositivos podem ser objeto de votação destacada?",
-                "resposta": "dispositivos ou expressões do texto oferecido pelas Comissões."
-            },
-            {
-                "pergunta": "Quando é possível apresentar parecer oral?",
-                "resposta": "Salvo se forem vários os Relatores, e divergentes seus pareceres."
-            },
-            {
-                "pergunta": "O que acontece quando as Comissões optam por redigir novo texto?",
-                "resposta": "seu texto será submetido ao Plenário apenas este"
-            },
-            {
-                "pergunta": "Que dispositivos podem ser votados destacadamente?",
-                "resposta": "dispositivos ou expressões do texto oferecido pelas Comissões."
-            }
-        ]
+            {"pergunta": "Quais dispositivos podem ser objeto de votação destacada?", "resposta": "dispositivos ou expressões do texto oferecido pelas Comissões."},
+            {"pergunta": "Quando é possível apresentar parecer oral?", "resposta": "Salvo se forem vários os Relatores, e divergentes seus pareceres."},
+            {"pergunta": "O que acontece quando as Comissões optam por redigir novo texto?", "resposta": "seu texto será submetido ao Plenário apenas este"},
+            {"pergunta": "Que dispositivos podem ser votados destacadamente?", "resposta": "dispositivos ou expressões do texto oferecido pelas Comissões."}]
     },
     {
         "id": "347",
@@ -11143,28 +10191,7 @@
             "subtitulo": "Art. 247 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quando é discutida uma matéria que não foi emendada?",
-                "resposta": "Esgotado o prazo do caput do art. 214, sem emendas, a matéria será discutida na sessão seguinte."
-            },
-            {
-                "pergunta": "O que acontece com uma proposta que é emendada?",
-                "resposta": "Emendada a proposição, porém, volta ela às Comissões, saindo da pauta da Ordem do Dia."
-            },
-            {
-                "pergunta": "Quais as disposições gerais previstas no texto?",
-                "resposta": "Subseção I Das Disposições Gerais"
-            },
-            {
-                "pergunta": "O prazo para discussão de uma matéria sem emendas é determinado por qual artigo?",
-                "resposta": "do caput do art. 214"
-            },
-            {
-                "pergunta": "Quais as condições necessárias para que a matéria seja discutida na sessão seguinte?",
-                "resposta": "Esgotado o prazo"
-            }
-        ]
+        "perguntas": [{"pergunta": "Quando é discutida uma matéria que não foi emendada?", "resposta": "Esgotado o prazo do caput do art. 214, sem emendas, a matéria será discutida na sessão seguinte."}, {"pergunta": "O que acontece com uma proposta que é emendada?", "resposta": "Emendada a proposição, porém, volta ela às Comissões, saindo da pauta da Ordem do Dia."}, {"pergunta": "Quais as disposições gerais previstas no texto?", "resposta": "Subseção I Das Disposições Gerais"}, {"pergunta": "O prazo para discussão de uma matéria sem emendas é determinado por qual artigo?", "resposta": "do caput do art. 214"}, {"pergunta": "Quais as condições necessárias para que a matéria seja discutida na sessão seguinte?", "resposta": "Esgotado o prazo"}]
     },
     {
         "id": "355",
@@ -11207,36 +10234,7 @@
             "subtitulo": "Art. 249 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Qual é o procedimento adotado pelo Deputado quando tem interesse individual em uma votação?",
-                "resposta": "Tratando-se de causa própria ou de assunto em que tenha interesse individual, deverá o Deputado dar-se por impedido e fazer comunicação à Mesa,"
-            },
-            {
-                "pergunta": "Qual é o que acontece com o voto do Deputado se ele não votar?",
-                "resposta": "O Deputado que não votar será considerado ausente à sessão para todos os efeitos constitucionais e regimentais,"
-            },
-            {
-                "pergunta": "Quem pode declarar obstrução legítima?",
-                "resposta": "o Deputado na própria sessão, ou por Líder, aproveitando a declaração do Líder aos integrantes de sua bancada"
-            },
-            {
-                "pergunta": "O que acontece se houver empate em votação ostensiva?",
-                "resposta": "Cabe ao Presidente desempatá-la. Se o Presidente declarar abstenção, seu substituto desempatará a votação."
-            },
-            {
-                "pergunta": "Quais são as hipóteses nos quais os votos em branco e as abstenções não serão computados?",
-                "resposta": "Não se desempata votação para se atingir quórum qualificado"
-            },
-            {
-                "pergunta": "Qual é o procedimento adotado pelo Deputado depois da votação ostensiva?",
-                "resposta": "O Deputado pode, depois da votação ostensiva, enviar à Mesa, para que conste dos anais, declaração escrita de voto,"
-            },
-            {
-                "pergunta": "Qual é a função do Presidente no processo de proclamar o resultado final da votação?",
-                "resposta": "O Presidente proclamará o resultado."
-            }
-        ]
+        "perguntas": [{"pergunta": "Qual é o procedimento adotado pelo Deputado quando tem interesse individual em uma votação?","resposta": "Tratando-se de causa própria ou de assunto em que tenha interesse individual, deverá o Deputado dar-se por impedido e fazer comunicação à Mesa,"},{"pergunta": "Qual é o que acontece com o voto do Deputado se ele não votar?","resposta": "O Deputado que não votar será considerado ausente à sessão para todos os efeitos constitucionais e regimentais,"},{"pergunta": "Quem pode declarar obstrução legítima?","resposta": "o Deputado na própria sessão, ou por Líder, aproveitando a declaração do Líder aos integrantes de sua bancada"},{"pergunta": "O que acontece se houver empate em votação ostensiva?","resposta": "Cabe ao Presidente desempatá-la. Se o Presidente declarar abstenção, seu substituto desempatará a votação."},{"pergunta": "Quais são as hipóteses nos quais os votos em branco e as abstenções não serão computados?","resposta": "Não se desempata votação para se atingir quórum qualificado"},{"pergunta": "Qual é o procedimento adotado pelo Deputado depois da votação ostensiva?","resposta": "O Deputado pode, depois da votação ostensiva, enviar à Mesa, para que conste dos anais, declaração escrita de voto,"},{"pergunta": "Qual é a função do Presidente no processo de proclamar o resultado final da votação?","resposta": "O Presidente proclamará o resultado."}]
     },
     {
         "id": "357",
@@ -11488,7 +10486,7 @@
     },
     {
         "id": "365",
-        "page_content": "Art. 258. O processo nominal, além da hipótese do parágrafo do artigo anterior, será utilizado nos casos em que se exija quórum especial de votação, e quando este Regimento expressamente determinar. § 1. Os Deputados serão chamados pelo Primeiro Secretário e responderão \"sim\" ou \"não\", conforme sejam favoráveis ou contrários ao que se estiver votando, ou declararão abstenção, devendo chamar-se em primeiro lugar os Líderes de bancadas, na ordem decrescente do número de seus integrantes. § 2. Enquanto não proclamado o resultado pelo Presidente, os Deputados que não tiverem respondido à chamada poderão votar junto à Mesa, ou alterar seu voto. § 3. Da ata da sessão constarão os nomes dos Deputados que votaram \"sim\", \"não\" ou \"abstenção\".",
+        "page_content": 'Art. 258. O processo nominal, além da hipótese do parágrafo do artigo anterior, será utilizado nos casos em que se exija quórum especial de votação, e quando este Regimento expressamente determinar. § 1. Os Deputados serão chamados pelo Primeiro Secretário e responderão "sim" ou "não", conforme sejam favoráveis ou contrários ao que se estiver votando, ou declararão abstenção, devendo chamar-se em primeiro lugar os Líderes de bancadas, na ordem decrescente do número de seus integrantes. § 2. Enquanto não proclamado o resultado pelo Presidente, os Deputados que não tiverem respondido à chamada poderão votar junto à Mesa, ou alterar seu voto. § 3. Da ata da sessão constarão os nomes dos Deputados que votaram "sim", "não" ou "abstenção".',
         "metadata": {
             "autor": "Assembleia Legislativa do Rio Grande do Norte - ALERN",
             "fonte": "https://www.al.rn.leg.br/regimento-interno/Regimento_Interno_ALRN_junho_2024_DL.pdf",
@@ -11520,7 +10518,7 @@
     },
     {
         "id": "366",
-        "page_content": "Art. 259. A votação secreta se fará através de cédulas impressas, com as expressões \"sim\" e \"não\", antecedidas de pequeno quadrilátero, e postas à disposição dos Deputados em lugar indevassável no recinto do Plenário, com sobrecartas em número suficiente. § 1. Chamados os Deputados pelo Primeiro Secretário, dirigir-se-ão ao lugar onde se encontram as cédulas e sobrecartas, assinalarão seus votos, porão a cédula na sobrecarta, e a depositarão em urna à vista do Plenário. § 2. A apuração se fará por 2 (dois) Deputados convidados pelo Presidente.",
+        "page_content": 'Art. 259. A votação secreta se fará através de cédulas impressas, com as expressões "sim" e "não", antecedidas de pequeno quadrilátero, e postas à disposição dos Deputados em lugar indevassável no recinto do Plenário, com sobrecartas em número suficiente. § 1. Chamados os Deputados pelo Primeiro Secretário, dirigir-se-ão ao lugar onde se encontram as cédulas e sobrecartas, assinalarão seus votos, porão a cédula na sobrecarta, e a depositarão em urna à vista do Plenário. § 2. A apuração se fará por 2 (dois) Deputados convidados pelo Presidente.',
         "metadata": {
             "autor": "Assembleia Legislativa do Rio Grande do Norte - ALERN",
             "fonte": "https://www.al.rn.leg.br/regimento-interno/Regimento_Interno_ALRN_junho_2024_DL.pdf",
@@ -11530,7 +10528,7 @@
         "perguntas": [
             {
                 "pergunta": "Qual será o método de votação?",
-                "resposta": "A votação secreta se fará através de cédulas impressas, com as expressões \"sim\" e \"não\", antecedidas de pequeno quadrilátero..."
+                "resposta": 'A votação secreta se fará através de cédulas impressas, com as expressões "sim" e "não", antecedidas de pequeno quadrilátero...'
             },
             {
                 "pergunta": "Como os deputados serão chamados para a votação?",
@@ -11686,28 +10684,7 @@
             "subtitulo": "Art. 264 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quando aprovado definitivamente um projeto, onde ele é encaminhado?",
-                "resposta": "encaminhado à Comissão de Constituição, Justiça e Redação para redação final."
-            },
-            {
-                "pergunta": "Qual o prazo máximo que a comissão tem para ultimar a redação dos projetos em regime de urgência?",
-                "resposta": "1 (um) dia"
-            },
-            {
-                "pergunta": "Quais são os casos em que não é necessário fazer a redação final do projeto?",
-                "resposta": "se o projeto houver sido aprovado sem emenda ou com substitutivo integral, salvo se houver vício de linguagem, defeito ou erro manifesto a corrigir"
-            },
-            {
-                "pergunta": "Quais os prazos da Comissão para ultimar a redação dos projetos?",
-                "resposta": "1 dia para os projetos em regime de urgência; 2 dias para aqueles em regime de prioridade; e 5 dias para os projetos com tramitação ordinária."
-            },
-            {
-                "pergunta": "O que ocorre quando não é feito a redação final?",
-                "resposta": "A redação será dispensada"
-            }
-        ]
+        "perguntas": [{"pergunta": "Quando aprovado definitivamente um projeto, onde ele é encaminhado?","resposta": "encaminhado à Comissão de Constituição, Justiça e Redação para redação final."},{"pergunta": "Qual o prazo máximo que a comissão tem para ultimar a redação dos projetos em regime de urgência?","resposta": "1 (um) dia"},{"pergunta": "Quais são os casos em que não é necessário fazer a redação final do projeto?","resposta": "se o projeto houver sido aprovado sem emenda ou com substitutivo integral, salvo se houver vício de linguagem, defeito ou erro manifesto a corrigir"},{"pergunta": "Quais os prazos da Comissão para ultimar a redação dos projetos?","resposta": "1 dia para os projetos em regime de urgência; 2 dias para aqueles em regime de prioridade; e 5 dias para os projetos com tramitação ordinária."},{"pergunta": "O que ocorre quando não é feito a redação final?","resposta": "A redação será dispensada"}]
     },
     {
         "id": "372",
@@ -11750,28 +10727,7 @@
             "subtitulo": "Art. 266 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Qual é a hipótese em que o presidente encaminha matéria à comissão para correção de erro?",
-                "resposta": "tratando-se de contradição, incoerência, prejudicialidade ou equívoco que importe em alteração do sentido do projeto"
-            },
-            {
-                "pergunta": "O que acontece quando a matéria já foi encaminhada à sanção e o presidente identifica um erro?",
-                "resposta": "o Presidente, após manifestação do Plenário, comunicará o fato ao Governador do Estado, remetendo novos autógrafos, se for o caso, ou solicitando a retificação do texto"
-            },
-            {
-                "pergunta": "Qual é o procedimento para corrigir inexatidões materiais devidas a lapso manifesto ou erro gráfico?",
-                "resposta": "o Presidente adotará as medidas especificadas no inciso II, mediante ofício ao Governador do Estado"
-            },
-            {
-                "pergunta": "O que é feito se o erro não importa em alteração do sentido da matéria?",
-                "resposta": "as medidas específicas mencionadas no inciso II, mediante republicação da lei"
-            },
-            {
-                "pergunta": "A quem é comunicado o fato de um erro depois que ele foi identificado pelo presidente?",
-                "resposta": "ao Governador do Estado e posteriormente ao Plenário"
-            }
-        ]
+        "perguntas": [  {      "pergunta": "Qual é a hipótese em que o presidente encaminha matéria à comissão para correção de erro?",      "resposta": "tratando-se de contradição, incoerência, prejudicialidade ou equívoco que importe em alteração do sentido do projeto"  },  {      "pergunta": "O que acontece quando a matéria já foi encaminhada à sanção e o presidente identifica um erro?",      "resposta": "o Presidente, após manifestação do Plenário, comunicará o fato ao Governador do Estado, remetendo novos autógrafos, se for o caso, ou solicitando a retificação do texto"  },  {      "pergunta": "Qual é o procedimento para corrigir inexatidões materiais devidas a lapso manifesto ou erro gráfico?",      "resposta": "o Presidente adotará as medidas especificadas no inciso II, mediante ofício ao Governador do Estado"  },  {      "pergunta": "O que é feito se o erro não importa em alteração do sentido da matéria?",      "resposta": "as medidas específicas mencionadas no inciso II, mediante republicação da lei"  },  {      "pergunta": "A quem é comunicado o fato de um erro depois que ele foi identificado pelo presidente?",      "resposta": "ao Governador do Estado e posteriormente ao Plenário"}]
     },
     {
         "id": "374",
@@ -11866,28 +10822,7 @@
             "subtitulo": "Art. 270 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Como funciona a tramitação da proposta?",
-                "resposta": "A proposta, depois de lida no expediente e publicada, vai à Comissão de Constituição, Justiça e Redação, que se pronunciará sobre sua admissibilidade, no prazo de até 20 (vinte) dias."
-            },
-            {
-                "pergunta": "Quais são os requisitos para a proposta ser incluída na pauta da Ordem do Dia?",
-                "resposta": "Publicado o parecer no Diário Oficial Eletrônico, e disponibilizado no sistema eletrônico, 2 (duas) sessões depois a proposta será incluída na pauta da Ordem do Dia."
-            },
-            {
-                "pergunta": "Quais são os requisitos para que emendas possam ser apresentadas?",
-                "resposta": "Somente perante a Comissão poderão ser apresentadas emendas, desde que subscritas por 1/3 (um terço) dos Deputados."
-            },
-            {
-                "pergunta": "Qual é o prazo para apresentação de emendas?",
-                "resposta": "O prazo para apresentação de emendas é de 5 (cinco) dias a partir da nomeação da Comissão."
-            },
-            {
-                "pergunta": "Quais são os requisitos para que uma proposta seja considerada aprovada?",
-                "resposta": "Será aprovada a proposta que obtiver, em ambos os turnos, 3/5 (três quintos) dos votos dos membros da Assembleia."
-            }
-        ]
+        "perguntas": [{"pergunta": "Como funciona a tramitação da proposta?", "resposta": "A proposta, depois de lida no expediente e publicada, vai à Comissão de Constituição, Justiça e Redação, que se pronunciará sobre sua admissibilidade, no prazo de até 20 (vinte) dias."},{"pergunta": "Quais são os requisitos para a proposta ser incluída na pauta da Ordem do Dia?", "resposta": "Publicado o parecer no Diário Oficial Eletrônico, e disponibilizado no sistema eletrônico, 2 (duas) sessões depois a proposta será incluída na pauta da Ordem do Dia."},{"pergunta": "Quais são os requisitos para que emendas possam ser apresentadas?", "resposta": "Somente perante a Comissão poderão ser apresentadas emendas, desde que subscritas por 1/3 (um terço) dos Deputados."},{"pergunta": "Qual é o prazo para apresentação de emendas?", "resposta": "O prazo para apresentação de emendas é de 5 (cinco) dias a partir da nomeação da Comissão."},{"pergunta": "Quais são os requisitos para que uma proposta seja considerada aprovada?", "resposta": "Será aprovada a proposta que obtiver, em ambos os turnos, 3/5 (três quintos) dos votos dos membros da Assembleia."}]
     },
     {
         "id": "378",
@@ -12150,28 +11085,7 @@
             "subtitulo": "Art. 279 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quais são os prazos para que o Governador do Estado encaminhe as contas ao Tribunal de Contas?",
-                "resposta": "no prazo do inciso XVIII do art. 64 da Constituição"
-            },
-            {
-                "pergunta": "Onde devem ser publicadas as contas do Governador do Estado?",
-                "resposta": "Diário Oficial Eletrônico"
-            },
-            {
-                "pergunta": "Quais são os passos a serem realizados para que o Tribunal de Contas retorne as contas ao Governador do Estado e qual a consequência?",
-                "resposta": "Restituídas as contas pelo Tribunal de Contas, seu parecer será disponibilizado no sistema eletrônico"
-            },
-            {
-                "pergunta": "O que deve ser feito após as contas serem retidas pelo Tribunal de Contas para que o Governador do Estado?",
-                "resposta": "aguardando-se por 10 (dez) dias pedidos de informações"
-            },
-            {
-                "pergunta": "Quais instituições são envolvidas na avaliação das contas do Governador do Estado e com quais objetivos?",
-                "resposta": "Comissão de Finanças e Fiscalização, Tribunal de Contas"
-            }
-        ]
+        "perguntas": [{"pergunta": "Quais são os prazos para que o Governador do Estado encaminhe as contas ao Tribunal de Contas?", "resposta": "no prazo do inciso XVIII do art. 64 da Constituição"},{"pergunta": "Onde devem ser publicadas as contas do Governador do Estado?", "resposta": "Diário Oficial Eletrônico"},{"pergunta": "Quais são os passos a serem realizados para que o Tribunal de Contas retorne as contas ao Governador do Estado e qual a consequência?", "resposta": "Restituídas as contas pelo Tribunal de Contas, seu parecer será disponibilizado no sistema eletrônico"},{"pergunta": "O que deve ser feito após as contas serem retidas pelo Tribunal de Contas para que o Governador do Estado?", "resposta": "aguardando-se por 10 (dez) dias pedidos de informações"},{"pergunta": "Quais instituições são envolvidas na avaliação das contas do Governador do Estado e com quais objetivos?", "resposta": "Comissão de Finanças e Fiscalização, Tribunal de Contas"}]
     },
     {
         "id": "387",
@@ -12306,28 +11220,7 @@
             "subtitulo": "Art. 280 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quem incumbe proceder à tomada de contas do Governador do Estado?",
-                "resposta": "À Comissão de Finanças e Fiscalização"
-            },
-            {
-                "pergunta": "Qual o prazo dado ao Governador para apresentar as contas?",
-                "resposta": "60 (sessenta) dias após a abertura da sessao legislativa"
-            },
-            {
-                "pergunta": "Em que casos pode ser realizada a tomada de contas do Governador do Estado?",
-                "resposta": "Quando não apresentadas à Assembleia dentro do prazo ou rejeitadas as contas apresentadas"
-            },
-            {
-                "pergunta": " Quem organiza as contas com o auxílio do Tribunal de Contas?",
-                "resposta": "A Comissão"
-            },
-            {
-                "pergunta": "Quais os responsáveis que podem ser convocados para comprovar as contas do exercício findo?",
-                "resposta": "Os responsáveis pelo sistema de controle interno e todos os ordenadores de despesa da administração pública direta, indireta e fundacional dos três Poderes do Estado"
-            }
-        ]
+        "perguntas": [{"pergunta": "Quem incumbe proceder à tomada de contas do Governador do Estado?", "resposta": "À Comissão de Finanças e Fiscalização"}, {"pergunta": "Qual o prazo dado ao Governador para apresentar as contas?", "resposta": "60 (sessenta) dias após a abertura da sessao legislativa"}, {"pergunta": "Em que casos pode ser realizada a tomada de contas do Governador do Estado?", "resposta": "Quando não apresentadas à Assembleia dentro do prazo ou rejeitadas as contas apresentadas"}, {"pergunta": " Quem organiza as contas com o auxílio do Tribunal de Contas?", "resposta": "A Comissão"}, {"pergunta": "Quais os responsáveis que podem ser convocados para comprovar as contas do exercício findo?", "resposta": "Os responsáveis pelo sistema de controle interno e todos os ordenadores de despesa da administração pública direta, indireta e fundacional dos três Poderes do Estado"}]
     },
     {
         "id": "392",
@@ -12410,28 +11303,7 @@
             "subtitulo": "Art. 282 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Qual é a data limite para que o projeto de lei do plano plurianual deve ser devolvido para sanção?",
-                "resposta": "Até o dia 22 de dezembro do primeiro ano de cada legislatura;"
-            },
-            {
-                "pergunta": "Em qual período deve ser entregue o projeto de lei de diretrizes orçamentárias?",
-                "resposta": "até o encerramento do primeiro período de cada sessão legislativa;"
-            },
-            {
-                "pergunta": "Quando é que se espera a entrega da proposta orçamentária?",
-                "resposta": "término da sessão legislativa;"
-            },
-            {
-                "pergunta": "O projeto plurianual deve ser apresentado antes ou depois do início de um ano de legislatura?",
-                "resposta": "primeiro ano de cada legislatura"
-            },
-            {
-                "pergunta": "Em que dia o projeto de lei do plano plurianual deve ser devolvido para sanção?",
-                "resposta": "dia 22 de dezembro"
-            }
-        ]
+        "perguntas": [{"pergunta": "Qual é a data limite para que o projeto de lei do plano plurianual deve ser devolvido para sanção?", "resposta": "Até o dia 22 de dezembro do primeiro ano de cada legislatura;"}, {"pergunta": "Em qual período deve ser entregue o projeto de lei de diretrizes orçamentárias?", "resposta": "até o encerramento do primeiro período de cada sessão legislativa;"} , {"pergunta": "Quando é que se espera a entrega da proposta orçamentária?", "resposta": "término da sessão legislativa;"}, {"pergunta": "O projeto plurianual deve ser apresentado antes ou depois do início de um ano de legislatura?", "resposta": "primeiro ano de cada legislatura"}, {"pergunta": "Em que dia o projeto de lei do plano plurianual deve ser devolvido para sanção?", "resposta": "dia 22 de dezembro"}]
     },
     {
         "id": "394",
@@ -12542,28 +11414,7 @@
             "subtitulo": "Art. 283 - 4",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "A mensagem do Governador do Estado será lida em sessão ordinária dentro de quantos dias?",
-                "resposta": "2 (dois) dias"
-            },
-            {
-                "pergunta": "O que a Comissão pode realizar?",
-                "resposta": "audiências públicas para ouvir as autoridades e demais pessoas convidadas"
-            },
-            {
-                "pergunta": "Quem a Comissão pode convocar para prestar informações?",
-                "resposta": "Secretários de Estado, Procuradores-Gerais e Comandante da Polícia Militar"
-            },
-            {
-                "pergunta": "Como se fará a convocação aos Secretários de Estado, Procuradores-Gerais e Comandante da Polícia Militar?",
-                "resposta": "mediante ofício do Presidente da Comissão, com a indicação das informações pretendidas"
-            },
-            {
-                "pergunta": "O que acontece se o secretário não comparecer?",
-                "resposta": "Será comunicado ao Presidente da Assembleia"
-            }
-        ]
+        "perguntas": [{"pergunta": "A mensagem do Governador do Estado será lida em sessão ordinária dentro de quantos dias?", "resposta": "2 (dois) dias"}, {"pergunta": "O que a Comissão pode realizar?", "resposta": "audiências públicas para ouvir as autoridades e demais pessoas convidadas"}, {"pergunta": "Quem a Comissão pode convocar para prestar informações?", "resposta": "Secretários de Estado, Procuradores-Gerais e Comandante da Polícia Militar"}, {"pergunta": "Como se fará a convocação aos Secretários de Estado, Procuradores-Gerais e Comandante da Polícia Militar?", "resposta": "mediante ofício do Presidente da Comissão, com a indicação das informações pretendidas"}, {"pergunta": "O que acontece se o secretário não comparecer?", "resposta": "Será comunicado ao Presidente da Assembleia"}]
     },
     {
         "id": "398",
@@ -12922,28 +11773,7 @@
             "subtitulo": "Art. 290 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "O que é aplicado aos projetos previstos na seção?",
-                "resposta": "as regras estabelecidas para os demais projetos de lei"
-            },
-            {
-                "pergunta": "As regras para os projetos previstos nesta seção são diferentes das de outros projetos de lei em qual sentido?",
-                "resposta": "quando não contrariarem o que nesta seção se dispõe"
-            },
-            {
-                "pergunta": "Quais as leis previstas na seção a que os demais projetos de lei devem seguir para aplicação aos demais projetos?",
-                "resposta": "não consta do artigo"
-            },
-            {
-                "pergunta": "Existe alguma regra diferente dos demais projetos de lei nos projetos da seção prevista no Art.290?",
-                "resposta": "sim, quando não contrariarem o que nesta seção se dispõe"
-            },
-            {
-                "pergunta": "Em que sentido as leis para os projetos previstos na seção podem ser diferentes das demais leis de projetos?",
-                "resposta": "quando não contrariarem o que nesta seção se dispõe"
-            }
-        ]
+        "perguntas": [{"pergunta": "O que é aplicado aos projetos previstos na seção?", "resposta": "as regras estabelecidas para os demais projetos de lei"},{"pergunta": "As regras para os projetos previstos nesta seção são diferentes das de outros projetos de lei em qual sentido?", "resposta": "quando não contrariarem o que nesta seção se dispõe"},{"pergunta": "Quais as leis previstas na seção a que os demais projetos de lei devem seguir para aplicação aos demais projetos?", "resposta": "não consta do artigo"},{"pergunta": "Existe alguma regra diferente dos demais projetos de lei nos projetos da seção prevista no Art.290?", "resposta": "sim, quando não contrariarem o que nesta seção se dispõe"},{"pergunta": "Em que sentido as leis para os projetos previstos na seção podem ser diferentes das demais leis de projetos?", "resposta": "quando não contrariarem o que nesta seção se dispõe"}]
     },
     {
         "id": "410",
@@ -12979,7 +11809,7 @@
     },
     {
         "id": "411",
-        "page_content": "Art. 292. O Governador do Estado pode enviar mensagem à Assembleia, propondo modificações nos projetos referidos nesta seção, desde que a Comissão de Finanças e Fiscalização não haja iniciado a votação da parte do parecer do Relator que se refira à alteração proposta.",
+        "page_content": 'Art. 292. O Governador do Estado pode enviar mensagem à Assembleia, propondo modificações nos projetos referidos nesta seção, desde que a Comissão de Finanças e Fiscalização não haja iniciado a votação da parte do parecer do Relator que se refira à alteração proposta.',
         "metadata": {
             "autor": "Assembleia Legislativa do Rio Grande do Norte - ALERN",
             "fonte": "https://www.al.rn.leg.br/regimento-interno/Regimento_Interno_ALRN_junho_2024_DL.pdf",
@@ -13001,7 +11831,7 @@
             },
             {
                 "pergunta": "Quais são os projetos referidos nesta seção?",
-                "resposta": "não especificados no artigo, apenas mencionados como \"projetos referidos nesta seção\""
+                "resposta": 'não especificados no artigo, apenas mencionados como "projetos referidos nesta seção"'
             },
             {
                 "pergunta": "A mensagem pode ser enviada desde quando?",
@@ -13226,28 +12056,7 @@
             "subtitulo": "Art. 299 - 2",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "O que deve fazer a petição para um crime de responsabilidade?",
-                "resposta": "deverá ser fundamentada em justa causa"
-            },
-            {
-                "pergunta": "Como a firma deve estar na petição?",
-                "resposta": "com firma reconhecida ou assinada digitalmente com certificado emitido pelo ICP-Brasil"
-            },
-            {
-                "pergunta": "Quais documentos devem acompanhar a petição?",
-                "resposta": "documentos que a comprovem ou da declaração de impossibilidade de apresentá-los, mas com a indicação do local onde possam ser encontrados"
-            },
-            {
-                "pergunta": "Se não é possível apresentar os documentos, o que deve ser feito?",
-                "resposta": "a declaração de impossibilidade de apresentá-los, mas com a indicação do local onde possam ser encontrados"
-            },
-            {
-                "pergunta": "Quantas testemunhas devem estar no rol da petição?",
-                "resposta": "em número de 5 (cinco), no mínimo"
-            }
-        ]
+        "perguntas": [{"pergunta": "O que deve fazer a petição para um crime de responsabilidade?","resposta": "deverá ser fundamentada em justa causa"},{"pergunta": "Como a firma deve estar na petição?","resposta": "com firma reconhecida ou assinada digitalmente com certificado emitido pelo ICP-Brasil"},{"pergunta": "Quais documentos devem acompanhar a petição?","resposta": "documentos que a comprovem ou da declaração de impossibilidade de apresentá-los, mas com a indicação do local onde possam ser encontrados"},{"pergunta": "Se não é possível apresentar os documentos, o que deve ser feito?","resposta": "a declaração de impossibilidade de apresentá-los, mas com a indicação do local onde possam ser encontrados"},{"pergunta": "Quantas testemunhas devem estar no rol da petição?","resposta": "em número de 5 (cinco), no mínimo"}]
     },
     {
         "id": "420",
@@ -13347,7 +12156,7 @@
     },
     {
         "id": "423",
-        "page_content": "Art. 299. Nos crimes de responsabilidade, o processo obedecerá às disposições da legislação especial pertinentes, sem prejuízo dos preceitos regimentais previstos neste Capítulo. § 6. Ultimado o prazo, será remetida à Comissão de Constituição, Justiça e Redação em cumprimento à alínea \"k\" do inciso I do art. 64 deste Regimento, para emitir parecer, dentro de 30 (trinta) dias úteis, contados do oferecimento da manifestação do representado ou do término do prazo previsto no parágrafo anterior, sobre o deferimento ou não do pedido de autorização para instalação do processo nos crimes de responsabilidade.",
+        "page_content": 'Art. 299. Nos crimes de responsabilidade, o processo obedecerá às disposições da legislação especial pertinentes, sem prejuízo dos preceitos regimentais previstos neste Capítulo. § 6. Ultimado o prazo, será remetida à Comissão de Constituição, Justiça e Redação em cumprimento à alínea "k" do inciso I do art. 64 deste Regimento, para emitir parecer, dentro de 30 (trinta) dias úteis, contados do oferecimento da manifestação do representado ou do término do prazo previsto no parágrafo anterior, sobre o deferimento ou não do pedido de autorização para instalação do processo nos crimes de responsabilidade.',
         "metadata": {
             "autor": "Assembleia Legislativa do Rio Grande do Norte - ALERN",
             "fonte": "https://www.al.rn.leg.br/regimento-interno/Regimento_Interno_ALRN_junho_2024_DL.pdf",
@@ -13369,7 +12178,7 @@
             },
             {
                 "pergunta": "Qual é a alínea que deve ser considerada para o envio da documentação à Comissão de Constituição, Justiça e Redação?",
-                "resposta": "alínea \"k\" do inciso I do art. 64 deste Regimento"
+                "resposta": 'alínea "k" do inciso I do art. 64 deste Regimento'
             },
             {
                 "pergunta": "O prazo é contado a partir do oferecimento da manifestação do representado ou do término do prazo previsto no parágrafo anterior?",
@@ -13538,32 +12347,7 @@
             "subtitulo": "Art. 300 - 3",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quais diretrizes devem ser observadas após a denúncia pelo Plenário?",
-                "resposta": "observar-se-ão as seguintes diretrizes"
-            },
-            {
-                "pergunta": "Quais membros da Comissão Acusadora estão impedidos de votar na eleição do Tribunal Especial Misto?",
-                "resposta": "os membros eleitos da Comissão Acusadora"
-            },
-            {
-                "pergunta": "Como são contabilizados os votos dos membros eleitos da Comissão Acusadora para efeito de quórum?",
-                "resposta": "serem seus votos considerados em branco"
-            },
-            {
-                "pergunta": "Qual é o critério utilizado para a escolha do Deputado que ocupará cada vaga na Assembleia no Tribunal Especial Misto?",
-                "resposta": "o Deputado que obtiver a maioria simples dos votos"
-            },
-            {
-                "pergunta": "Quais votos são considerados nulos nas eleições para o Tribunal Especial Misto?",
-                "resposta": "os votos dados a Deputado já eleito para vaga, quer na Comissão Acusadora, quer no Tribunal Especial Misto"
-            },
-            {
-                "pergunta": "Como é resolvido um empate entre os dois Deputados mais votados para uma vaga?",
-                "resposta": "elege-se o mais idoso, dentre os de maior número de legislaturas"
-            }
-        ]
+        "perguntas": [{"pergunta": "Quais diretrizes devem ser observadas após a denúncia pelo Plenário?", "resposta": "observar-se-ão as seguintes diretrizes"},{"pergunta": "Quais membros da Comissão Acusadora estão impedidos de votar na eleição do Tribunal Especial Misto?", "resposta": "os membros eleitos da Comissão Acusadora"},{"pergunta": "Como são contabilizados os votos dos membros eleitos da Comissão Acusadora para efeito de quórum?", "resposta": "serem seus votos considerados em branco"},{"pergunta": "Qual é o critério utilizado para a escolha do Deputado que ocupará cada vaga na Assembleia no Tribunal Especial Misto?", "resposta": "o Deputado que obtiver a maioria simples dos votos"},{"pergunta": "Quais votos são considerados nulos nas eleições para o Tribunal Especial Misto?", "resposta": "os votos dados a Deputado já eleito para vaga, quer na Comissão Acusadora, quer no Tribunal Especial Misto"},{"pergunta": "Como é resolvido um empate entre os dois Deputados mais votados para uma vaga?", "resposta": "elege-se o mais idoso, dentre os de maior número de legislaturas"}]
     },
     {
         "id": "430",
@@ -13670,20 +12454,7 @@
             "subtitulo": "Art. 300 - 7",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Como será feita a intimação ou comunicação ao denunciado?",
-                "resposta": "a intimação ou comunicação ao denunciado serão feitas por ofício, remetido pelo correio, registrado"
-            },
-            {
-                "pergunta": "É essencial que o aviso de recepção seja assinado pelo denunciado?",
-                "resposta": "não sendo essencial que o aviso de recepção seja por ele assinado"
-            },
-            {
-                "pergunta": "Como também poderá ser feita a intimação e comunicação ao denunciado?",
-                "resposta": "a intimação e comunicação também poderão ser feitas por servidor estável da Assembleia Legislativa"
-            }
-        ]
+        "perguntas": [{"pergunta": "Como será feita a intimação ou comunicação ao denunciado?", "resposta": "a intimação ou comunicação ao denunciado serão feitas por ofício, remetido pelo correio, registrado"}, {"pergunta": "É essencial que o aviso de recepção seja assinado pelo denunciado?", "resposta": "não sendo essencial que o aviso de recepção seja por ele assinado"}, {"pergunta": "Como também poderá ser feita a intimação e comunicação ao denunciado?", "resposta": "a intimação e comunicação também poderão ser feitas por servidor estável da Assembleia Legislativa"}]
     },
     {
         "id": "434",
@@ -13882,28 +12653,7 @@
             "subtitulo": "Art. 303 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quando é lida e publicada a solicitação do Tribunal de Contas?",
-                "resposta": "No caso previsto no § 1. do art. 53 da Constituição Estadual, recebida a solicitação do Tribunal de Contas, é lida e publicada,"
-            },
-            {
-                "pergunta": "Em quanto tempo a Comissão terá prazo para emitir parecer?",
-                "resposta": "A Comissão terá prazo de 5 (cinco) sessões para emitir parecer,"
-            },
-            {
-                "pergunta": "O que o projeto de decreto legislativo deve concluir pela apresentação?",
-                "resposta": "sustando a execução do contrato, considerando improcedente a impugnação, ou determinando providências necessárias ao resguardo dos objetivos legais,"
-            },
-            {
-                "pergunta": "Quanto tempo a Comissão tem para se pronunciar sobre as emendas?",
-                "resposta": "no prazo de 3 (três) dias."
-            },
-            {
-                "pergunta": "O que o Presidente convoca sessão extraordinária após publicado o parecer sobre as emendas?",
-                "resposta": "para dentro de 2 (dois) dias, para discussão e votação"
-            }
-        ]
+        "perguntas": [{"pergunta": "Quando é lida e publicada a solicitação do Tribunal de Contas?", "resposta": "No caso previsto no § 1. do art. 53 da Constituição Estadual, recebida a solicitação do Tribunal de Contas, é lida e publicada,"},{"pergunta": "Em quanto tempo a Comissão terá prazo para emitir parecer?", "resposta": "A Comissão terá prazo de 5 (cinco) sessões para emitir parecer,"},{"pergunta": "O que o projeto de decreto legislativo deve concluir pela apresentação?", "resposta": "sustando a execução do contrato, considerando improcedente a impugnação, ou determinando providências necessárias ao resguardo dos objetivos legais,"},{"pergunta": "Quanto tempo a Comissão tem para se pronunciar sobre as emendas?", "resposta": "no prazo de 3 (três) dias."}, {"pergunta": "O que o Presidente convoca sessão extraordinária após publicado o parecer sobre as emendas?", "resposta": "para dentro de 2 (dois) dias, para discussão e votação"}]
     },
     {
         "id": "441",
@@ -14706,28 +13456,7 @@
             "subtitulo": "Art. 318 - 6",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Em que casos a proposta de sustação do andamento da ação penal é possível?",
-                "resposta": "caso de recebimento de denúncia contra Deputado"
-            },
-            {
-                "pergunta": "Quem pode propor a sustação do andamento da ação penal?",
-                "resposta": "O Partido Político com representação na Assembleia."
-            },
-            {
-                "pergunta": "Quando o Presidente deve promulgar decreto legislativo de acordo com a decisão plenária",
-                "resposta": "Se do pronunciamento do Plenário resultar solução diversa da proposta pela Comissão de Constituição, Justiça e Redação."
-            },
-            {
-                "pergunta": "Quando o Presidente deve comunicar a decisão ao Juízo processante?",
-                "resposta": "No dia seguinte, após expedir alvará de soltura, se for o caso"
-            },
-            {
-                "pergunta": "Qual o prazo máximo para apreciar definitivamente pelo Plenário o pedido de sustação da ação penal?",
-                "resposta": "45 (quarenta e cinco) dias"
-            }
-        ]
+        "perguntas": [{"pergunta": "Em que casos a proposta de sustação do andamento da ação penal é possível?", "resposta": "caso de recebimento de denúncia contra Deputado"}, {"pergunta": "Quem pode propor a sustação do andamento da ação penal?", "resposta": "O Partido Político com representação na Assembleia."}, {"pergunta": "Quando o Presidente deve promulgar decreto legislativo de acordo com a decisão plenária", "resposta": "Se do pronunciamento do Plenário resultar solução diversa da proposta pela Comissão de Constituição, Justiça e Redação."}, {"pergunta": "Quando o Presidente deve comunicar a decisão ao Juízo processante?", "resposta": "No dia seguinte, após expedir alvará de soltura, se for o caso"}, {"pergunta": "Qual o prazo máximo para apreciar definitivamente pelo Plenário o pedido de sustação da ação penal?", "resposta": "45 (quarenta e cinco) dias"}]
     },
     {
         "id": "467",
@@ -14738,28 +13467,7 @@
             "subtitulo": "Art. 319 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quais são os direitos do defensor do Deputado acusado?",
-                "resposta": "O Deputado acusado e seu defensor poderão estar presentes às sessões a que se referem o § 5. do art. 317 e o § 4. do art. 318, sendo-lhes facultado o uso da palavra por 30 (trinta) minutos."
-            },
-            {
-                "pergunta": "Como será contada a presença do Deputado acusado?",
-                "resposta": "A presença não será contada para efeito de quórum."
-            },
-            {
-                "pergunta": "Qual é o prazo que o defensor tem para usar a palavra no processo?",
-                "resposta": "ser-lhes facultado o uso da palavra por 30 (trinta) minutos"
-            },
-            {
-                "pergunta": "O Deputado acusado poderá votar em alguma sessão?",
-                "resposta": "não poderá votar"
-            },
-            {
-                "pergunta": "Em qual tipo de sessão o Deputado acusado e seu defensor podem estar presentes?",
-                "resposta": "a que se referem o § 5. do art. 317 e o § 4. do art. 318"
-            }
-        ]
+        "perguntas": [  {"pergunta": "Quais são os direitos do defensor do Deputado acusado?", "resposta": "O Deputado acusado e seu defensor poderão estar presentes às sessões a que se referem o § 5. do art. 317 e o § 4. do art. 318, sendo-lhes facultado o uso da palavra por 30 (trinta) minutos."},   {"pergunta": "Como será contada a presença do Deputado acusado?", "resposta": "A presença não será contada para efeito de quórum."},   {"pergunta": "Qual é o prazo que o defensor tem para usar a palavra no processo?", "resposta": "ser-lhes facultado o uso da palavra por 30 (trinta) minutos"},   {"pergunta": "O Deputado acusado poderá votar em alguma sessão?", "resposta": "não poderá votar"},   {"pergunta": "Em qual tipo de sessão o Deputado acusado e seu defensor podem estar presentes?", "resposta": "a que se referem o § 5. do art. 317 e o § 4. do art. 318"}]
     },
     {
         "id": "468",
@@ -15158,28 +13866,7 @@
             "subtitulo": "Art. 331 - 2",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quando ocorre perda do mandato?",
-                "resposta": "Nos casos dos incisos I, II e VI do art. 329"
-            },
-            {
-                "pergunta": "Como a representação deve ser encaminhada?",
-                "resposta": "A representação será encaminhada à Comissão de Constituição, Justiça e Redação,"
-            },
-            {
-                "pergunta": "Quais são os prazos para o parecer da comissão?",
-                "resposta": "no prazo de 15 (quinze) dias, concluindo pela procedência da representação ou por seu arquivamento,"
-            },
-            {
-                "pergunta": "O que a defesa deve incluir em suas alegações finais?",
-                "resposta": "não sendo admitidas novas diligências"
-            },
-            {
-                "pergunta": "Qual é o papel da Comissão de Constituição, Justiça e Redação?",
-                "resposta": "obedecerá ao seguinte III - apresentada a defesa,"
-            }
-        ]
+        "perguntas": [{"pergunta": "Quando ocorre perda do mandato?","resposta": "Nos casos dos incisos I, II e VI do art. 329"},{"pergunta": "Como a representação deve ser encaminhada?","resposta": "A representação será encaminhada à Comissão de Constituição, Justiça e Redação,"},{"pergunta": "Quais são os prazos para o parecer da comissão?","resposta": "no prazo de 15 (quinze) dias, concluindo pela procedência da representação ou por seu arquivamento,"},{"pergunta": "O que a defesa deve incluir em suas alegações finais?","resposta": "não sendo admitidas novas diligências"},{"pergunta": "Qual é o papel da Comissão de Constituição, Justiça e Redação?","resposta": "obedecerá ao seguinte III - apresentada a defesa,"}]
     },
     {
         "id": "481",
@@ -15350,28 +14037,7 @@
             "subtitulo": "Art. 334 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "O que acontece quando um Deputado é acusado de ato que ofenda sua honra em discussão?",
-                "resposta": "pode pedir ao Presidente que mande apurar a veracidade da acusação e o cabimento de censura ao ofensor"
-            },
-            {
-                "pergunta": "Quem pode pedir para apurar a veracidade da acusação caso seja improcedente a arguição?",
-                "resposta": "um Deputado"
-            },
-            {
-                "pergunta": "O que o Presidente deve fazer quando um Deputado for acusado de ato que ofenda sua honra em discussão?",
-                "resposta": "mandar apurar a veracidade da acusação e o cabimento de censura ao ofensor"
-            },
-            {
-                "pergunta": "O que acontece se a arguição do Deputado for improcedente?",
-                "resposta": "cabe ao Presidente mandar apurar a veracidade da acusação e o cabimento de censura ao ofensor"
-            },
-            {
-                "pergunta": "Quais as ações possíveis caso seja improcedente a arguição de um Deputado?",
-                "resposta": "apurar a veracidade da acusação e o cabimento de censura ao ofensor"
-            }
-        ]
+        "perguntas": [{"pergunta": "O que acontece quando um Deputado é acusado de ato que ofenda sua honra em discussão?","resposta": "pode pedir ao Presidente que mande apurar a veracidade da acusação e o cabimento de censura ao ofensor"},{"pergunta": "Quem pode pedir para apurar a veracidade da acusação caso seja improcedente a arguição?","resposta": "um Deputado"},{"pergunta": "O que o Presidente deve fazer quando um Deputado for acusado de ato que ofenda sua honra em discussão?","resposta": "mandar apurar a veracidade da acusação e o cabimento de censura ao ofensor"},{"pergunta": "O que acontece se a arguição do Deputado for improcedente?","resposta": "cabe ao Presidente mandar apurar a veracidade da acusação e o cabimento de censura ao ofensor"},{"pergunta": "Quais as ações possíveis caso seja improcedente a arguição de um Deputado?","resposta": "apurar a veracidade da acusação e o cabimento de censura ao ofensor"}]
     },
     {
         "id": "487",
@@ -15515,22 +14181,10 @@
             "titulo": "Regimento Interno - ALRN"
         },
         "perguntas": [
-            {
-                "pergunta": "O que as presenças presumidas não se contam para o quorum?",
-                "resposta": "As presenças presumidas"
-            },
-            {
-                "pergunta": "E para quê elas não se contam?",
-                "resposta": "para efeito de quórum"
-            },
-            {
-                "pergunta": "Onde as presenças presumidas são previstas?",
-                "resposta": "neste Capítulo"
-            },
-            {
-                "pergunta": "Qual o artigo que trata sobre presenças presumidas?",
-                "resposta": "Art. 339."
-            }
+            {"pergunta": "O que as presenças presumidas não se contam para o quorum?","resposta": "As presenças presumidas"},
+            {"pergunta": "E para quê elas não se contam?","resposta": "para efeito de quórum"},
+            {"pergunta": "Onde as presenças presumidas são previstas?","resposta": "neste Capítulo"},
+            {"pergunta": "Qual o artigo que trata sobre presenças presumidas?","resposta": "Art. 339."},
         ]
     },
     {
@@ -16054,28 +14708,7 @@
             "subtitulo": "Art. 349 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Qual é o objetivo da palavra para reclamação?",
-                "resposta": "no caso da sessão da Assembleia, destina-se exclusivamente a reclamação quanto à observância de expressa disposição regimental ou relacionada com o funcionamento dos serviços administrativos da Casa"
-            },
-            {
-                "pergunta": "Quais são as situações em que um membro de Comissão pode formular reclamação?",
-                "resposta": "sobre ação ou omissão do órgão técnico que integre"
-            },
-            {
-                "pergunta": "Como procede após formulada uma reclamação pela um membro da Comissão?",
-                "resposta": "Somente depois de resolvido, terminativamente, pelo seu Presidente,"
-            },
-            {
-                "pergunta": "Em qual fase da sessão é permitida a palavra para reclamação?",
-                "resposta": "Em qualquer fase da sessão da Assembleia ou de reunião de Comissão"
-            },
-            {
-                "pergunta": "Quais normas aplicam-se às reclamações?",
-                "resposta": "Aplicam-se às reclamações as normas referentes às questões de ordem"
-            }
-        ]
+        "perguntas": [{"pergunta": "Qual é o objetivo da palavra para reclamação?", "resposta": "no caso da sessão da Assembleia, destina-se exclusivamente a reclamação quanto à observância de expressa disposição regimental ou relacionada com o funcionamento dos serviços administrativos da Casa"},{"pergunta": "Quais são as situações em que um membro de Comissão pode formular reclamação?", "resposta": "sobre ação ou omissão do órgão técnico que integre"},{"pergunta": "Como procede após formulada uma reclamação pela um membro da Comissão?", "resposta": "Somente depois de resolvido, terminativamente, pelo seu Presidente,"},{"pergunta": "Em qual fase da sessão é permitida a palavra para reclamação?", "resposta": "Em qualquer fase da sessão da Assembleia ou de reunião de Comissão"},{"pergunta": "Quais normas aplicam-se às reclamações?", "resposta": "Aplicam-se às reclamações as normas referentes às questões de ordem"}]
     },
     {
         "id": "509",
@@ -16214,28 +14847,7 @@
             "subtitulo": "Art. 350 - 5",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quem pode iniciar um projeto de modificação ou reforma do Regimento Interno?",
-                "resposta": "O Regimento Interno poderá ser modificado ou reformado por meio de projeto de resolução de iniciativa de Deputado, da Mesa, de Comissão Permanente ou de Comissão Especial para esse fim criada"
-            },
-            {
-                "pergunta": "Quem é responsável pela redação do vencido e da redação final do projeto?",
-                "resposta": "A redação do vencido e a redação final do projeto competem à Comissão Especial que o houver elaborado, ou à Comissão de Constituição, Justiça e Redação"
-            },
-            {
-                "pergunta": "Quais as normas vigentes aplicadas ao projeto de alteração ou reforma do Regimento?",
-                "resposta": "A apreciação do projeto de alteração ou reforma do Regimento obedecerá às normas vigentes para os demais projetos de resolução"
-            },
-            {
-                "pergunta": "Quem é responsável pela consolidação e publicação das alterações no Regimento?",
-                "resposta": "A Mesa fará a consolidação e publicação de todas as alterações introduzidas no Regimento antes de findo cada biênio"
-            },
-            {
-                "pergunta": "O que precisa fazer parte da Comissão para aprovar um projeto de alteração ou reforma do Regimento?",
-                "resposta": "da qual deverá fazer parte um membro da Mesa"
-            }
-        ]
+        "perguntas": [{"pergunta": "Quem pode iniciar um projeto de modificação ou reforma do Regimento Interno?", "resposta": "O Regimento Interno poderá ser modificado ou reformado por meio de projeto de resolução de iniciativa de Deputado, da Mesa, de Comissão Permanente ou de Comissão Especial para esse fim criada"},{"pergunta": "Quem é responsável pela redação do vencido e da redação final do projeto?", "resposta": "A redação do vencido e a redação final do projeto competem à Comissão Especial que o houver elaborado, ou à Comissão de Constituição, Justiça e Redação"},{"pergunta": "Quais as normas vigentes aplicadas ao projeto de alteração ou reforma do Regimento?", "resposta": "A apreciação do projeto de alteração ou reforma do Regimento obedecerá às normas vigentes para os demais projetos de resolução"},{"pergunta": "Quem é responsável pela consolidação e publicação das alterações no Regimento?", "resposta": "A Mesa fará a consolidação e publicação de todas as alterações introduzidas no Regimento antes de findo cada biênio"},{"pergunta": "O que precisa fazer parte da Comissão para aprovar um projeto de alteração ou reforma do Regimento?", "resposta": "da qual deverá fazer parte um membro da Mesa"}]
     },
     {
         "id": "514",
@@ -16438,28 +15050,7 @@
             "subtitulo": "Art. 352 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "As petições devem ser apresentadas de que forma?",
-                "resposta": "encaminhadas por escrito ou por meio eletrônico, devidamente identificada sem formulário próprio, ou por telefone"
-            },
-            {
-                "pergunta": "Quais as formas de identificação do autor?",
-                "resposta": "por escrito, por meio eletrônico ou por telefone"
-            },
-            {
-                "pergunta": "De que forma as petições são recebidas pelas comissões da Assembleia Legislativa?",
-                "resposta": "recebidas e examinadas pelas Comissões ou pela Mesa, conforme o caso, desde que:"
-            },
-            {
-                "pergunta": "Em qual condição as petições são recebidas?",
-                "resposta": "desde que: I - encaminhadas por escrito ou por meio eletrônico, devidamente identificada sem formulário próprio, ou por telefone, com a identificação do Autor; II - o assunto envolva matéria de competência da Assembleia Legislativa."
-            },
-            {
-                "pergunta": "Qual é a condição necessária para que as petições sejam recebidas e examinadas pelas Comissões?",
-                "resposta": "o assunto envolva matéria de competência da Assembleia Legislativa."
-            }
-        ]
+        "perguntas": [  {"pergunta": "As petições devem ser apresentadas de que forma?", "resposta": "encaminhadas por escrito ou por meio eletrônico, devidamente identificada sem formulário próprio, ou por telefone"},  {"pergunta": "Quais as formas de identificação do autor?", "resposta": "por escrito, por meio eletrônico ou por telefone"},  {"pergunta": "De que forma as petições são recebidas pelas comissões da Assembleia Legislativa?", "resposta": "recebidas e examinadas pelas Comissões ou pela Mesa, conforme o caso, desde que:"},  {"pergunta": "Em qual condição as petições são recebidas?", "resposta": "desde que: I - encaminhadas por escrito ou por meio eletrônico, devidamente identificada sem formulário próprio, ou por telefone, com a identificação do Autor; II - o assunto envolva matéria de competência da Assembleia Legislativa."},  {"pergunta": "Qual é a condição necessária para que as petições sejam recebidas e examinadas pelas Comissões?", "resposta": "o assunto envolva matéria de competência da Assembleia Legislativa."}]
     },
     {
         "id": "521",
@@ -16470,28 +15061,7 @@
             "subtitulo": "Art. 353 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quais entidades podem oferecer sugestões de iniciativa legislativa?",
-                "resposta": "entidades científicas e culturais, bem como de associações e órgãos de classe, sindicatos"
-            },
-            {
-                "pergunta": "O que acontece com as sugestões de iniciativa legislativa que receberem parecer favorável da Comissão de Constituição, Justiça e Redação?",
-                "resposta": "serão transformadas em proposição legislativa de sua iniciativa, encaminhada à Mesa para tramitação"
-            },
-            {
-                "pergunta": "O que acontece com as sugestões que receberem parecer contrário da Comissão de Constituição, Justiça e Redação?",
-                "resposta": "serão encaminhadas ao arquivo"
-            },
-            {
-                "pergunta": "Quais são as formas de participação recebidas pela Comissão de Constituição, Justiça e Redação?",
-                "resposta": "o oferecimento de sugestões de iniciativa legislativa, de pareceres técnicos, de exposições e propostas oriundas de entidades científicas e culturais"
-            },
-            {
-                "pergunta": "O que acontece com as demais formas de participação recebidas pela Comissão de Constituição, Justiça e Redação?",
-                "resposta": "serão encaminhadas à Mesa para distribuição à Comissão ou Comissões competentes para o exame do respectivo mérito"
-            }
-        ]
+        "perguntas": [{"pergunta": "Quais entidades podem oferecer sugestões de iniciativa legislativa?", "resposta": "entidades científicas e culturais, bem como de associações e órgãos de classe, sindicatos"},{"pergunta": "O que acontece com as sugestões de iniciativa legislativa que receberem parecer favorável da Comissão de Constituição, Justiça e Redação?", "resposta": "serão transformadas em proposição legislativa de sua iniciativa, encaminhada à Mesa para tramitação"},{"pergunta": "O que acontece com as sugestões que receberem parecer contrário da Comissão de Constituição, Justiça e Redação?", "resposta": "serão encaminhadas ao arquivo"},{"pergunta": "Quais são as formas de participação recebidas pela Comissão de Constituição, Justiça e Redação?", "resposta": "o oferecimento de sugestões de iniciativa legislativa, de pareceres técnicos, de exposições e propostas oriundas de entidades científicas e culturais"},{"pergunta": "O que acontece com as demais formas de participação recebidas pela Comissão de Constituição, Justiça e Redação?", "resposta": "serão encaminhadas à Mesa para distribuição à Comissão ou Comissões competentes para o exame do respectivo mérito"}]
     },
     {
         "id": "522",
@@ -16566,28 +15136,7 @@
             "subtitulo": "Art. 356 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quem são os responsáveis por selecionar as pessoas que serão ouvidas em uma audiência pública?",
-                "resposta": "A Comissão"
-            },
-            {
-                "pergunta": "De quem cabe expedir convites para a reunião de audiência pública?",
-                "resposta": "ao Presidente da Comissão"
-            },
-            {
-                "pergunta": "Quanto tempo tem cada convidado para falar na audiência?",
-                "resposta": "20 (vinte) minutos, prorrogáveis a juízo da Comissão."
-            },
-            {
-                "pergunta": "O que fazer se um participante se desviar do assunto ou perturbar a ordem dos trabalhos?",
-                "resposta": "O Presidente da Comissão poderá adverti-lo, cassar-lhe a palavra ou determinar a sua retirada do recinto."
-            },
-            {
-                "pergunta": "É possível valer-se de assessores credenciados em uma audiência pública?",
-                "resposta": "Sim, desde que para tal fim se tenha obtido o consentimento do Presidente da Comissão."
-            }
-        ]
+        "perguntas": [{"pergunta": "Quem são os responsáveis por selecionar as pessoas que serão ouvidas em uma audiência pública?", "resposta": "A Comissão"},{"pergunta": "De quem cabe expedir convites para a reunião de audiência pública?", "resposta": "ao Presidente da Comissão"},{"pergunta": "Quanto tempo tem cada convidado para falar na audiência?", "resposta": "20 (vinte) minutos, prorrogáveis a juízo da Comissão."},{"pergunta": "O que fazer se um participante se desviar do assunto ou perturbar a ordem dos trabalhos?", "resposta": "O Presidente da Comissão poderá adverti-lo, cassar-lhe a palavra ou determinar a sua retirada do recinto."},{"pergunta": "É possível valer-se de assessores credenciados em uma audiência pública?", "resposta": "Sim, desde que para tal fim se tenha obtido o consentimento do Presidente da Comissão."}]
     },
     {
         "id": "525",
@@ -16658,28 +15207,7 @@
             "subtitulo": "Art. 359 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quais são as funções da mesa na Assembleia?",
-                "resposta": "A Mesa fará manter a ordem e a disciplina no edifício da Assembleia e suas adjacências."
-            },
-            {
-                "pergunta": "Qual é a responsabilidade de quem atende à mesa em relação ao controle do espaço físico da assembleia legislativa?",
-                "resposta": "A Mesa fará manter a ordem e a disciplina no edifício da Assembleia e suas adjacências."
-            },
-            {
-                "pergunta": "Quais são os locais onde é aplicada a responsabilidade de manter a ordem e a disciplina da mesa?",
-                "resposta": "no edifício da Assembleia e suas adjacências."
-            },
-            {
-                "pergunta": "Qual a atitude que deve ser mantida no local, em relação à comportamento dos parlamentares e demais pessoas presentes na assembleia legislativa?",
-                "resposta": "ordem"
-            },
-            {
-                "pergunta": "De acordo com o artigo citado, é responsabilidade da mesa manter uma boa convivência entre os legisladores?",
-                "resposta": "disciplina"
-            }
-        ]
+        "perguntas": [{"pergunta": "Quais são as funções da mesa na Assembleia?", "resposta": "A Mesa fará manter a ordem e a disciplina no edifício da Assembleia e suas adjacências."},{"pergunta": "Qual é a responsabilidade de quem atende à mesa em relação ao controle do espaço físico da assembleia legislativa?", "resposta": "A Mesa fará manter a ordem e a disciplina no edifício da Assembleia e suas adjacências."},{"pergunta": "Quais são os locais onde é aplicada a responsabilidade de manter a ordem e a disciplina da mesa?", "resposta": "no edifício da Assembleia e suas adjacências."},{"pergunta": "Qual a atitude que deve ser mantida no local, em relação à comportamento dos parlamentares e demais pessoas presentes na assembleia legislativa?", "resposta": "ordem"},{"pergunta": "De acordo com o artigo citado, é responsabilidade da mesa manter uma boa convivência entre os legisladores?", "resposta": "disciplina"}]
     },
     {
         "id": "528",
@@ -16722,28 +15250,7 @@
             "subtitulo": "Art. 361 - 1",
             "titulo": "Regimento Interno - ALRN"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quem é responsável pelo policiamento do edifício da Assembleia e seus acessos?",
-                "resposta": "competem exclusivamente à Mesa, sob a suprema direção do Presidente,"
-            },
-            {
-                "pergunta": "Quais os casos em que o serviço de policiamento será feito por efetivos da Polícia Militar do Estado?",
-                "resposta": "se necessário, por efetivos da Polícia Militar do Estado, requisitados pelo Presidente ao respectivo Comandante,"
-            },
-            {
-                "pergunta": "Quem pode requisitar o auxílio de efetivos da Polícia Militar do Estado para policiamento?",
-                "resposta": "o Presidente"
-            },
-            {
-                "pergunta": "A quem os efetivos da Polícia Militar do Estado estarão subordinados?",
-                "resposta": "à inteira e exclusiva disposição da Mesa"
-            },
-            {
-                "pergunta": "Quais as alternativas para a realização do serviço de policiamento do edifício da Assembleia e seus acessos?",
-                "resposta": "será feito, ordinariamente, com a segurança própria da Assembleia ou por esta contratada,"
-            }
-        ]
+        "perguntas": [{"pergunta": "Quem é responsável pelo policiamento do edifício da Assembleia e seus acessos?", "resposta": "competem exclusivamente à Mesa, sob a suprema direção do Presidente,"},{"pergunta": "Quais os casos em que o serviço de policiamento será feito por efetivos da Polícia Militar do Estado?", "resposta": "se necessário, por efetivos da Polícia Militar do Estado, requisitados pelo Presidente ao respectivo Comandante,"},{"pergunta": "Quem pode requisitar o auxílio de efetivos da Polícia Militar do Estado para policiamento?", "resposta": "o Presidente"},{"pergunta": "A quem os efetivos da Polícia Militar do Estado estarão subordinados?", "resposta": "à inteira e exclusiva disposição da Mesa"},{"pergunta": "Quais as alternativas para a realização do serviço de policiamento do edifício da Assembleia e seus acessos?", "resposta": "será feito, ordinariamente, com a segurança própria da Assembleia ou por esta contratada,"}]
     },
     {
         "id": "530",
@@ -17115,7 +15622,7 @@
     },
     {
         "id": "542",
-        "page_content": "Art. 374. Esta Resolução entra em vigor na data de sua publicação, revogando-se a Resolução nº 46, de 1990 e suas alterações. ASSEMBLEIA LEGISLATIVA DO ESTADO DO RIO GRANDE DO NORTE, Palácio \"JOSÉ AUGUSTO\", em Natal, 05 de fevereiro de 2021. Deputado EZEQUIEL FERREIRA Presidente",
+        "page_content": 'Art. 374. Esta Resolução entra em vigor na data de sua publicação, revogando-se a Resolução nº 46, de 1990 e suas alterações. ASSEMBLEIA LEGISLATIVA DO ESTADO DO RIO GRANDE DO NORTE, Palácio "JOSÉ AUGUSTO", em Natal, 05 de fevereiro de 2021. Deputado EZEQUIEL FERREIRA Presidente',
         "metadata": {
             "autor": "Assembleia Legislativa do Rio Grande do Norte - ALERN",
             "fonte": "https://www.al.rn.leg.br/regimento-interno/Regimento_Interno_ALRN_junho_2024_DL.pdf",
@@ -17218,28 +15725,7 @@
             "subtitulo": "Art. 3 - 2",
             "titulo": "Resolução Nº 78, de 10 de julho de 2024 - auxílio de assistência à saúde no âmbito da Assembleia Legislativa do Rio Grande do Norte"
         },
-        "perguntas": [
-            {
-                "pergunta": "O Auxílio de Assistência à Saúde pode ser concedido mensalmente?",
-                "resposta": "Art. 3. O Auxílio de Assistência à Saúde será concedido, mensalmente,"
-            },
-            {
-                "pergunta": "É permitida a percepção antecipada do benefício?",
-                "resposta": "I – a percepção antecipada do benefício;"
-            },
-            {
-                "pergunta": "O auxílio pode ser percebido em conjunto com outras vantagens similares",
-                "resposta": "II – a percepção cumulativa com outras verbas de espécie semelhante,"
-            },
-            {
-                "pergunta": "Quem não tem direito ao Auxílio de Assistência à Saúde?",
-                "resposta": "III – a concessão do benefício para aqueles que possuem plano de assistência à saúde e/ou odontológico que seja custeado na íntegra por entidade ou órgão, público ou privado, distinto desta Assembleia."
-            },
-            {
-                "pergunta": "O que acontece com o Auxílio se houver outro auxílio de espécie?",
-                "resposta": "Parágrafo único. Na hipótese de custeio parcial ou do percebimento de verba de espécie semelhante que seja inferior ao benefício concedido por esta Resolução, "
-            }
-        ]
+        "perguntas": [{"pergunta": "O Auxílio de Assistência à Saúde pode ser concedido mensalmente?", "resposta": "Art. 3. O Auxílio de Assistência à Saúde será concedido, mensalmente,"},{"pergunta": "É permitida a percepção antecipada do benefício?", "resposta": "I – a percepção antecipada do benefício;"},{"pergunta": "O auxílio pode ser percebido em conjunto com outras vantagens similares", "resposta": "II – a percepção cumulativa com outras verbas de espécie semelhante,"},{"pergunta": "Quem não tem direito ao Auxílio de Assistência à Saúde?", "resposta": "III – a concessão do benefício para aqueles que possuem plano de assistência à saúde e/ou odontológico que seja custeado na íntegra por entidade ou órgão, público ou privado, distinto desta Assembleia."},{"pergunta": "O que acontece com o Auxílio se houver outro auxílio de espécie?", "resposta": "Parágrafo único. Na hipótese de custeio parcial ou do percebimento de verba de espécie semelhante que seja inferior ao benefício concedido por esta Resolução, "}]
     },
     {
         "id": "546",
@@ -17339,35 +15825,14 @@
     },
     {
         "id": "549",
-        "page_content": "Art. 7. O valor do Auxílio de Assistência à Saúde observará os seguintes critérios",
+        "page_content": 'Art. 7. O valor do Auxílio de Assistência à Saúde observará os seguintes critérios',
         "metadata": {
             "autor": "Assembleia Legislativa do Rio Grande do Norte - ALERN",
             "fonte": "https://www.al.rn.leg.br/legislacao/leis-complementares",
             "subtitulo": "Art. 7 - 9",
             "titulo": "Resolução Nº 78, de 10 de julho de 2024 - auxílio de assistência à saúde no âmbito da Assembleia Legislativa do Rio Grande do Norte"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quais são os critérios para o cálculo do Valor do Auxílio de Assistência à Saúde?",
-                "resposta": "O valor do Auxílio de Assistência à Saúde observará os seguintes critérios..."
-            },
-            {
-                "pergunta": "Qual é a finalidade do Auxílio de Assistência à Saúde?",
-                "resposta": "O Auxílio de Assistência à Saúde"
-            },
-            {
-                "pergunta": "Quais são as características do valor do Auxílio de Assistência à Saúde?",
-                "resposta": "O valor do Auxílio de Assistência à Saúde observará os seguintes critérios"
-            },
-            {
-                "pergunta": "O que o Auxílio de Assistência à Saúde tem como objetivo principal?",
-                "resposta": "O Auxílio de Assistência à Saúde"
-            },
-            {
-                "pergunta": "Quais são os parâmetros do Valor do Auxílio de Assistência à Saúde?",
-                "resposta": "O valor do Auxílio de Assistência à Saúde observará os seguintes critérios"
-            }
-        ]
+        "perguntas": [{  "pergunta": "Quais são os critérios para o cálculo do Valor do Auxílio de Assistência à Saúde?",  "resposta": "O valor do Auxílio de Assistência à Saúde observará os seguintes critérios..."},{  "pergunta": "Qual é a finalidade do Auxílio de Assistência à Saúde?",  "resposta": "O Auxílio de Assistência à Saúde"},{  "pergunta": "Quais são as características do valor do Auxílio de Assistência à Saúde?",  "resposta": "O valor do Auxílio de Assistência à Saúde observará os seguintes critérios"},{  "pergunta": "O que o Auxílio de Assistência à Saúde tem como objetivo principal?",  "resposta": "O Auxílio de Assistência à Saúde"},{  "pergunta": "Quais são os parâmetros do Valor do Auxílio de Assistência à Saúde?",  "resposta": "O valor do Auxílio de Assistência à Saúde observará os seguintes critérios"}]
     },
     {
         "id": "550",
@@ -17378,32 +15843,7 @@
             "subtitulo": "Art. 7 - 10",
             "titulo": "Resolução Nº 78, de 10 de julho de 2024 - auxílio de assistência à saúde no âmbito da Assembleia Legislativa do Rio Grande do Norte"
         },
-        "perguntas": [
-            {
-                "pergunta": "Qual a porcentagem do auxílio estabelecido em espécie para os deputados estaduais?",
-                "resposta": "9,5% (nove inteiros e cinco décimos por cento)"
-            },
-            {
-                "pergunta": "Como será calculado o valor do Auxílio de Assistência à Saúde para os Deputados Estaduais?",
-                "resposta": "conforme o Ato da Mesa nº 89, de 14 de agosto de 2013, da Câmara dos Deputados"
-            },
-            {
-                "pergunta": "O que define o valor do Auxílio de Assistência à Saúde para os Deputados Estaduais?",
-                "resposta": "o Ato da Mesa nº 89, de 14 de agosto de 2013, da Câmara dos Deputados"
-            },
-            {
-                "pergunta": "Quem determina o valor do Auxílio de Assistência à Saúde para os deputados estaduais?",
-                "resposta": "o Ato da Mesa nº 89, de 14 de agosto de 2013, da Câmara dos Deputados"
-            },
-            {
-                "pergunta": "Qual é a base utilizada para o cálculo do valor do Auxílio de Assistência à Saúde para os deputados estaduais?",
-                "resposta": "o auxílio estabelecido em espécie como reembolsável para os Deputados Federais"
-            },
-            {
-                "pergunta": "O que o artigo 7 determina sobre a base utilizada no cálculo do Auxílio de Assistência à Saúde?",
-                "resposta": "o auxílio estabelecido em espécie como reembolsável para os Deputados Federais"
-            }
-        ]
+        "perguntas": [{"pergunta": "Qual a porcentagem do auxílio estabelecido em espécie para os deputados estaduais?", "resposta": "9,5% (nove inteiros e cinco décimos por cento)"},{"pergunta": "Como será calculado o valor do Auxílio de Assistência à Saúde para os Deputados Estaduais?", "resposta": "conforme o Ato da Mesa nº 89, de 14 de agosto de 2013, da Câmara dos Deputados"},{"pergunta": "O que define o valor do Auxílio de Assistência à Saúde para os Deputados Estaduais?", "resposta": "o Ato da Mesa nº 89, de 14 de agosto de 2013, da Câmara dos Deputados"},{"pergunta": "Quem determina o valor do Auxílio de Assistência à Saúde para os deputados estaduais?", "resposta": "o Ato da Mesa nº 89, de 14 de agosto de 2013, da Câmara dos Deputados"},{"pergunta": "Qual é a base utilizada para o cálculo do valor do Auxílio de Assistência à Saúde para os deputados estaduais?", "resposta": "o auxílio estabelecido em espécie como reembolsável para os Deputados Federais"},{"pergunta": "O que o artigo 7 determina sobre a base utilizada no cálculo do Auxílio de Assistência à Saúde?", "resposta": "o auxílio estabelecido em espécie como reembolsável para os Deputados Federais"}]
     },
     {
         "id": "551",
@@ -17630,32 +16070,11 @@
             "subtitulo": "Art. 12 - 2",
             "titulo": "Resolução Nº 78, de 10 de julho de 2024 - auxílio de assistência à saúde no âmbito da Assembleia Legislativa do Rio Grande do Norte"
         },
-        "perguntas": [
-            {
-                "pergunta": "O que ocorre quando é verificado o recebimento indevido do Auxílio de Assistência à Saúde?",
-                "resposta": "a Administração deverá promover processo administrativo para obter o ressarcimento do valor pago ao beneficiário."
-            },
-            {
-                "pergunta": "Quando ocorrerá a devolução do benefício referido no caput, independentemente da intenção do beneficiário?",
-                "resposta": "na forma do art. 50 da Lei Complementar Estadual nº 122, de 1994."
-            },
-            {
-                "pergunta": "O que acontece com o beneficiário quando a Administração verificar fraude, dolo ou má-fé no recebimento indevido?",
-                "resposta": "o beneficiário fica impedido de receber o Auxílio de Assistência à Saúde até a devolução integral da quantia."
-            },
-            {
-                "pergunta": "O que cabe à Administração adotar para apurar a conduta do beneficiário nos casos estabelecidos no § 2 deste artigo?",
-                "resposta": "adotar as providências necessárias para apurar a conduta do beneficiário e proceder com as sanções administrativas."
-            },
-            {
-                "pergunta": "Quais são os tipos de sanções que podem ser aplicadas ao beneficiário quando a Administração verificar fraude, dolo ou má-fé no recebimento indevido?",
-                "resposta": "sanções administrativas, sem prejuízo das sanções penais e cíveis."
-            }
-        ]
+        "perguntas": [  {"pergunta": "O que ocorre quando é verificado o recebimento indevido do Auxílio de Assistência à Saúde?", "resposta": "a Administração deverá promover processo administrativo para obter o ressarcimento do valor pago ao beneficiário."},  {"pergunta": "Quando ocorrerá a devolução do benefício referido no caput, independentemente da intenção do beneficiário?", "resposta": "na forma do art. 50 da Lei Complementar Estadual nº 122, de 1994."},  {"pergunta": "O que acontece com o beneficiário quando a Administração verificar fraude, dolo ou má-fé no recebimento indevido?", "resposta": "o beneficiário fica impedido de receber o Auxílio de Assistência à Saúde até a devolução integral da quantia."},  {"pergunta": "O que cabe à Administração adotar para apurar a conduta do beneficiário nos casos estabelecidos no § 2 deste artigo?", "resposta": "adotar as providências necessárias para apurar a conduta do beneficiário e proceder com as sanções administrativas."},  {"pergunta": "Quais são os tipos de sanções que podem ser aplicadas ao beneficiário quando a Administração verificar fraude, dolo ou má-fé no recebimento indevido?", "resposta": "sanções administrativas, sem prejuízo das sanções penais e cíveis."}]
     },
     {
         "id": "559",
-        "page_content": "Art. 13. As despesas resultantes da aplicação desta Resolução correrão à conta das dotações orçamentárias consignadas ao Poder Legislativo do Estado do Rio Grande Norte, que deverá incluir na proposta orçamentária anual os recursos necessários à sua manutenção, ficando autorizado a abrir créditos suplementares, se necessário, mediante a utilização de recursos, nos termos do § 1. do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964. Parágrafo único. A eficácia do disposto nesta Resolução fica condicionada às limitações da Lei Complementar nº 101, de 4 de maio de 2000 e à observância na Lei de Diretrizes Orçamentárias e nas dotações orçamentárias do Poder Legislativo do Estado do Rio Grande do Norte.",
+        "page_content": 'Art. 13. As despesas resultantes da aplicação desta Resolução correrão à conta das dotações orçamentárias consignadas ao Poder Legislativo do Estado do Rio Grande Norte, que deverá incluir na proposta orçamentária anual os recursos necessários à sua manutenção, ficando autorizado a abrir créditos suplementares, se necessário, mediante a utilização de recursos, nos termos do § 1. do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964. Parágrafo único. A eficácia do disposto nesta Resolução fica condicionada às limitações da Lei Complementar nº 101, de 4 de maio de 2000 e à observância na Lei de Diretrizes Orçamentárias e nas dotações orçamentárias do Poder Legislativo do Estado do Rio Grande do Norte.',
         "metadata": {
             "autor": "Assembleia Legislativa do Rio Grande do Norte - ALERN",
             "fonte": "https://www.al.rn.leg.br/legislacao/leis-complementares",
@@ -17663,27 +16082,11 @@
             "titulo": "Resolução Nº 78, de 10 de julho de 2024 - auxílio de assistência à saúde no âmbito da Assembleia Legislativa do Rio Grande do Norte"
         },
         "perguntas": [
-            {
-                "pergunta": "Quem serão os responsáveis pelas despesas resultantes da aplicação desta Resolução?",
-                "resposta": "As despesas resultantes da aplicação desta Resolução correrão à conta das dotações orçamentárias consignadas ao Poder Legislativo do Estado do Rio Grande Norte"
-            },
-            {
-                "pergunta": "De que forma a manutenção será financiada?",
-                "resposta": "A manutenção terá seus recursos incluídos na proposta orçamentária anual, podendo haver abertura de créditos suplementares se necessário, mediante a utilização de recursos"
-            },
-            {
-                "pergunta": "Quais são as limitações que afetam a eficácia desta Resolução?",
-                "resposta": "A eficácia fica condicionada às limitações da Lei Complementar nº 101 e à observância na Lei de Diretrizes Orçamentárias e nas dotações orçamentárias do Poder Legislativo"
-            },
-            {
-                "pergunta": "Quem tem o poder de incluir os recursos necessários na proposta orçamentária anual?",
-                "resposta": "Será incluído pela Proposta Orçamentária Anual"
-            },
-            {
-                "pergunta": "Como as despesas resultantes da aplicação desta Resolução podem ser abertas quando o dinheiro não estiver disponível?",
-                "resposta": "Serão abertos créditos suplementares mediante a utilização de recursos, nos termos do § 1. do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964"
-            }
-        ]
+            {"pergunta": "Quem serão os responsáveis pelas despesas resultantes da aplicação desta Resolução?","resposta": "As despesas resultantes da aplicação desta Resolução correrão à conta das dotações orçamentárias consignadas ao Poder Legislativo do Estado do Rio Grande Norte"},
+            {"pergunta": "De que forma a manutenção será financiada?","resposta": "A manutenção terá seus recursos incluídos na proposta orçamentária anual, podendo haver abertura de créditos suplementares se necessário, mediante a utilização de recursos"},
+            {"pergunta": "Quais são as limitações que afetam a eficácia desta Resolução?","resposta": "A eficácia fica condicionada às limitações da Lei Complementar nº 101 e à observância na Lei de Diretrizes Orçamentárias e nas dotações orçamentárias do Poder Legislativo"},
+            {"pergunta": "Quem tem o poder de incluir os recursos necessários na proposta orçamentária anual?","resposta": "Será incluído pela Proposta Orçamentária Anual"},
+            {"pergunta": "Como as despesas resultantes da aplicação desta Resolução podem ser abertas quando o dinheiro não estiver disponível?","resposta":"Serão abertos créditos suplementares mediante a utilização de recursos, nos termos do § 1. do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964"}]
     },
     {
         "id": "560",
@@ -17954,32 +16357,7 @@
             "subtitulo": "Art. 2 - 3",
             "titulo": "Resolução Nº 77, de 10 de julho de 2024 - base de cálculo do terço de férias e da gratificação natalina (13º salário)"
         },
-        "perguntas": [
-            {
-                "pergunta": "A quem é permitido ao poder judiciário realizar o pagamento retroativo dos valores referentes à inclusão do auxílio-alimentação e auxílio de assistência à saúde no cálculo do terço constitucional de férias e da gratificação natalina não alcançados pela prescrição?",
-                "resposta": "A Assembleia Legislativa do Rio Grande do Norte poderá realizar o pagamento retroativo"
-            },
-            {
-                "pergunta": "Qual é a data de publicação do Decreto 20.910 que foi citado no artigo como referência para os pagamentos?",
-                "resposta": "06 de janeiro de 1932"
-            },
-            {
-                "pergunta": "Em qual lei há limitações para os pagamentos retroativos mencionados no artigo?",
-                "resposta": "Lei Complementar nº 101, de 4 de maio de 2000"
-            },
-            {
-                "pergunta": "Quais são as condições necessárias para que os pagamentos possam ser realizados?",
-                "resposta": "Havendo disponibilidade orçamentária e financeira"
-            },
-            {
-                "pergunta": "Em qual lei a Assembleia Legislativa deve atender quando realizar o pagamento dos valores referentes à inclusão do auxílio-alimentação e auxílio de assistência à saúde?",
-                "resposta": "Lei de Diretrizes Orçamentárias e das dotações orçamentárias da Assembleia Legislativa do Estado do Rio Grande do Norte"
-            },
-            {
-                "pergunta": "A critério de quem a Assembleia Legislativa pode realizar o pagamento retroativo?",
-                "resposta": "do legítimo juízo de conveniência e oportunidade da Administração"
-            }
-        ]
+        "perguntas": [{"pergunta": "A quem é permitido ao poder judiciário realizar o pagamento retroativo dos valores referentes à inclusão do auxílio-alimentação e auxílio de assistência à saúde no cálculo do terço constitucional de férias e da gratificação natalina não alcançados pela prescrição?","resposta": "A Assembleia Legislativa do Rio Grande do Norte poderá realizar o pagamento retroativo"},{"pergunta": "Qual é a data de publicação do Decreto 20.910 que foi citado no artigo como referência para os pagamentos?","resposta": "06 de janeiro de 1932",},{"pergunta": "Em qual lei há limitações para os pagamentos retroativos mencionados no artigo?","resposta": "Lei Complementar nº 101, de 4 de maio de 2000"},{"pergunta": "Quais são as condições necessárias para que os pagamentos possam ser realizados?","resposta": "Havendo disponibilidade orçamentária e financeira"},{"pergunta": "Em qual lei a Assembleia Legislativa deve atender quando realizar o pagamento dos valores referentes à inclusão do auxílio-alimentação e auxílio de assistência à saúde?","resposta": "Lei de Diretrizes Orçamentárias e das dotações orçamentárias da Assembleia Legislativa do Estado do Rio Grande do Norte"},{"pergunta": "A critério de quem a Assembleia Legislativa pode realizar o pagamento retroativo?","resposta": "do legítimo juízo de conveniência e oportunidade da Administração"}]
     },
     {
         "id": "570",
@@ -18202,28 +16580,7 @@
             "subtitulo": "Art. 3 - 4",
             "titulo": "Resolução Nº 106/2018 - Avaliação do servidor em estágio probatório de trabalho"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quanto tempo dura o estágio probatório?",
-                "resposta": "um período de 36 (trinta e seis) meses"
-            },
-            {
-                "pergunta": "O que é entendido por estágio probatório?",
-                "resposta": "o período de efetivo exercício, durante o qual são apurados os requisitos necessários à confirmação do servidor no cargo para o qual foi nomeado, notadamente sua aptidão e capacidade."
-            },
-            {
-                "pergunta": "Quando o estágio probatório começa?",
-                "resposta": "a partir do início do efetivo exercício"
-            },
-            {
-                "pergunta": "Qual o período de duração do estágio probatório?",
-                "resposta": "um período de 36 (trinta e seis) meses"
-            },
-            {
-                "pergunta": "O que são apurados durante o estágio probatório?",
-                "resposta": "os requisitos necessários à confirmação do servidor no cargo para o qual foi nomeado, notadamente sua aptidão e capacidade"
-            }
-        ]
+        "perguntas": [{"pergunta": "Quanto tempo dura o estágio probatório?","resposta": "um período de 36 (trinta e seis) meses"},{"pergunta": "O que é entendido por estágio probatório?","resposta": "o período de efetivo exercício, durante o qual são apurados os requisitos necessários à confirmação do servidor no cargo para o qual foi nomeado, notadamente sua aptidão e capacidade."},{"pergunta": "Quando o estágio probatório começa?","resposta": "a partir do início do efetivo exercício"},{"pergunta": "Qual o período de duração do estágio probatório?","resposta": "um período de 36 (trinta e seis) meses"},{"pergunta": "O que são apurados durante o estágio probatório?","resposta": "os requisitos necessários à confirmação do servidor no cargo para o qual foi nomeado, notadamente sua aptidão e capacidade"}]
     },
     {
         "id": "578",
@@ -18838,28 +17195,7 @@
             "subtitulo": "Art. 16 - 3",
             "titulo": "Resolução Nº 106/2018 - Avaliação do servidor em estágio probatório de trabalho"
         },
-        "perguntas": [
-            {
-                "pergunta": "Como é feito o cálculo do Índice de Desenvolvimento de Competências Probatórias (IDCP)?",
-                "resposta": "IDCP = (AA x 02) + (AE x 03) + (AC x 05) / 10."
-            },
-            {
-                "pergunta": "Quais são as avaliações consideradas na obtenção do IDCP?",
-                "resposta": "a autoavaliação (AA), a avaliação realizada pelos membros da equipe de trabalho (AE) e a avaliação realizada pela CEADEP (AC)"
-            },
-            {
-                "pergunta": "Qual o peso da avaliação realizada pela Comissão na fórmula de cálculo do IDCP?",
-                "resposta": "AC x 05"
-            },
-            {
-                "pergunta": "Quais são as situações que permitem a obtenção do Índice de Desenvolvimento de Competências Probatórias (IDCP)?",
-                "resposta": "Para obtenção do Índice de Desenvolvimento de Competências Probatórias (IDCP) do servidor da ALRN em estágio probatório serão consideradas a autoavaliação (AA), a avaliação realizada pelos membros da equipe de trabalho (AE) e a avaliação realizada pela CEADEP (AC)"
-            },
-            {
-                "pergunta": "Quais são os cálculos possíveis para obtenção do IDCP?",
-                "resposta": "IDCP = (AA x 02) + (AE x 03) + (AC x 05) / 10.\\Parágrafo único. Quando a avaliação realizada consistir apenas da avaliação realizada pelos membros da equipe de trabalho (AE) e a avaliação realizada pela Comissão (AC), o Índice de Desenvolvimento de Competências Probatórias (IDCP) será obtido, conforme o seguinte cálculo: IDCP = (AE x 03) + (AC x 07) / 10."
-            }
-        ]
+        "perguntas": [{"pergunta": "Como é feito o cálculo do Índice de Desenvolvimento de Competências Probatórias (IDCP)?", "resposta": "IDCP = (AA x 02) + (AE x 03) + (AC x 05) / 10."},{"pergunta": "Quais são as avaliações consideradas na obtenção do IDCP?", "resposta": "a autoavaliação (AA), a avaliação realizada pelos membros da equipe de trabalho (AE) e a avaliação realizada pela CEADEP (AC)"},{"pergunta": "Qual o peso da avaliação realizada pela Comissão na fórmula de cálculo do IDCP?", "resposta": "AC x 05"},{"pergunta": "Quais são as situações que permitem a obtenção do Índice de Desenvolvimento de Competências Probatórias (IDCP)?", "resposta": "Para obtenção do Índice de Desenvolvimento de Competências Probatórias (IDCP) do servidor da ALRN em estágio probatório serão consideradas a autoavaliação (AA), a avaliação realizada pelos membros da equipe de trabalho (AE) e a avaliação realizada pela CEADEP (AC)"},{"pergunta": "Quais são os cálculos possíveis para obtenção do IDCP?", "resposta": "IDCP = (AA x 02) + (AE x 03) + (AC x 05) / 10.\Parágrafo único. Quando a avaliação realizada consistir apenas da avaliação realizada pelos membros da equipe de trabalho (AE) e a avaliação realizada pela Comissão (AC), o Índice de Desenvolvimento de Competências Probatórias (IDCP) será obtido, conforme o seguinte cálculo: IDCP = (AE x 03) + (AC x 07) / 10."}]
     },
     {
         "id": "598",
@@ -19842,28 +18178,7 @@
             "subtitulo": "Art. 2 - 5",
             "titulo": "Resolução Nº 089/2017 - Plano de Cargos, Carreiras e Vencimentos dos servidores efetivos"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quais as carreiras que compõem o Quadro de Pessoal efetivo da Assembleia Legislativa do Rio Grande do Norte?",
-                "resposta": "I – Técnico Legislativo; II – Analista Legislativo; III – Consultor Legislativo; IV – Procurador."
-            },
-            {
-                "pergunta": "Quais os cargos que compõem o Quadro de Pessoal efetivo da Assembleia Legislativa?",
-                "resposta": "Os cargos dispostos no Anexo V da presente Resolução."
-            },
-            {
-                "pergunta": "Como fica a quantidade dos cargos?",
-                "resposta": "Serão extintos na vacância."
-            },
-            {
-                "pergunta": "Onde estão as habilitações previstas para os cargos?",
-                "resposta": "No Anexo IV desta Resolução."
-            },
-            {
-                "pergunta": "Quais servidores efetivos podem desempenhar atribuições no âmbito dos gabinetes parlamentares?",
-                "resposta": "Aqueles servidores efetivos que venham a ser nomeados em cargos em comissão afetos aos gabinetes parlamentares."
-            }
-        ]
+        "perguntas": [{"pergunta": "Quais as carreiras que compõem o Quadro de Pessoal efetivo da Assembleia Legislativa do Rio Grande do Norte?", "resposta": "I – Técnico Legislativo; II – Analista Legislativo; III – Consultor Legislativo; IV – Procurador."},{"pergunta": "Quais os cargos que compõem o Quadro de Pessoal efetivo da Assembleia Legislativa?", "resposta": "Os cargos dispostos no Anexo V da presente Resolução."},{"pergunta": "Como fica a quantidade dos cargos?", "resposta": "Serão extintos na vacância."},{"pergunta": "Onde estão as habilitações previstas para os cargos?", "resposta": "No Anexo IV desta Resolução."},{"pergunta": "Quais servidores efetivos podem desempenhar atribuições no âmbito dos gabinetes parlamentares?", "resposta": "Aqueles servidores efetivos que venham a ser nomeados em cargos em comissão afetos aos gabinetes parlamentares."}]
     },
     {
         "id": "630",
@@ -20013,28 +18328,7 @@
             "subtitulo": "Art. 4 - 9",
             "titulo": "Resolução Nº 089/2017 - Plano de Cargos, Carreiras e Vencimentos dos servidores efetivos"
         },
-        "perguntas": [
-            {
-                "pergunta": "O que é considerado representação?",
-                "resposta": "representação, por letra e algarismos, de posição do servidor na tabela de vencimento correspondente, em razão de enquadramento ou evolução funcional do servidor."
-            },
-            {
-                "pergunta": "Qual é a classificação de promoção no mérito?",
-                "resposta": "promoção por mérito mudança de classe, por parte do servidor, para a imediatamente superior, em razão da pontuação obtida na avaliação de desempenho e capacitação."
-            },
-            {
-                "pergunta": "O que é progressão por mérito?",
-                "resposta": "progressão por mérito mudança de referência vencimental, por parte do servidor, para a imediatamente superior, em razão da pontuação obtida na avaliação de desempenho e capacitação."
-            },
-            {
-                "pergunta": "O que é remuneração?",
-                "resposta": "retribuição pecuniária devida ao servidor pelo exercício de cargo, composto pelo vencimento-base, acrescida das demais vantagens pessoais previstas em Lei"
-            },
-            {
-                "pergunta": "Qual é o significado de estável no contexto do artigo?",
-                "resposta": "servidor estável"
-            }
-        ]
+        "perguntas": [{"pergunta": "O que é considerado representação?", "resposta": "representação, por letra e algarismos, de posição do servidor na tabela de vencimento correspondente, em razão de enquadramento ou evolução funcional do servidor."},{"pergunta": "Qual é a classificação de promoção no mérito?", "resposta": "promoção por mérito mudança de classe, por parte do servidor, para a imediatamente superior, em razão da pontuação obtida na avaliação de desempenho e capacitação."},{"pergunta": "O que é progressão por mérito?", "resposta": "progressão por mérito mudança de referência vencimental, por parte do servidor, para a imediatamente superior, em razão da pontuação obtida na avaliação de desempenho e capacitação."},{"pergunta": "O que é remuneração?", "resposta": "retribuição pecuniária devida ao servidor pelo exercício de cargo, composto pelo vencimento-base, acrescida das demais vantagens pessoais previstas em Lei"},{"pergunta": "Qual é o significado de estável no contexto do artigo?", "resposta": "servidor estável"}]
     },
     {
         "id": "636",
@@ -20045,28 +18339,7 @@
             "subtitulo": "Art. 4 - 10",
             "titulo": "Resolução Nº 089/2017 - Plano de Cargos, Carreiras e Vencimentos dos servidores efetivos"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quem completou o interstício de 03 anos após a posse em cargo público de provimento efetivo e foi aprovado em estágio probatório?",
-                "resposta": "aquele que completou o interstício de 03 (três) anos após a posse em cargo público de provimento efetivo e foi aprovado em estágio probatório"
-            },
-            {
-                "pergunta": "Quem é alcançado pelo art. 19 do ADCT?",
-                "resposta": "o servidor alcançado pelo art. 19 do ADCT XVII – vencimento-base retribuição pecuniária devida ao servidor pelo exercício de cargo, de acordo com a referência"
-            },
-            {
-                "pergunta": "O que considera-se para os fins desta Resolução?",
-                "resposta": "aquele que completou o interstício de 03 (três) anos após a posse em cargo público de provimento efetivo e foi aprovado em estágio probatório, bem como o servidor alcançado pelo art. 19 do ADCT XVII"
-            },
-            {
-                "pergunta": "Quais são as referências para os fins da Resolução?",
-                "resposta": "vencimento-base retribuição pecuniária devida ao servidor pelo exercício de cargo, de acordo com a referência vencimental XVIII – quadro suplementar"
-            },
-            {
-                "pergunta": "Para que serve o artigo 4 na resolução?",
-                "resposta": "Para os fins desta Resolução"
-            }
-        ]
+        "perguntas": [{"pergunta": "Quem completou o interstício de 03 anos após a posse em cargo público de provimento efetivo e foi aprovado em estágio probatório?", "resposta": "aquele que completou o interstício de 03 (três) anos após a posse em cargo público de provimento efetivo e foi aprovado em estágio probatório"},{"pergunta": "Quem é alcançado pelo art. 19 do ADCT?", "resposta": "o servidor alcançado pelo art. 19 do ADCT XVII – vencimento-base retribuição pecuniária devida ao servidor pelo exercício de cargo, de acordo com a referência"},{"pergunta": "O que considera-se para os fins desta Resolução?", "resposta": "aquele que completou o interstício de 03 (três) anos após a posse em cargo público de provimento efetivo e foi aprovado em estágio probatório, bem como o servidor alcançado pelo art. 19 do ADCT XVII"},{"pergunta": "Quais são as referências para os fins da Resolução?", "resposta": "vencimento-base retribuição pecuniária devida ao servidor pelo exercício de cargo, de acordo com a referência vencimental XVIII – quadro suplementar"},{"pergunta": "Para que serve o artigo 4 na resolução?", "resposta": "Para os fins desta Resolução"}]
     },
     {
         "id": "637",
@@ -20301,28 +18574,7 @@
             "subtitulo": "Art. 11 - 4",
             "titulo": "Resolução Nº 089/2017 - Plano de Cargos, Carreiras e Vencimentos dos servidores efetivos"
         },
-        "perguntas": [
-            {
-                "pergunta": "O que significa mudança de cargo na promoção por mérito?",
-                "resposta": "acarretará mudança de cargo"
-            },
-            {
-                "pergunta": "Que tipo de progressão e promoção é permitido?",
-                "resposta": "progressão e a promoção por mérito"
-            },
-            {
-                "pergunta": "Que consequências acarreta a progressão e a promoção por mérito na carreira?",
-                "resposta": "A progressão e a promoção por mérito não acarretarão mudança de cargo."
-            },
-            {
-                "pergunta": "Qual é a regra aplicável às promoções e progressões que afetem a carreira do servidor?",
-                "resposta": "mudança de cargo"
-            },
-            {
-                "pergunta": "Por quê as promoções e progressões por mérito não acarretam mudança de cargo?",
-                "resposta": "A progressão e a promoção por mérito não acarretarão mudança de cargo."
-            }
-        ]
+        "perguntas": [{"pergunta": "O que significa mudança de cargo na promoção por mérito?", "resposta": "acarretará mudança de cargo"},{"pergunta": "Que tipo de progressão e promoção é permitido?", "resposta": "progressão e a promoção por mérito"},{"pergunta": "Que consequências acarreta a progressão e a promoção por mérito na carreira?", "resposta": "A progressão e a promoção por mérito não acarretarão mudança de cargo."},{"pergunta": "Qual é a regra aplicável às promoções e progressões que afetem a carreira do servidor?", "resposta": "mudança de cargo"},{"pergunta": "Por quê as promoções e progressões por mérito não acarretam mudança de cargo?", "resposta": "A progressão e a promoção por mérito não acarretarão mudança de cargo."}]
     },
     {
         "id": "645",
@@ -20657,28 +18909,7 @@
             "subtitulo": "Art. 22 - 3",
             "titulo": "Resolução Nº 089/2017 - Plano de Cargos, Carreiras e Vencimentos dos servidores efetivos"
         },
-        "perguntas": [
-            {
-                "pergunta": "O que são os critérios para avaliação?",
-                "resposta": "Os critérios a serem observados e avaliados durante o acompanhamento e a avaliação de desempenho serão: I – COOPERAÇÃO, tendo como objeto a avaliação da conduta pessoal do servidor na prática efetiva do trabalho em equipe, bem como na disponibilidade de ajudar e colaborar com outras pessoas na execução de suas atribuições funcionais; II – INICIATIVA, tendo como objeto a avaliação da capacidade do servidor de empreender, ousar e agir na execução de suas atribuições funcionais, nos limites adequados aos graus de responsabilidade, atribuições e níveis específicos de seu cargo, com criatividade, responsabilidade e eficiência; III – ASSIDUIDADE, tendo como objeto a avaliação da postura do servidor com relação ao comparecimento ou acesso com regularidade e exatidão ao local de execução das funções e dos deveres específicos de seu cargo; IV – PONTUALIDADE, tendo como objeto da avaliação o cumprimento das atividades funcionais em conformidade com os horários e compromissos definidos; V – EFICIÊNCIA, tendo como objeto a avaliação de procedimentos comportamentais do servidor com vistas à eficácia na execução das atribuições específicas de seu cargo e aos objetivos institucionais, considerando, entre outras, as atitudes de aplicação, diligência, agilidade, presteza, desembaraço e zelo profissional; VI – RESPONSABILIDADE, tendo como objeto a avaliação do comprometimento e da dedicação do servidor com relação à execução de seus encargos funcionais e dos objetivos institucionais."
-            },
-            {
-                "pergunta": "Quais são os critérios para avaliação?",
-                "resposta": "Os critérios a serem observados e avaliados durante o acompanhamento e a avaliação de desempenho serão: I – COOPERAÇÃO, tendo como objeto a avaliação da conduta pessoal do servidor na prática efetiva do trabalho em equipe, bem como na disponibilidade de ajudar e colaborar com outras pessoas na execução de suas atribuições funcionais; II – INICIATIVA, tendo como objeto a avaliação da capacidade do servidor de empreender, ousar e agir na execução de suas atribuições funcionais, nos limites adequados aos graus de responsabilidade, atribuições e níveis específicos de seu cargo, com criatividade, responsabilidade e eficiência; III – ASSIDUIDADE, tendo como objeto a avaliação da postura do servidor com relação ao comparecimento ou acesso com regularidade e exatidão ao local de execução das funções e dos deveres específicos de seu cargo; IV – PONTUALIDADE, tendo como objeto da avaliação o cumprimento das atividades funcionais em conformidade com os horários e compromissos definidos; V – EFICIÊNCIA, tendo como objeto a avaliação de procedimentos comportamentais do servidor com vistas à eficácia na execução das atribuições específicas de seu cargo e aos objetivos institucionais, considerando, entre outras, as atitudes de aplicação, diligência, agilidade, presteza, desembaraço e zelo profissional; VI – RESPONSABILIDADE, tendo como objeto a avaliação do comprometimento e da dedicação do servidor com relação à execução de seus encargos funcionais e dos objetivos institucionais."
-            },
-            {
-                "pergunta": "Quando se observa a assiduidade?",
-                "resposta": "tendo como objeto a avaliação da postura do servidor com relação ao comparecimento ou acesso com regularidade e exatidão ao local de execução das funções e dos deveres específicos de seu cargo."
-            },
-            {
-                "pergunta": "Quais são os aspectos que são considerados na eficiência?",
-                "resposta": "as atitudes de aplicação, diligência, agilidade, presteza, desembaraço e zelo profissional;"
-            },
-            {
-                "pergunta": "Qual é o objetivo da pontualidade?",
-                "resposta": "o cumprimento das atividades funcionais em conformidade com os horários e compromissos definidos."
-            }
-        ]
+        "perguntas": [{"pergunta": "O que são os critérios para avaliação?", "resposta": "Os critérios a serem observados e avaliados durante o acompanhamento e a avaliação de desempenho serão: I – COOPERAÇÃO, tendo como objeto a avaliação da conduta pessoal do servidor na prática efetiva do trabalho em equipe, bem como na disponibilidade de ajudar e colaborar com outras pessoas na execução de suas atribuições funcionais; II – INICIATIVA, tendo como objeto a avaliação da capacidade do servidor de empreender, ousar e agir na execução de suas atribuições funcionais, nos limites adequados aos graus de responsabilidade, atribuições e níveis específicos de seu cargo, com criatividade, responsabilidade e eficiência; III – ASSIDUIDADE, tendo como objeto a avaliação da postura do servidor com relação ao comparecimento ou acesso com regularidade e exatidão ao local de execução das funções e dos deveres específicos de seu cargo; IV – PONTUALIDADE, tendo como objeto da avaliação o cumprimento das atividades funcionais em conformidade com os horários e compromissos definidos; V – EFICIÊNCIA, tendo como objeto a avaliação de procedimentos comportamentais do servidor com vistas à eficácia na execução das atribuições específicas de seu cargo e aos objetivos institucionais, considerando, entre outras, as atitudes de aplicação, diligência, agilidade, presteza, desembaraço e zelo profissional; VI – RESPONSABILIDADE, tendo como objeto a avaliação do comprometimento e da dedicação do servidor com relação à execução de seus encargos funcionais e dos objetivos institucionais."},{"pergunta": "Quais são os critérios para avaliação?", "resposta": "Os critérios a serem observados e avaliados durante o acompanhamento e a avaliação de desempenho serão: I – COOPERAÇÃO, tendo como objeto a avaliação da conduta pessoal do servidor na prática efetiva do trabalho em equipe, bem como na disponibilidade de ajudar e colaborar com outras pessoas na execução de suas atribuições funcionais; II – INICIATIVA, tendo como objeto a avaliação da capacidade do servidor de empreender, ousar e agir na execução de suas atribuições funcionais, nos limites adequados aos graus de responsabilidade, atribuições e níveis específicos de seu cargo, com criatividade, responsabilidade e eficiência; III – ASSIDUIDADE, tendo como objeto a avaliação da postura do servidor com relação ao comparecimento ou acesso com regularidade e exatidão ao local de execução das funções e dos deveres específicos de seu cargo; IV – PONTUALIDADE, tendo como objeto da avaliação o cumprimento das atividades funcionais em conformidade com os horários e compromissos definidos; V – EFICIÊNCIA, tendo como objeto a avaliação de procedimentos comportamentais do servidor com vistas à eficácia na execução das atribuições específicas de seu cargo e aos objetivos institucionais, considerando, entre outras, as atitudes de aplicação, diligência, agilidade, presteza, desembaraço e zelo profissional; VI – RESPONSABILIDADE, tendo como objeto a avaliação do comprometimento e da dedicação do servidor com relação à execução de seus encargos funcionais e dos objetivos institucionais."},{"pergunta": "Quando se observa a assiduidade?", "resposta": "tendo como objeto a avaliação da postura do servidor com relação ao comparecimento ou acesso com regularidade e exatidão ao local de execução das funções e dos deveres específicos de seu cargo."},{"pergunta": "Quais são os aspectos que são considerados na eficiência?", "resposta": "as atitudes de aplicação, diligência, agilidade, presteza, desembaraço e zelo profissional;"},{"pergunta": "Qual é o objetivo da pontualidade?", "resposta": "o cumprimento das atividades funcionais em conformidade com os horários e compromissos definidos."}]
     },
     {
         "id": "656",
@@ -20689,28 +18920,7 @@
             "subtitulo": "Art. 23 - 3",
             "titulo": "Resolução Nº 089/2017 - Plano de Cargos, Carreiras e Vencimentos dos servidores efetivos"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quem disciplina a pontuação em uma assembleia?",
-                "resposta": "A Mesa da Assembleia"
-            },
-            {
-                "pergunta": "O que a mesa da assembleia pode discutir sobre os critérios de avaliação?",
-                "resposta": "disciplinará a pontuação de cada critério e outros mecanismos que compreenda o ciclo de avaliação de desempenho."
-            },
-            {
-                "pergunta": "Qual é o órgão responsável pela disciplina da pontuação em uma assembleia?",
-                "resposta": "A Mesa da Assembleia"
-            },
-            {
-                "pergunta": "O que a mesa da assembleia pode fazer para disciplinar os critérios de avaliação?",
-                "resposta": "disciplinará a pontuação de cada critério e outros mecanismos que compreenda o ciclo de avaliação de desempenho."
-            },
-            {
-                "pergunta": "Quais são as responsabilidades da mesa da assembleia em relação aos critérios de avaliação?",
-                "resposta": "disciplinará a pontuação de cada critério e outros mecanismos que compreenda o ciclo de avaliação de desempenho."
-            }
-        ]
+        "perguntas": [{"pergunta": "Quem disciplina a pontuação em uma assembleia?", "resposta": "A Mesa da Assembleia"},{"pergunta": "O que a mesa da assembleia pode discutir sobre os critérios de avaliação?", "resposta": "disciplinará a pontuação de cada critério e outros mecanismos que compreenda o ciclo de avaliação de desempenho."},{"pergunta": "Qual é o órgão responsável pela disciplina da pontuação em uma assembleia?", "resposta": "A Mesa da Assembleia"},{"pergunta": "O que a mesa da assembleia pode fazer para disciplinar os critérios de avaliação?", "resposta": "disciplinará a pontuação de cada critério e outros mecanismos que compreenda o ciclo de avaliação de desempenho."},{"pergunta": "Quais são as responsabilidades da mesa da assembleia em relação aos critérios de avaliação?", "resposta": "disciplinará a pontuação de cada critério e outros mecanismos que compreenda o ciclo de avaliação de desempenho."}]
     },
     {
         "id": "657",
@@ -20873,28 +19083,7 @@
             "subtitulo": "Art. 25 - 7",
             "titulo": "Resolução Nº 089/2017 - Plano de Cargos, Carreiras e Vencimentos dos servidores efetivos"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quais são os requisitos necessários para receber o Adicional de Qualificação?",
-                "resposta": "detentores de títulos, diplomas ou certificados de conclusão de graduação ou pós-graduação, em sentido amplo ou estrito"
-            },
-            {
-                "pergunta": "O que acontece com o servidor cedido?",
-                "resposta": "não perceberá o adicional durante o afastamento."
-            },
-            {
-                "pergunta": "Quem não receberá o adicional de valorização do servidor?",
-                "resposta": "servidores que, à data da publicação desta Resolução, já utilizaram o diploma de graduação para fins de mudança de padrão vencimental"
-            },
-            {
-                "pergunta": "Para quem é destinado o Adicional de Qualificação?",
-                "resposta": "aos integrantes do quadro de cargos de provimento efetivo."
-            },
-            {
-                "pergunta": "O que será considerado na base de cálculo para o Adicional de Qualificação?",
-                "resposta": "o valor correspondente ao vencimento-base."
-            }
-        ]
+        "perguntas": [{"pergunta": "Quais são os requisitos necessários para receber o Adicional de Qualificação?", "resposta": "detentores de títulos, diplomas ou certificados de conclusão de graduação ou pós-graduação, em sentido amplo ou estrito"},{"pergunta": "O que acontece com o servidor cedido?", "resposta": "não perceberá o adicional durante o afastamento."},{"pergunta": "Quem não receberá o adicional de valorização do servidor?", "resposta": "servidores que, à data da publicação desta Resolução, já utilizaram o diploma de graduação para fins de mudança de padrão vencimental"},{"pergunta": "Para quem é destinado o Adicional de Qualificação?", "resposta": "aos integrantes do quadro de cargos de provimento efetivo."},{"pergunta": "O que será considerado na base de cálculo para o Adicional de Qualificação?", "resposta": "o valor correspondente ao vencimento-base."}]
     },
     {
         "id": "663",
@@ -20933,28 +19122,7 @@
             "subtitulo": "Art. 26 - 3",
             "titulo": "Resolução Nº 089/2017 - Plano de Cargos, Carreiras e Vencimentos dos servidores efetivos"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quem é corresponsável com a instituição de ensino?",
-                "resposta": "O servidor"
-            },
-            {
-                "pergunta": "A quem compete verificar a veracidade das informações dos documentos?",
-                "resposta": "O servidor e a instituição de ensino"
-            },
-            {
-                "pergunta": "Quais documentos devem conter as informações corretas para o fim do Adicional de Qualificação?",
-                "resposta": "Declaração de conclusão de curso, certificado ou diploma"
-            },
-            {
-                "pergunta": "O que acontece se for constatado que as informações dos documentos são inverídicas ou inexatas?",
-                "resposta": "O servidor perderá o direito ao percentual ou percentuais concedidos e ressarcirá o valor correspondente"
-            },
-            {
-                "pergunta": "A quem cabe a responsabilidade por eventual perda de direitos ou ressarcimento?",
-                "resposta": "O servidor"
-            }
-        ]
+        "perguntas": [  {"pergunta": "Quem é corresponsável com a instituição de ensino?", "resposta": "O servidor"},  {"pergunta": "A quem compete verificar a veracidade das informações dos documentos?", "resposta": "O servidor e a instituição de ensino"},  {"pergunta": "Quais documentos devem conter as informações corretas para o fim do Adicional de Qualificação?", "resposta": "Declaração de conclusão de curso, certificado ou diploma"},  {"pergunta": "O que acontece se for constatado que as informações dos documentos são inverídicas ou inexatas?", "resposta": "O servidor perderá o direito ao percentual ou percentuais concedidos e ressarcirá o valor correspondente"},  {"pergunta": "A quem cabe a responsabilidade por eventual perda de direitos ou ressarcimento?", "resposta": "O servidor"}]
     },
     {
         "id": "665",
@@ -20965,28 +19133,7 @@
             "subtitulo": "Art. 27 - 3",
             "titulo": "Resolução Nº 089/2017 - Plano de Cargos, Carreiras e Vencimentos dos servidores efetivos"
         },
-        "perguntas": [
-            {
-                "pergunta": "A quem compete a composição da Comissão de Gestão de Carreiras?",
-                "resposta": "será designados pelo Diretor-Geral da Assembleia Legislativa"
-            },
-            {
-                "pergunta": "Quais são as atribuições da Comissão de Gestão de Carreiras?",
-                "resposta": "Compete à Comissão de Gestão de Carreiras: I – julgar os recursos dos servidores relativos à avaliação de desempenho; II – acompanhar os processos de evolução funcional e avaliação de desempenho; III – possibilitar aos servidores e aos gestores posicionamento crítico sobre o próprio desempenho e a qualidade de seus resultados para facilitar ações necessárias ao seu autodesenvolvimento; IV – prover a Diretoria Administrativa e Financeira com informações sobre as lacunas de competências visando ao desenvolvimento de conhecimentos, habilidades e atitudes dos servidores e gestores da Assembleia;"
-            },
-            {
-                "pergunta": "A Comissão de Gestão de Carreiras deliberará por?",
-                "resposta": "maioria absoluta"
-            },
-            {
-                "pergunta": "Quem votará em caso de empate na Comissão de Gestão de Carreiras?",
-                "resposta": "só o presidente da Comissão"
-            },
-            {
-                "pergunta": "Qual é a função do servidor oriundo das Diretorias que compõem a estrutura organizacional da Assembleia Legislativa?",
-                "resposta": "indicado pelo Conselho Administrativo"
-            }
-        ]
+        "perguntas": [{"pergunta": "A quem compete a composição da Comissão de Gestão de Carreiras?", "resposta": "será designados pelo Diretor-Geral da Assembleia Legislativa"},{"pergunta": "Quais são as atribuições da Comissão de Gestão de Carreiras?", "resposta": "Compete à Comissão de Gestão de Carreiras: I – julgar os recursos dos servidores relativos à avaliação de desempenho; II – acompanhar os processos de evolução funcional e avaliação de desempenho; III – possibilitar aos servidores e aos gestores posicionamento crítico sobre o próprio desempenho e a qualidade de seus resultados para facilitar ações necessárias ao seu autodesenvolvimento; IV – prover a Diretoria Administrativa e Financeira com informações sobre as lacunas de competências visando ao desenvolvimento de conhecimentos, habilidades e atitudes dos servidores e gestores da Assembleia;"},{"pergunta": "A Comissão de Gestão de Carreiras deliberará por?", "resposta": "maioria absoluta"},{"pergunta": "Quem votará em caso de empate na Comissão de Gestão de Carreiras?", "resposta": "só o presidente da Comissão"},{"pergunta": "Qual é a função do servidor oriundo das Diretorias que compõem a estrutura organizacional da Assembleia Legislativa?", "resposta": "indicado pelo Conselho Administrativo"}]
     },
     {
         "id": "666",
@@ -21061,28 +19208,7 @@
             "subtitulo": "Art. 30 - 3",
             "titulo": "Resolução Nº 089/2017 - Plano de Cargos, Carreiras e Vencimentos dos servidores efetivos"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quais os requisitos para progressão para a referência 06 da Classe B?",
-                "resposta": "desde que apresentem título de formação de nível superior concluído posteriormente ao seu ingresso no Quadro de Pessoal da Assembleia Legislativa."
-            },
-            {
-                "pergunta": "Quais são as vantagens para os ocupantes do cargo de Técnico Legislativo?",
-                "resposta": "farão jus à progressão para a referência 06 da Classe B"
-            },
-            {
-                "pergunta": "Qual é o plano que os ocupantes do cargo de Técnico Legislativo podem optar?",
-                "resposta": "este plano"
-            },
-            {
-                "pergunta": "Para qual classe os ocupantes do cargo de Técnico Legislativo farão jus à progressão, desde que apresentem título de formação de nível superior concluído posteriormente ao seu ingresso no Quadro de Pessoal da Assembleia Legislativa?",
-                "resposta": "a referência 06 da Classe B"
-            },
-            {
-                "pergunta": "Onde os ocupantes do cargo de Técnico Legislativo devem ter realizado o título de formação de nível superior?",
-                "resposta": "posteriormente ao seu ingresso no Quadro de Pessoal da Assembleia Legislativa"
-            }
-        ]
+        "perguntas": [{"pergunta": "Quais os requisitos para progressão para a referência 06 da Classe B?", "resposta": "desde que apresentem título de formação de nível superior concluído posteriormente ao seu ingresso no Quadro de Pessoal da Assembleia Legislativa."},{"pergunta": "Quais são as vantagens para os ocupantes do cargo de Técnico Legislativo?", "resposta": "farão jus à progressão para a referência 06 da Classe B"},{"pergunta": "Qual é o plano que os ocupantes do cargo de Técnico Legislativo podem optar?", "resposta": "este plano"},{"pergunta": "Para qual classe os ocupantes do cargo de Técnico Legislativo farão jus à progressão, desde que apresentem título de formação de nível superior concluído posteriormente ao seu ingresso no Quadro de Pessoal da Assembleia Legislativa?", "resposta": "a referência 06 da Classe B"},{"pergunta": "Onde os ocupantes do cargo de Técnico Legislativo devem ter realizado o título de formação de nível superior?", "resposta": "posteriormente ao seu ingresso no Quadro de Pessoal da Assembleia Legislativa"}]
     },
     {
         "id": "669",
@@ -21521,20 +19647,7 @@
             "subtitulo": "Art. 1 - 9",
             "titulo": "Resolução Nº 75, de 27 de junho de 2024 - Alteração no Plano de Cargos, Carreiras e Vencimentos dos servidores efetivos"
         },
-        "perguntas": [
-            {
-                "pergunta": "Qual é a data da Resolução nº 089?",
-                "resposta": "12 de dezembro de 2017"
-            },
-            {
-                "pergunta": "Quais são as alterações realizadas na Resolução nº 089?",
-                "resposta": "Art. 1. A Resolução nº 089, de 12 de dezembro de 2017, passa a vigorar com as seguintes alterações \"(NR)\""
-            },
-            {
-                "pergunta": "O que é necessário para atender ao II da classe?",
-                "resposta": "obtenção de, no mínimo, 100 (cem) horas de capacitação por ano durante o período em que o servidor encontrar-se no último padrão da classe"
-            }
-        ]
+        "perguntas": [{  "pergunta": "Qual é a data da Resolução nº 089?",  "resposta": "12 de dezembro de 2017"},{  "pergunta": "Quais são as alterações realizadas na Resolução nº 089?",  "resposta": 'Art. 1. A Resolução nº 089, de 12 de dezembro de 2017, passa a vigorar com as seguintes alterações "(NR)"'},{  "pergunta": "O que é necessário para atender ao II da classe?",  "resposta": "obtenção de, no mínimo, 100 (cem) horas de capacitação por ano durante o período em que o servidor encontrar-se no último padrão da classe"}]
     },
     {
         "id": "684",
@@ -21556,32 +19669,7 @@
             "subtitulo": "Art. 1 - 11",
             "titulo": "Resolução Nº 75, de 27 de junho de 2024 - Alteração no Plano de Cargos, Carreiras e Vencimentos dos servidores efetivos"
         },
-        "perguntas": [
-            {
-                "pergunta": "O que a resolução nº 089, de 12 de dezembro de 2017, alterou?",
-                "resposta": "passa a vigorar com as seguintes alterações"
-            },
-            {
-                "pergunta": "Quais são os servidores que poderão ter sua carga horária reduzida?",
-                "resposta": "servidores que ocupem cargos em comissão ou funções da estrutura da gestão administrativa, desde que, de chefia, participem de comissões ou que atuem como fiscal de contrato"
-            },
-            {
-                "pergunta": "Quais são os critérios para redução de carga horária?",
-                "resposta": "na forma estabelecida pela Mesa da Assembleia, por ato próprio"
-            },
-            {
-                "pergunta": "Qual é o percentual que será destinado aos detentores de título de Doutor ou aos ocupantes do cargo de Analista Legislativo – Medicina?",
-                "resposta": "30%"
-            },
-            {
-                "pergunta": "Quais são os requisitos necessários para ter direito ao percentual de 30%",
-                "resposta": "detentores de título de Doutor ou aos ocupantes do cargo de Analista Legislativo – Medicina, portadores de certificado de conclusão de Residência Médica com carga horária igual ou superior a 5.000 (cinco mil) horas"
-            },
-            {
-                "pergunta": "O que é necessário para ter direito ao percentual de 30%?",
-                "resposta": "detentores de título de Doutor ou aos ocupantes do cargo de Analista Legislativo – Medicina, portadores de certificado de conclusão de Residência Médica com carga horária igual ou superior a 5.000 (cinco mil) horas"
-            }
-        ]
+        "perguntas": [{"pergunta": "O que a resolução nº 089, de 12 de dezembro de 2017, alterou?","resposta": "passa a vigorar com as seguintes alterações"},{"pergunta": "Quais são os servidores que poderão ter sua carga horária reduzida?","resposta": "servidores que ocupem cargos em comissão ou funções da estrutura da gestão administrativa, desde que, de chefia, participem de comissões ou que atuem como fiscal de contrato"},{"pergunta": "Quais são os critérios para redução de carga horária?","resposta": "na forma estabelecida pela Mesa da Assembleia, por ato próprio"},{"pergunta": "Qual é o percentual que será destinado aos detentores de título de Doutor ou aos ocupantes do cargo de Analista Legislativo – Medicina?","resposta": "30%"},{"pergunta": "Quais são os requisitos necessários para ter direito ao percentual de 30%","resposta": "detentores de título de Doutor ou aos ocupantes do cargo de Analista Legislativo – Medicina, portadores de certificado de conclusão de Residência Médica com carga horária igual ou superior a 5.000 (cinco mil) horas"},{"pergunta": "O que é necessário para ter direito ao percentual de 30%?","resposta": "detentores de título de Doutor ou aos ocupantes do cargo de Analista Legislativo – Medicina, portadores de certificado de conclusão de Residência Médica com carga horária igual ou superior a 5.000 (cinco mil) horas"}]
     },
     {
         "id": "686",
@@ -21624,28 +19712,7 @@
             "subtitulo": "Art. 2 - 6",
             "titulo": "Resolução Nº 75, de 27 de junho de 2024 - Alteração no Plano de Cargos, Carreiras e Vencimentos dos servidores efetivos"
         },
-        "perguntas": [
-            {
-                "pergunta": "O que mudou com a presente resolução?",
-                "resposta": "O Anexo VI-A da Resolução nº 089, de 2017, passa a vigorar na forma do Anexo Único desta Resolução."
-            },
-            {
-                "pergunta": "Quais documentos foram alterados?",
-                "resposta": "Anexo VI-A da Resolução nº 089, de 2017"
-            },
-            {
-                "pergunta": "Que documento foi acrescentado com a resolução?",
-                "resposta": "Anexo Único desta Resolução"
-            },
-            {
-                "pergunta": "Qual era o conteúdo original do Anexo VI-A da Resolução nº 089, de 2017?",
-                "resposta": "O conteúdo original do Anexo VI-A da Resolução nº 089, de 2017 é referenciado como sendo diferente ao anterior (Anexo Único desta Resolução)"
-            },
-            {
-                "pergunta": "Quem foi responsável por mudanças no documento?",
-                "resposta": "Não há informação"
-            }
-        ]
+        "perguntas": [{"pergunta": "O que mudou com a presente resolução?","resposta": "O Anexo VI-A da Resolução nº 089, de 2017, passa a vigorar na forma do Anexo Único desta Resolução."},{"pergunta": "Quais documentos foram alterados?","resposta": "Anexo VI-A da Resolução nº 089, de 2017"},{"pergunta": "Que documento foi acrescentado com a resolução?","resposta": "Anexo Único desta Resolução"},{"pergunta": "Qual era o conteúdo original do Anexo VI-A da Resolução nº 089, de 2017?","resposta": "O conteúdo original do Anexo VI-A da Resolução nº 089, de 2017 é referenciado como sendo diferente ao anterior (Anexo Único desta Resolução)"},{"pergunta": "Quem foi responsável por mudanças no documento?","resposta": "Não há informação"}]
     },
     {
         "id": "688",
@@ -21972,28 +20039,7 @@
             "subtitulo": "Art. 6 - 11",
             "titulo": "Resolução Nº 64, de 19 de dezembro de 2022 - Substituição de cargos e funções"
         },
-        "perguntas": [
-            {
-                "pergunta": "Decorridos quantos dias consecutivos de substituição, o substituto passará a exercer as atribuições do cargo ou da função substituída de forma não cumulativa?",
-                "resposta": "30 (trinta) dias"
-            },
-            {
-                "pergunta": "Em que situação o substituto pode ser também substituído por pessoa designada?",
-                "resposta": "Havendo a necessidade do serviço."
-            },
-            {
-                "pergunta": "Em que artigos fica estabelecido os requisitos para substituição, de acordo com o texto?",
-                "resposta": "nos artigos 4º e 5º"
-            },
-            {
-                "pergunta": "Com quantos dias o substituto poderá exercer as atribuições do cargo ou da função substituída?",
-                "resposta": "31º (trigésimo primeiro) dia, observando-se o disposto nos artigos 4º e 5º."
-            },
-            {
-                "pergunta": "Quem pode ser designado para substituir o substituto no exercício das atribuições do cargo ou da função substituída?",
-                "resposta": "pessoa designada"
-            }
-        ]
+        "perguntas": [{"pergunta": "Decorridos quantos dias consecutivos de substituição, o substituto passará a exercer as atribuições do cargo ou da função substituída de forma não cumulativa?", "resposta": "30 (trinta) dias"},{"pergunta": "Em que situação o substituto pode ser também substituído por pessoa designada?", "resposta": "Havendo a necessidade do serviço."},{"pergunta": "Em que artigos fica estabelecido os requisitos para substituição, de acordo com o texto?", "resposta": "nos artigos 4º e 5º"},{"pergunta": "Com quantos dias o substituto poderá exercer as atribuições do cargo ou da função substituída?", "resposta": "31º (trigésimo primeiro) dia, observando-se o disposto nos artigos 4º e 5º."},{"pergunta": "Quem pode ser designado para substituir o substituto no exercício das atribuições do cargo ou da função substituída?", "resposta": "pessoa designada"}]
     },
     {
         "id": "699",
@@ -22348,28 +20394,7 @@
             "subtitulo": "Art. 11 - 5",
             "titulo": "Regime Jurídico dos Servidores do Rio Grande do Norte, LEI COMPLEMENTAR ESTADUAL Nº 122, DE 30 DE JUNHO DE 1994"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quantos anos tem prazo de validade do concurso?",
-                "resposta": "prazo de validade até 02 (dois) anos"
-            },
-            {
-                "pergunta": "Como é feita a nomeação dos candidatos aprovados em concurso público?",
-                "resposta": "Os candidatos aprovados em concurso público correspondentes ao número de vagas anunciadas no edital terão direito subjetivo à nomeação durante o respectivo prazo de validade"
-            },
-            {
-                "pergunta": "Qual é a situação que permite adiar a nomeação dos candidatos?",
-                "resposta": "situações de interesse público decorrentes de fato superveniente devidamente comprovado, após manifestação do setor jurídico do órgão ou entidade"
-            },
-            {
-                "pergunta": "O que acontece se houver novo concurso para o mesmo cargo?",
-                "resposta": "os candidatos que nele se classificarem não podem ser nomeados antes de esgotada a lista dos classificados no anterior"
-            },
-            {
-                "pergunta": "Pode o prazo de validade do concurso ser prorrogado?",
-                "resposta": "prorrogável uma única vez por igual período"
-            }
-        ]
+        "perguntas": [{  "pergunta": "Quantos anos tem prazo de validade do concurso?",  "resposta": "prazo de validade até 02 (dois) anos"},{  "pergunta": "Como é feita a nomeação dos candidatos aprovados em concurso público?",  "resposta": "Os candidatos aprovados em concurso público correspondentes ao número de vagas anunciadas no edital terão direito subjetivo à nomeação durante o respectivo prazo de validade"},{  "pergunta": "Qual é a situação que permite adiar a nomeação dos candidatos?",  "resposta": "situações de interesse público decorrentes de fato superveniente devidamente comprovado, após manifestação do setor jurídico do órgão ou entidade"},{  "pergunta": "O que acontece se houver novo concurso para o mesmo cargo?",  "resposta": "os candidatos que nele se classificarem não podem ser nomeados antes de esgotada a lista dos classificados no anterior"},{  "pergunta": "Pode o prazo de validade do concurso ser prorrogado?",  "resposta": "prorrogável uma única vez por igual período"}]
     },
     {
         "id": "711",
@@ -22636,28 +20661,7 @@
             "subtitulo": "Art. 20 - 5",
             "titulo": "Regime Jurídico dos Servidores do Rio Grande do Norte, LEI COMPLEMENTAR ESTADUAL Nº 122, DE 30 DE JUNHO DE 1994"
         },
-        "perguntas": [
-            {
-                "pergunta": "Por quanto tempo dura o estágio probatório?",
-                "resposta": "24 (vinte e quatro) meses"
-            },
-            {
-                "pergunta": "Quais são os fatores que se avaliam durante o período do estágio probatório?",
-                "resposta": "I - assiduidade; II - pontualidade; III - disciplina; IV - capacidade de iniciativa; V - produtividade; VI - responsabilidade; VII - probidade; VIII - interesse pelo serviço"
-            },
-            {
-                "pergunta": "Quando é instaurada a avaliação de desempenho do servidor durante o estágio probatório?",
-                "resposta": "04 (quatro) meses antes de findo o período do estágio"
-            },
-            {
-                "pergunta": "O que acontece com o servidor não aprovado no estágio probatório?",
-                "resposta": "é exonerado e, se gozava de estabilidade em cargo anterior, a ele reconduzido, observado o disposto no parágrafo único do artigo 29"
-            },
-            {
-                "pergunta": "Quem é responsável por comunicar à autoridade o resultado das novas observações realizadas durante o estágio probatório?",
-                "resposta": "O órgão de pessoal"
-            }
-        ]
+        "perguntas": [{  "pergunta": "Por quanto tempo dura o estágio probatório?",  "resposta": "24 (vinte e quatro) meses"},{  "pergunta": "Quais são os fatores que se avaliam durante o período do estágio probatório?",  "resposta": "I - assiduidade; II - pontualidade; III - disciplina; IV - capacidade de iniciativa; V - produtividade; VI - responsabilidade; VII - probidade; VIII - interesse pelo serviço"},{  "pergunta": "Quando é instaurada a avaliação de desempenho do servidor durante o estágio probatório?",  "resposta": "04 (quatro) meses antes de findo o período do estágio"},{  "pergunta": "O que acontece com o servidor não aprovado no estágio probatório?",  "resposta": "é exonerado e, se gozava de estabilidade em cargo anterior, a ele reconduzido, observado o disposto no parágrafo único do artigo 29"},{  "pergunta": "Quem é responsável por comunicar à autoridade o resultado das novas observações realizadas durante o estágio probatório?",  "resposta": "O órgão de pessoal"}]
     },
     {
         "id": "720",
@@ -23159,28 +21163,7 @@
             "subtitulo": "Art. 37 - 4",
             "titulo": "Regime Jurídico dos Servidores do Rio Grande do Norte, LEI COMPLEMENTAR ESTADUAL Nº 122, DE 30 DE JUNHO DE 1994"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quais as condições necessárias para que ocorra a redistribuição?",
-                "resposta": "quando houver correlação de atribuições, equivalência de vencimentos e interesse da administração,"
-            },
-            {
-                "pergunta": "O que é redistribuição?",
-                "resposta": "Redistribuição é o deslocamento do servidor, com o respectivo cargo, para o quadro de pessoal de outro órgão ou entidade do mesmo Poder"
-            },
-            {
-                "pergunta": "Quem deve ser ouvido em caso de redistribuição",
-                "resposta": "o órgão central do sistema de pessoal."
-            },
-            {
-                "pergunta": "Com que finalidade a redistribuição é realizada?",
-                "resposta": "para ajustamento de quadros de pessoal às necessidades do serviço, inclusive nos casos de reorganização,"
-            },
-            {
-                "pergunta": "O que acontece com os servidores estáveis em caso de extinção de órgão ou entidade e não redistribuição",
-                "resposta": "são colocados em disponibilidade, até seu aproveitamento na forma do artigo 30."
-            }
-        ]
+        "perguntas": [{"pergunta": "Quais as condições necessárias para que ocorra a redistribuição?", "resposta": "quando houver correlação de atribuições, equivalência de vencimentos e interesse da administração,"},{"pergunta": "O que é redistribuição?", "resposta": "Redistribuição é o deslocamento do servidor, com o respectivo cargo, para o quadro de pessoal de outro órgão ou entidade do mesmo Poder"},{"pergunta": "Quem deve ser ouvido em caso de redistribuição", "resposta": "o órgão central do sistema de pessoal."},{"pergunta": "Com que finalidade a redistribuição é realizada?", "resposta": "para ajustamento de quadros de pessoal às necessidades do serviço, inclusive nos casos de reorganização,"},{"pergunta": "O que acontece com os servidores estáveis em caso de extinção de órgão ou entidade e não redistribuição", "resposta": "são colocados em disponibilidade, até seu aproveitamento na forma do artigo 30."}]
     },
     {
         "id": "737",
@@ -23191,28 +21174,7 @@
             "subtitulo": "Art. 38 - 4",
             "titulo": "Regime Jurídico dos Servidores do Rio Grande do Norte, LEI COMPLEMENTAR ESTADUAL Nº 122, DE 30 DE JUNHO DE 1994"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quem terá substitutos indicados no regulamento ou regimento interno?",
-                "resposta": "Os servidores investidos em cargo em comissão ou em função de direção ou chefia"
-            },
-            {
-                "pergunta": "Como o substituto assume automaticamente e cumulativamente o exercício do cargo em comissão ou função de direção ou chefia?",
-                "resposta": "Nos afastamentos, impedimentos legais ou regulamentares do titular e na vacância do cargo."
-            },
-            {
-                "pergunta": "Quando o substituto fará jus à retribuição pelo exercício do cargo em comissão ou função de direção ou chefia?",
-                "resposta": "Nos casos dos afastamentos ou impedimentos legais do titular, superiores a trinta dias consecutivos"
-            },
-            {
-                "pergunta": "Quando o substituto tem direito à retribuição pelo exercício do cargo em comissão ou função de direção ou chefia, caso da substituição por motivo de férias?",
-                "resposta": "Desde o primeiro dia de efetiva substituição."
-            },
-            {
-                "pergunta": "É facultado à autoridade competente designar servidor para responder pelo expediente?",
-                "resposta": "Sim, sem prejuízo das funções do seu cargo e sem ônus para os cofres públicos"
-            }
-        ]
+        "perguntas": [{"pergunta": "Quem terá substitutos indicados no regulamento ou regimento interno?","resposta": "Os servidores investidos em cargo em comissão ou em função de direção ou chefia"},{"pergunta": "Como o substituto assume automaticamente e cumulativamente o exercício do cargo em comissão ou função de direção ou chefia?","resposta": "Nos afastamentos, impedimentos legais ou regulamentares do titular e na vacância do cargo."},{"pergunta": "Quando o substituto fará jus à retribuição pelo exercício do cargo em comissão ou função de direção ou chefia?","resposta": "Nos casos dos afastamentos ou impedimentos legais do titular, superiores a trinta dias consecutivos"},{"pergunta": "Quando o substituto tem direito à retribuição pelo exercício do cargo em comissão ou função de direção ou chefia, caso da substituição por motivo de férias?","resposta": "Desde o primeiro dia de efetiva substituição."},{"pergunta": "É facultado à autoridade competente designar servidor para responder pelo expediente?","resposta": "Sim, sem prejuízo das funções do seu cargo e sem ônus para os cofres públicos"}]
     },
     {
         "id": "738",
@@ -23459,28 +21421,7 @@
             "subtitulo": "Art. 47 - 2",
             "titulo": "Regime Jurídico dos Servidores do Rio Grande do Norte, LEI COMPLEMENTAR ESTADUAL Nº 122, DE 30 DE JUNHO DE 1994"
         },
-        "perguntas": [
-            {
-                "pergunta": "O servidor perde remuneração se faltar ao serviço por quantos minutos?",
-                "resposta": "I - a parcela de remuneração diária, proporcional aos atrasos, ausências ou saídas antecipadas iguais ou superiores a 60 (sessenta) minutos."
-            },
-            {
-                "pergunta": "O servidor perde metade da remuneração em que situação?",
-                "resposta": "III - metade da remuneração, no caso de suspensão convertida em multa (artigo 141, § 3.)"
-            },
-            {
-                "pergunta": "Em que situações o servidor perde a totalidade da remuneração?",
-                "resposta": "IV - a totalidade da remuneração, quando: a) nomeado para cargo em comissão, salvo o direito de optar; b) investido em mandato eletivo, observado o disposto no artigo 107; c) cedido a outra entidade, Poder ou órgão equivalente, salvo, a critério da autoridade competente, quando para o exercício de cargo ou função de direção, chefia ou assessoramento, observado o disposto na alínea “a”."
-            },
-            {
-                "pergunta": "O servidor que optar pelo vencimento do cargo efetivo pode perceber gratificação de representação em quantos percentuais?",
-                "resposta": "I - na hipótese de ter vantagem incorporada ao vencimento, além deste, com a respectiva vantagem, o adicional por tempo de serviço e 60% (sessenta por cento) da gratificação de representação do cargo em comissão;"
-            },
-            {
-                "pergunta": "O servidor que optar pelo vencimento do cargo efetivo pode perceber apenas o adicional por tempo de serviço e a gratificação de representação em qual situação?",
-                "resposta": "II - não tendo vantagem incorporada ao vencimento, além deste, o adicional por tempo de serviço e a gratificação de representação do cargo em comissão."
-            }
-        ]
+        "perguntas": [{"pergunta": "O servidor perde remuneração se faltar ao serviço por quantos minutos?", "resposta": "I - a parcela de remuneração diária, proporcional aos atrasos, ausências ou saídas antecipadas iguais ou superiores a 60 (sessenta) minutos."},{"pergunta": "O servidor perde metade da remuneração em que situação?", "resposta": "III - metade da remuneração, no caso de suspensão convertida em multa (artigo 141, § 3.)"},{"pergunta": "Em que situações o servidor perde a totalidade da remuneração?", "resposta": "IV - a totalidade da remuneração, quando: a) nomeado para cargo em comissão, salvo o direito de optar; b) investido em mandato eletivo, observado o disposto no artigo 107; c) cedido a outra entidade, Poder ou órgão equivalente, salvo, a critério da autoridade competente, quando para o exercício de cargo ou função de direção, chefia ou assessoramento, observado o disposto na alínea “a”."},{"pergunta": "O servidor que optar pelo vencimento do cargo efetivo pode perceber gratificação de representação em quantos percentuais?", "resposta": "I - na hipótese de ter vantagem incorporada ao vencimento, além deste, com a respectiva vantagem, o adicional por tempo de serviço e 60% (sessenta por cento) da gratificação de representação do cargo em comissão;"}, {"pergunta": "O servidor que optar pelo vencimento do cargo efetivo pode perceber apenas o adicional por tempo de serviço e a gratificação de representação em qual situação?", "resposta": "II - não tendo vantagem incorporada ao vencimento, além deste, o adicional por tempo de serviço e a gratificação de representação do cargo em comissão."}]
     },
     {
         "id": "747",
@@ -24174,32 +22115,7 @@
             "subtitulo": "Art. 70 - 2",
             "titulo": "Regime Jurídico dos Servidores do Rio Grande do Norte, LEI COMPLEMENTAR ESTADUAL Nº 122, DE 30 DE JUNHO DE 1994"
         },
-        "perguntas": [
-            {
-                "pergunta": "O que é a gratificação pela participação em Órgão de deliberação coletiva?",
-                "resposta": "A gratificação pela participação em Órgão de deliberação coletiva é devida aos respectivos membros que não exerçam cargo em comissão ou função de direção, chefia ou assessoramento, por sessão a que comparecerem,"
-            },
-            {
-                "pergunta": "Quais são os limites da gratificação?",
-                "resposta": "tudo o limite mensal fixado em regulamento."
-            },
-            {
-                "pergunta": "Como varia o valor da gratificação?",
-                "resposta": "O valor da gratificação varia de acordo com o grau em que seja classificado o órgão,"
-            },
-            {
-                "pergunta": "Quem tem direito a acrescer de 20% (vinte por cento) na gratificação?",
-                "resposta": "a do respectivo presidente"
-            },
-            {
-                "pergunta": "Pode ser extensiva a outra pessoa a gratificação?",
-                "resposta": "A gratificação é extensiva, pela metade, ao servidor designado para secretaria ou órgão."
-            },
-            {
-                "pergunta": "Quais são as limitações para o servidor participar de Órgãos de deliberação coletiva?",
-                "resposta": "O servidor, no caso deste artigo, pode participar de até 02 (dois) órgãos de deliberação coletiva,"
-            }
-        ]
+        "perguntas": [{"pergunta": "O que é a gratificação pela participação em Órgão de deliberação coletiva?", "resposta": "A gratificação pela participação em Órgão de deliberação coletiva é devida aos respectivos membros que não exerçam cargo em comissão ou função de direção, chefia ou assessoramento, por sessão a que comparecerem,"},{"pergunta": "Quais são os limites da gratificação?", "resposta": "tudo o limite mensal fixado em regulamento."},{"pergunta": "Como varia o valor da gratificação?", "resposta": "O valor da gratificação varia de acordo com o grau em que seja classificado o órgão,"},{"pergunta": "Quem tem direito a acrescer de 20% (vinte por cento) na gratificação?", "resposta": "a do respectivo presidente"},{"pergunta": "Pode ser extensiva a outra pessoa a gratificação?", "resposta": "A gratificação é extensiva, pela metade, ao servidor designado para secretaria ou órgão."},{"pergunta": "Quais são as limitações para o servidor participar de Órgãos de deliberação coletiva?", "resposta": "O servidor, no caso deste artigo, pode participar de até 02 (dois) órgãos de deliberação coletiva,"}]
     },
     {
         "id": "770",
@@ -24358,28 +22274,7 @@
             "subtitulo": "Art. 76 - 2",
             "titulo": "Regime Jurídico dos Servidores do Rio Grande do Norte, LEI COMPLEMENTAR ESTADUAL Nº 122, DE 30 DE JUNHO DE 1994"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quais são as situações que geram o direito ao adicional de atividade penosa?",
-                "resposta": "ao servidor em exercício em postos de fronteira, afastados dos centros urbanos, ou em localidades cujas condições de vida o justifiquem"
-            },
-            {
-                "pergunta": "Quanto vale o adicional de atividade penosa?",
-                "resposta": "à razão de 20% (vinte por cento) sobre o vencimento do cargo efetivo"
-            },
-            {
-                "pergunta": "O que é",
-                "resposta": "adicional de atividade penosa"
-            },
-            {
-                "pergunta": "Quem tem direito ao adicional de atividade penosa?",
-                "resposta": "ao servidor em exercício em postos de fronteira, afastados dos centros urbanos, ou em localidades cujas condições de vida o justifiquem"
-            },
-            {
-                "pergunta": "Em que percentual é pago o adicional de atividade penosa?",
-                "resposta": "à razão de 20% (vinte por cento) sobre o vencimento do cargo efetivo"
-            }
-        ]
+        "perguntas": [{"pergunta": "Quais são as situações que geram o direito ao adicional de atividade penosa?", "resposta": "ao servidor em exercício em postos de fronteira, afastados dos centros urbanos, ou em localidades cujas condições de vida o justifiquem"}, {"pergunta": "Quanto vale o adicional de atividade penosa?", "resposta": "à razão de 20% (vinte por cento) sobre o vencimento do cargo efetivo"} , {"pergunta": "O que é", "resposta": "adicional de atividade penosa"}, {"pergunta": "Quem tem direito ao adicional de atividade penosa?", "resposta": "ao servidor em exercício em postos de fronteira, afastados dos centros urbanos, ou em localidades cujas condições de vida o justifiquem"} , {"pergunta": "Em que percentual é pago o adicional de atividade penosa?", "resposta": "à razão de 20% (vinte por cento) sobre o vencimento do cargo efetivo"}]
     },
     {
         "id": "776",
@@ -24454,28 +22349,7 @@
             "subtitulo": "Art. 79 - 2",
             "titulo": "Regime Jurídico dos Servidores do Rio Grande do Norte, LEI COMPLEMENTAR ESTADUAL Nº 122, DE 30 DE JUNHO DE 1994"
         },
-        "perguntas": [
-            {
-                "pergunta": "A atividade de servidores em operações ou locais considerados penosos, insalubres ou perigosos é mantida sobre permanente controle?",
-                "resposta": "Art. 79. A atividade de servidores em operações ou locais considerados penosos, insalubres ou perigosos é mantida sobre permanente controle."
-            },
-            {
-                "pergunta": "Uma servidora gestante ou lactante deve ser afastada das operações e locais previstos no artigo?",
-                "resposta": "§ 1.. A servidora gestante ou lactante é afastada, enquanto durarem a gestação e a lactação, das operações e locais previstos neste artigo,"
-            },
-            {
-                "pergunta": "A exposição a radiação ionizante não deve exceder o nível máximo previsto na legislação própria?",
-                "resposta": "§ 2.. Em se tratando de operações com Raio X ou substâncias radioativas, o controle previsto neste artigo deve assegurar a manutenção das doses de radiação ionizante abaixo do nível máximo previsto na legislação própria."
-            },
-            {
-                "pergunta": "Quanto tempo é necessário entre os exames médicos para servidores submetidos a operações com Raio X ou substâncias radioativas?",
-                "resposta": "§ 3.. Os servidores que a se refere o parágrafo anterior são submetidos a exames médicos a cada 06 (seis) meses."
-            },
-            {
-                "pergunta": "Onde um servidor gestante ou lactante deve exercer as atividades em local isento de qualquer risco?",
-                "resposta": "§ 1.. A servidora gestante ou lactante é afastada, enquanto durarem a gestação e a lactação, das operações e locais previstos neste artigo, passando a exercer as atividades em local isento de qualquer desses riscos."
-            }
-        ]
+        "perguntas": [{"pergunta": "A atividade de servidores em operações ou locais considerados penosos, insalubres ou perigosos é mantida sobre permanente controle?", "resposta": "Art. 79. A atividade de servidores em operações ou locais considerados penosos, insalubres ou perigosos é mantida sobre permanente controle."},{"pergunta": "Uma servidora gestante ou lactante deve ser afastada das operações e locais previstos no artigo?", "resposta": "§ 1.. A servidora gestante ou lactante é afastada, enquanto durarem a gestação e a lactação, das operações e locais previstos neste artigo,"},{"pergunta": "A exposição a radiação ionizante não deve exceder o nível máximo previsto na legislação própria?", "resposta": "§ 2.. Em se tratando de operações com Raio X ou substâncias radioativas, o controle previsto neste artigo deve assegurar a manutenção das doses de radiação ionizante abaixo do nível máximo previsto na legislação própria."},{"pergunta": "Quanto tempo é necessário entre os exames médicos para servidores submetidos a operações com Raio X ou substâncias radioativas?", "resposta": "§ 3.. Os servidores que a se refere o parágrafo anterior são submetidos a exames médicos a cada 06 (seis) meses."},{"pergunta": "Onde um servidor gestante ou lactante deve exercer as atividades em local isento de qualquer risco?", "resposta": "§ 1.. A servidora gestante ou lactante é afastada, enquanto durarem a gestação e a lactação, das operações e locais previstos neste artigo, passando a exercer as atividades em local isento de qualquer desses riscos."}]
     },
     {
         "id": "779",
@@ -24806,28 +22680,7 @@
             "subtitulo": "Art. 90 - 2",
             "titulo": "Regime Jurídico dos Servidores do Rio Grande do Norte, LEI COMPLEMENTAR ESTADUAL Nº 122, DE 30 DE JUNHO DE 1994"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quais são os procedimentos para a concessão da licença para tratamento de saúde?",
-                "resposta": "A licença para tratamento de saúde é concedida, a pedido ou de ofício, com base em inspeção de saúde."
-            },
-            {
-                "pergunta": "Quem pode realizar a inspeção médica se o prazo da licença não exceder a 30 dias?",
-                "resposta": "É admitida inspeção por médico do setor de assistência do órgão de pessoal, se o prazo da licença não exceder a 30 (trinta) dias,"
-            },
-            {
-                "pergunta": "Onde pode ocorrer a realização da inspeção médica?",
-                "resposta": "Sempre que necessário, a inspeção médica realiza-se na residência do servidor ou no estabelecimento hospitalar onde se encontrar internado."
-            },
-            {
-                "pergunta": "Em quais situações é aceitável um atestado passado por médico particular?",
-                "resposta": "Inexistindo médico no órgão ou entidade do local onde se encontra o servidor, pode ser aceito atestado passado por médico particular,"
-            },
-            {
-                "pergunta": "Quais são as informações que podem ser mencionadas no atestado e no laudo da junta médica?",
-                "resposta": "O atestado e o laudo da junta médica não podem mencionar o nome ou a natureza da doença, salvo quando se tratar de lesões produzidas por acidente em serviço, doença profissional ou qualquer das doenças específicas no artigo 197."
-            }
-        ]
+        "perguntas": [  {"pergunta": "Quais são os procedimentos para a concessão da licença para tratamento de saúde?", "resposta": "A licença para tratamento de saúde é concedida, a pedido ou de ofício, com base em inspeção de saúde."},   {"pergunta": "Quem pode realizar a inspeção médica se o prazo da licença não exceder a 30 dias?", "resposta": "É admitida inspeção por médico do setor de assistência do órgão de pessoal, se o prazo da licença não exceder a 30 (trinta) dias,"},   {"pergunta": "Onde pode ocorrer a realização da inspeção médica?", "resposta": "Sempre que necessário, a inspeção médica realiza-se na residência do servidor ou no estabelecimento hospitalar onde se encontrar internado."},   {"pergunta": "Em quais situações é aceitável um atestado passado por médico particular?", "resposta": "Inexistindo médico no órgão ou entidade do local onde se encontra o servidor, pode ser aceito atestado passado por médico particular,"},   {"pergunta": "Quais são as informações que podem ser mencionadas no atestado e no laudo da junta médica?", "resposta": "O atestado e o laudo da junta médica não podem mencionar o nome ou a natureza da doença, salvo quando se tratar de lesões produzidas por acidente em serviço, doença profissional ou qualquer das doenças específicas no artigo 197."}]
     },
     {
         "id": "790",
@@ -24902,28 +22755,7 @@
             "subtitulo": "Art. 93 - 2",
             "titulo": "Regime Jurídico dos Servidores do Rio Grande do Norte, LEI COMPLEMENTAR ESTADUAL Nº 122, DE 30 DE JUNHO DE 1994"
         },
-        "perguntas": [
-            {
-                "pergunta": "Em quais casos a licença por acidente em serviço é concedida?",
-                "resposta": "A licença por acidente em serviço cabe nos casos em que do fato resultar dano físico ou mental que se relacione, mediata ou imediatamente, com o exercício das atribuições inerentes ao cargo ou função."
-            },
-            {
-                "pergunta": "O que ocorre quando um servidor é agredido no exercício de seu cargo?",
-                "resposta": "a) a agressão sofrida e não provocada pelo servidor, no exercício do cargo ou função;"
-            },
-            {
-                "pergunta": "A doença profissional pode ser causada por quais fatores?",
-                "resposta": "assim entendida a que é causada pelas condições do serviço ou por fatos nele ocorridos"
-            },
-            {
-                "pergunta": "Quando é considerado como ocorrido em serviço o acidente sofrido pelo servidor?",
-                "resposta": "o acidente sofrido pelo servidor no percurso de sua residência para o local de trabalho e vice-versa"
-            },
-            {
-                "pergunta": "Quem custeia o tratamento especializado que não pode ser realizado por instituição pública?",
-                "resposta": "cabe ao órgão ou entidade, a que pertencer o servidor acidentado"
-            }
-        ]
+        "perguntas": [{"pergunta": "Em quais casos a licença por acidente em serviço é concedida?", "resposta": "A licença por acidente em serviço cabe nos casos em que do fato resultar dano físico ou mental que se relacione, mediata ou imediatamente, com o exercício das atribuições inerentes ao cargo ou função."},{"pergunta": "O que ocorre quando um servidor é agredido no exercício de seu cargo?", "resposta": "a) a agressão sofrida e não provocada pelo servidor, no exercício do cargo ou função;" },{"pergunta": "A doença profissional pode ser causada por quais fatores?", "resposta": "assim entendida a que é causada pelas condições do serviço ou por fatos nele ocorridos" },{"pergunta": "Quando é considerado como ocorrido em serviço o acidente sofrido pelo servidor?", "resposta": "o acidente sofrido pelo servidor no percurso de sua residência para o local de trabalho e vice-versa" },{"pergunta": "Quem custeia o tratamento especializado que não pode ser realizado por instituição pública?", "resposta": "cabe ao órgão ou entidade, a que pertencer o servidor acidentado"}]
     },
     {
         "id": "793",
@@ -25186,28 +23018,7 @@
             "subtitulo": "Art. 102 - 2",
             "titulo": "Regime Jurídico dos Servidores do Rio Grande do Norte, LEI COMPLEMENTAR ESTADUAL Nº 122, DE 30 DE JUNHO DE 1994"
         },
-        "perguntas": [
-            {
-                "pergunta": "O servidor faz jus a quantos meses de licença após cada qüinqüênio ininterrupto de exercício?",
-                "resposta": "03 (três) meses de licença"
-            },
-            {
-                "pergunta": "Pode ser contado para o qüinqüênio, o exercício em cargo de outro Poder ou órgão equivalente?",
-                "resposta": "Sim"
-            },
-            {
-                "pergunta": "O que ocorre quando há interrupção quando do ingresso no último cargo?",
-                "resposta": "Não se conta para o qüinqüênio"
-            },
-            {
-                "pergunta": "É facultado ao servidor fracionar a licença em quantas parcelas?",
-                "resposta": "até 03 (três)"
-            },
-            {
-                "pergunta": "O que ocorre quando a licença for convertida em tempo de serviço, para fins de aposentadoria e disponibilidade?",
-                "resposta": "contado em dobro"
-            }
-        ]
+        "perguntas": [{"pergunta": "O servidor faz jus a quantos meses de licença após cada qüinqüênio ininterrupto de exercício?", "resposta": "03 (três) meses de licença"},{"pergunta": "Pode ser contado para o qüinqüênio, o exercício em cargo de outro Poder ou órgão equivalente?", "resposta": "Sim"},{"pergunta": "O que ocorre quando há interrupção quando do ingresso no último cargo?", "resposta": "Não se conta para o qüinqüênio"},{"pergunta": "É facultado ao servidor fracionar a licença em quantas parcelas?", "resposta": "até 03 (três)"},{"pergunta": "O que ocorre quando a licença for convertida em tempo de serviço, para fins de aposentadoria e disponibilidade?", "resposta": "contado em dobro"}]
     },
     {
         "id": "802",
@@ -25314,28 +23125,7 @@
             "subtitulo": "Art. 106 - 6",
             "titulo": "Regime Jurídico dos Servidores do Rio Grande do Norte, LEI COMPLEMENTAR ESTADUAL Nº 122, DE 30 DE JUNHO DE 1994"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quais são as hipóteses de cedência do servidor para atuar em unidade administrativa de outro poder ou órgão?",
-                "resposta": "I - a fim de exercer cargo em comissão ou função de direção, chefia ou assessoramento; II - nos casos previstos em leis específicas."
-            },
-            {
-                "pergunta": "Quem assume o ônus da remuneração do servidor cedido para exercer cargo em comissão?",
-                "resposta": "Na hipótese do inciso I, o ônus da remuneração é do órgão ou entidade cessionária."
-            },
-            {
-                "pergunta": "Quando a cessão de servidor se realizar mediante ato publicado no jornal oficial do Estado?",
-                "resposta": "A cessão realiza-se mediante ato publicado no jornal oficial do Estado e vigora pelo prazo de 02 (dois) anos, prorrogável por igual período."
-            },
-            {
-                "pergunta": "Quando a cessão do servidor pode ser feita sem autorização do titular do Poder?",
-                "resposta": "Na hipótese prevista no § 3º, onde inexiste quadro próprio de pessoal"
-            },
-            {
-                "pergunta": "Qual o prazo de vigência da cessão do servidor?",
-                "resposta": "Pelo prazo de 02 (dois) anos, prorrogável por igual período."
-            }
-        ]
+        "perguntas": [{"pergunta": "Quais são as hipóteses de cedência do servidor para atuar em unidade administrativa de outro poder ou órgão?","resposta": "I - a fim de exercer cargo em comissão ou função de direção, chefia ou assessoramento; II - nos casos previstos em leis específicas."},{"pergunta": "Quem assume o ônus da remuneração do servidor cedido para exercer cargo em comissão?","resposta": "Na hipótese do inciso I, o ônus da remuneração é do órgão ou entidade cessionária."},{"pergunta": "Quando a cessão de servidor se realizar mediante ato publicado no jornal oficial do Estado?","resposta": "A cessão realiza-se mediante ato publicado no jornal oficial do Estado e vigora pelo prazo de 02 (dois) anos, prorrogável por igual período."},{"pergunta": "Quando a cessão do servidor pode ser feita sem autorização do titular do Poder?","resposta": "Na hipótese prevista no § 3º, onde inexiste quadro próprio de pessoal"},{"pergunta": "Qual o prazo de vigência da cessão do servidor?","resposta": "Pelo prazo de 02 (dois) anos, prorrogável por igual período."}]
     },
     {
         "id": "806",
@@ -25614,28 +23404,7 @@
             "subtitulo": "Art. 116 - 2",
             "titulo": "Regime Jurídico dos Servidores do Rio Grande do Norte, LEI COMPLEMENTAR ESTADUAL Nº 122, DE 30 DE JUNHO DE 1994"
         },
-        "perguntas": [
-            {
-                "pergunta": "Qual é o objetivo deste artigo?",
-                "resposta": "Art. 116."
-            },
-            {
-                "pergunta": "Quais ausências ao serviço são consideradas como de efetivo exercício?",
-                "resposta": "Além das ausências ao serviço previstas no artigo 111, são consideradas como de efetivo exercício as decorrentes..."
-            },
-            {
-                "pergunta": "Exercícios de cargo ou função de governo ou administração",
-                "resposta": "exercício de: a) cargo ou função de governo ou administração, em qualquer parte do território nacional, por nomeação ou designação do Presidente da República..."
-            },
-            {
-                "pergunta": "O que é considerado como de efetivo exercício quando se trata de desempenho de mandato eletivo?",
-                "resposta": "...desempenho de mandato eletivo federal, estadual ou municipal, exceto para efeito de promoção por merecimento;"
-            },
-            {
-                "pergunta": "Exemplos de licenças que são consideradas como de efetivo exercício",
-                "resposta": "V - desempenho de mandato eletivo federal, estadual ou municipal, exceto para efeito de promoção por merecimento;"
-            }
-        ]
+        "perguntas": [{"pergunta": "Qual é o objetivo deste artigo?","resposta": "Art. 116."},{"pergunta": "Quais ausências ao serviço são consideradas como de efetivo exercício?","resposta": "Além das ausências ao serviço previstas no artigo 111, são consideradas como de efetivo exercício as decorrentes..."},{"pergunta": "Exercícios de cargo ou função de governo ou administração","resposta": "exercício de: a) cargo ou função de governo ou administração, em qualquer parte do território nacional, por nomeação ou designação do Presidente da República..."},{"pergunta": "O que é considerado como de efetivo exercício quando se trata de desempenho de mandato eletivo?","resposta": "...desempenho de mandato eletivo federal, estadual ou municipal, exceto para efeito de promoção por merecimento;"},{"pergunta": "Exemplos de licenças que são consideradas como de efetivo exercício","resposta": "V - desempenho de mandato eletivo federal, estadual ou municipal, exceto para efeito de promoção por merecimento;"}]
     },
     {
         "id": "816",
@@ -26090,28 +23859,7 @@
             "subtitulo": "Art. 129 - 2",
             "titulo": "Regime Jurídico dos Servidores do Rio Grande do Norte, LEI COMPLEMENTAR ESTADUAL Nº 122, DE 30 DE JUNHO DE 1994"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quais são os deveres do servidor?",
-                "resposta": "I - exercer com zelo e dedicação as atribuições do cargo; II - ser leal às instituições a que servir; III - observar as normas legais e regulamentares;"
-            },
-            {
-                "pergunta": "O que deve fazer um servidor em relação ao público?",
-                "resposta": "atender com presteza: a) ao público em geral, prestando informações requeridas, ressalvadas as protegidas por sigilo; b) à expedição de certidões requeridas para defesa de direito ou esclarecimento de situações de interesse pessoal;"
-            },
-            {
-                "pergunta": "O que pode o servidor fazer em relação a ordens superiores?",
-                "resposta": "cumprir as ordens superiores, exceto quando manifestamente ilegais;"
-            },
-            {
-                "pergunta": "Qual é o procedimento para representação contra ilegalidade ou abuso de poder?",
-                "resposta": "A representação de que trata o inciso XII é encaminhada pela via hierárquica e apreciada, no prazo do artigo 120, § 1., pela autoridade superior àquela contra a qual é formulada,"
-            },
-            {
-                "pergunta": "Quais são os deveres relacionados à economia e conservação de recursos?",
-                "resposta": "VII - zelar pela economia do material e a conservação do patrimônio público;"
-            }
-        ]
+        "perguntas": [{"pergunta": "Quais são os deveres do servidor?", "resposta": "I - exercer com zelo e dedicação as atribuições do cargo; II - ser leal às instituições a que servir; III - observar as normas legais e regulamentares;"}, {"pergunta": "O que deve fazer um servidor em relação ao público?", "resposta": "atender com presteza: a) ao público em geral, prestando informações requeridas, ressalvadas as protegidas por sigilo; b) à expedição de certidões requeridas para defesa de direito ou esclarecimento de situações de interesse pessoal;"}, {"pergunta": "O que pode o servidor fazer em relação a ordens superiores?", "resposta": "cumprir as ordens superiores, exceto quando manifestamente ilegais;"}, {"pergunta": "Qual é o procedimento para representação contra ilegalidade ou abuso de poder?", "resposta": "A representação de que trata o inciso XII é encaminhada pela via hierárquica e apreciada, no prazo do artigo 120, § 1., pela autoridade superior àquela contra a qual é formulada,"}, {"pergunta": "Quais são os deveres relacionados à economia e conservação de recursos?", "resposta": "VII - zelar pela economia do material e a conservação do patrimônio público;"}]
     },
     {
         "id": "831",
@@ -26333,28 +24081,7 @@
             "subtitulo": "Art. 132 - 2",
             "titulo": "Regime Jurídico dos Servidores do Rio Grande do Norte, LEI COMPLEMENTAR ESTADUAL Nº 122, DE 30 DE JUNHO DE 1994"
         },
-        "perguntas": [
-            {
-                "pergunta": "Quantos cargos em comissão o servidor pode exercer?",
-                "resposta": "O servidor não pode exercer mais de um cargo em comissão."
-            },
-            {
-                "pergunta": "Pode um servidor exercer duas funções de direção ao mesmo tempo?",
-                "resposta": "O servidor não pode exercer mais de um cargo em comissão ou função de direção."
-            },
-            {
-                "pergunta": "Será remunerado se participar do órgão de deliberação coletiva?",
-                "resposta": "nem ser remunerado pela participação, em razão do cargo, em órgão de deliberação coletiva."
-            },
-            {
-                "pergunta": "Pode um servidor ter mais de um cargo em comissão?",
-                "resposta": "O servidor não pode exercer mais de um cargo em comissão."
-            },
-            {
-                "pergunta": "Um servidor pode ocupar uma função de assessoramento e ser remunerado por órgãos de deliberação coletiva?",
-                "resposta": "O servidor não pode exercer mais de um cargo em comissão ou função de direção, nem ser remunerado pela participação, em razão do cargo, em órgão de deliberação coletiva."
-            }
-        ]
+        "perguntas": [  {"pergunta": "Quantos cargos em comissão o servidor pode exercer?", "resposta": "O servidor não pode exercer mais de um cargo em comissão."},  {"pergunta": "Pode um servidor exercer duas funções de direção ao mesmo tempo?", "resposta": "O servidor não pode exercer mais de um cargo em comissão ou função de direção."},  {"pergunta": "Será remunerado se participar do órgão de deliberação coletiva?", "resposta": "nem ser remunerado pela participação, em razão do cargo, em órgão de deliberação coletiva."},  {"pergunta": "Pode um servidor ter mais de um cargo em comissão?", "resposta": "O servidor não pode exercer mais de um cargo em comissão."},  {"pergunta": "Um servidor pode ocupar uma função de assessoramento e ser remunerado por órgãos de deliberação coletiva?", "resposta": "O servidor não pode exercer mais de um cargo em comissão ou função de direção, nem ser remunerado pela participação, em razão do cargo, em órgão de deliberação coletiva."}]
     },
     {
         "id": "839",
@@ -26749,28 +24476,7 @@
             "subtitulo": "Art. 145 - 2",
             "titulo": "Regime Jurídico dos Servidores do Rio Grande do Norte, LEI COMPLEMENTAR ESTADUAL Nº 122, DE 30 DE JUNHO DE 1994"
         },
-        "perguntas": [
-            {
-                "pergunta": "Qual é o objetivo do artigo 145?",
-                "resposta": "É cassada a aposentadoria ou a disponibilidade de inativo que houver praticado, na atividade, falta sujeita à penalidade de demissão."
-            },
-            {
-                "pergunta": "A qual tipo de penalidade pode estar relacionado o artigo 145?",
-                "resposta": "penalidade de demissão"
-            },
-            {
-                "pergunta": "Em quais situações a aposentadoria ou disponibilidade podem ser cassadas?",
-                "resposta": "que houver praticado, na atividade, falta sujeita à penalidade de demissão"
-            },
-            {
-                "pergunta": "O que é cassada com o artigo 145?",
-                "resposta": "aposentadoria ou a disponibilidade de inativo"
-            },
-            {
-                "pergunta": "A quem se refere o artigo 145 do texto?",
-                "resposta": "inativo"
-            }
-        ]
+        "perguntas": [{"pergunta": "Qual é o objetivo do artigo 145?", "resposta": "É cassada a aposentadoria ou a disponibilidade de inativo que houver praticado, na atividade, falta sujeita à penalidade de demissão."},{"pergunta": "A qual tipo de penalidade pode estar relacionado o artigo 145?", "resposta": "penalidade de demissão"},{"pergunta": "Em quais situações a aposentadoria ou disponibilidade podem ser cassadas?", "resposta": "que houver praticado, na atividade, falta sujeita à penalidade de demissão"},{"pergunta": "O que é cassada com o artigo 145?", "resposta": "aposentadoria ou a disponibilidade de inativo"},{"pergunta": "A quem se refere o artigo 145 do texto?", "resposta": "inativo"}]
     },
     {
         "id": "852",
@@ -27713,28 +25419,7 @@
             "subtitulo": "Art. 176 - 2",
             "titulo": "Regime Jurídico dos Servidores do Rio Grande do Norte, LEI COMPLEMENTAR ESTADUAL Nº 122, DE 30 DE JUNHO DE 1994"
         },
-        "perguntas": [
-            {
-                "pergunta": "Onde é remetido o processo disciplinar após o relatório da comissão?",
-                "resposta": "à autoridade que determinou a sua instauração"
-            },
-            {
-                "pergunta": "Quais são os elementos enviados à autoridade competente para julgamento no processo disciplinar?",
-                "resposta": "o processo disciplinar, com o relatório da comissão"
-            },
-            {
-                "pergunta": "O que é determinado pela autoridade em relação ao processo disciplinar, após o recebimento do relatório da comissão?",
-                "resposta": "julgamento"
-            },
-            {
-                "pergunta": "Quem é responsável por julgar o processo disciplinar após receber o relatório da comissão?",
-                "resposta": "a autoridade que determinou a sua instauração"
-            },
-            {
-                "pergunta": "Em que documento se encontra a informação sobre o procedimento disciplinar, incluindo a remessa à autoridade competente e o julgamento?",
-                "resposta": "Art. 176 do artigo apresentado"
-            }
-        ]
+        "perguntas": [{"pergunta": "Onde é remetido o processo disciplinar após o relatório da comissão?","resposta": "à autoridade que determinou a sua instauração"},{"pergunta": "Quais são os elementos enviados à autoridade competente para julgamento no processo disciplinar?","resposta": "o processo disciplinar, com o relatório da comissão"},{"pergunta": "O que é determinado pela autoridade em relação ao processo disciplinar, após o recebimento do relatório da comissão?","resposta": "julgamento"},{"pergunta": "Quem é responsável por julgar o processo disciplinar após receber o relatório da comissão?","resposta": "a autoridade que determinou a sua instauração"},{"pergunta": "Em que documento se encontra a informação sobre o procedimento disciplinar, incluindo a remessa à autoridade competente e o julgamento?","resposta": "Art. 176 do artigo apresentado"}]
     },
     {
         "id": "883",
@@ -28029,28 +25714,7 @@
             "subtitulo": "Art. 186 - 2",
             "titulo": "Regime Jurídico dos Servidores do Rio Grande do Norte, LEI COMPLEMENTAR ESTADUAL Nº 122, DE 30 DE JUNHO DE 1994"
         },
-        "perguntas": [
-            {
-                "pergunta": "O que se considera como fundamento para a revisão?",
-                "resposta": "elementos novos, ainda não apreciados no processo originário"
-            },
-            {
-                "pergunta": "É necessária uma justificativa para a revisão de pena?",
-                "resposta": "sim"
-            },
-            {
-                "pergunta": "O que não é fundamento suficiente para a revisão da pena?",
-                "resposta": "A simples alegação de injustiça da penalidade"
-            },
-            {
-                "pergunta": "É possível fazer revisão sem novos elementos?",
-                "resposta": "não"
-            },
-            {
-                "pergunta": "Qual o requisito necessário para que haja revisão?",
-                "resposta": "elementos novos, ainda não apreciados no processo originário"
-            }
-        ]
+        "perguntas": [  {"pergunta": "O que se considera como fundamento para a revisão?", "resposta": "elementos novos, ainda não apreciados no processo originário"},  {"pergunta": "É necessária uma justificativa para a revisão de pena?", "resposta": "sim"},  {"pergunta": "O que não é fundamento suficiente para a revisão da pena?", "resposta": "A simples alegação de injustiça da penalidade"},  {"pergunta": "É possível fazer revisão sem novos elementos?", "resposta": "não"},  {"pergunta": "Qual o requisito necessário para que haja revisão?", "resposta": "elementos novos, ainda não apreciados no processo originário"}]
     },
     {
         "id": "893",
@@ -28093,28 +25757,7 @@
             "subtitulo": "Art. 188 - 2",
             "titulo": "Regime Jurídico dos Servidores do Rio Grande do Norte, LEI COMPLEMENTAR ESTADUAL Nº 122, DE 30 DE JUNHO DE 1994"
         },
-        "perguntas": [
-            {
-                "pergunta": "Onde ocorre a revisão?",
-                "resposta": "A revisão corre em apenso ao processo originário."
-            },
-            {
-                "pergunta": "O que deve ser solicitado na petição inicial?",
-                "resposta": "dia e hora para a produção de provas e inquirição das testemunhas que arrolar"
-            },
-            {
-                "pergunta": "Qual é o objetivo da revisão?",
-                "resposta": "A revisão corre em apenso ao processo originário."
-            },
-            {
-                "pergunta": "Quais são as providências necessárias na petição inicial?",
-                "resposta": "pede dia e hora para a produção de provas e inquirição das testemunhas que arrolar"
-            },
-            {
-                "pergunta": "Onde se localiza o processo originário?",
-                "resposta": "apenso ao processo originário"
-            }
-        ]
+        "perguntas": [{"pergunta": "Onde ocorre a revisão?", "resposta": "A revisão corre em apenso ao processo originário."},{"pergunta": "O que deve ser solicitado na petição inicial?", "resposta": "dia e hora para a produção de provas e inquirição das testemunhas que arrolar"},{"pergunta": "Qual é o objetivo da revisão?", "resposta": "A revisão corre em apenso ao processo originário."},{"pergunta": "Quais são as providências necessárias na petição inicial?", "resposta": "pede dia e hora para a produção de provas e inquirição das testemunhas que arrolar"},{"pergunta": "Onde se localiza o processo originário?", "resposta": "apenso ao processo originário"}]
     },
     {
         "id": "895",
