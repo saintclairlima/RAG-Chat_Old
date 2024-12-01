@@ -6322,7 +6322,8 @@
         },
         "perguntas": [
             {
-                "pergunta": "O que acontece quando o parecer do Relator é aprovado em todos os seus termos?\",  \"resposta\": \"será tido como da Comissão e, desde logo, assinado pelo Presidente, Relator e demais membros\"},{  \"pergunta\": \"O que acontece se o voto do Relator não for adotado pela Comissão?\",  \"resposta\": \"a redação do parecer vencedor será feita por outro Deputado designado pelo Presidente, observando-se as regras dos incisos XIX e XX quanto aos prazos\"},{  \"pergunta\": \"O que acontece se a Comissão adotar um parecer diverso do voto do Relator?\",  \"resposta\": \"o deste constituirá voto em separado\"},{  \"pergunta\": \"Quais os votos considerados favoráveis?\",  \"resposta\": \"a) favoráveis os que os aprovarem integralmente, os \"pelas conclusões\", os \"com restrições\" e os \"em separado não divergentes das conclusões\"\"},{  \"pergunta\": \"Quais os votos considerados contrários?\",  \"resposta\": \"b) contrários os \"vencidos\" e os \"em separado divergentes das conclusões\""
+                "pergunta": "O que acontece quando o parecer do Relator é aprovado em todos os seus termos?\",  \"resposta\": \"será tido como da Comissão e, desde logo, assinado pelo Presidente, Relator e demais membros\"},{  \"pergunta\": \"O que acontece se o voto do Relator não for adotado pela Comissão?\",  \"resposta\": \"a redação do parecer vencedor será feita por outro Deputado designado pelo Presidente, observando-se as regras dos incisos XIX e XX quanto aos prazos\"},{  \"pergunta\": \"O que acontece se a Comissão adotar um parecer diverso do voto do Relator?\",  \"resposta\": \"o deste constituirá voto em separado\"},{  \"pergunta\": \"Quais os votos considerados favoráveis?\",  \"resposta\": \"a) favoráveis os que os aprovarem integralmente, os \"pelas conclusões\", os \"com restrições\" e os \"em separado não divergentes das conclusões\"\"},{  \"pergunta\": \"Quais os votos considerados contrários?\",  \"resposta\": \"b) contrários os \"vencidos\" e os \"em separado divergentes das conclusões\"",
+                "resposta": ""
             }
         ]
     },
@@ -11265,7 +11266,7 @@
                 "resposta": "as deliberações da Assembleia e de suas Comissões são tomadas por maioria de votos,"
             },
             {
-                "pergua": "Quantos votos são necessários para aprovar projetos de lei complementar em uma assembleia?",
+                "pergunta": "Quantos votos são necessários para aprovar projetos de lei complementar em uma assembleia?",
                 "resposta": "maioria absoluta dos votos dos membros da Assembleia."
             }
         ]
@@ -11537,7 +11538,8 @@
                 "resposta": "Chamados os Deputados pelo Primeiro Secretário..."
             },
             {
-                "pergunta": "Onde os deputados colocarão suas cédulas?"
+                "pergunta": "Onde os deputados colocarão suas cédulas?",
+                "resposta": ""
             },
             {
                 "pergunta": "Quem fará a apuração da votação?",
@@ -13621,7 +13623,7 @@
             },
             {
                 "pergunta": "Por que é observado o § 1º do Artigo, segundo o texto?",
-                "resquisa": "porque a denúncia foi recebida pelo Plenário, na forma do § 12 do artigo anterior"
+                "resposta": "porque a denúncia foi recebida pelo Plenário, na forma do § 12 do artigo anterior"
             },
             {
                 "pergunta": "Em quais situações é possível determinar a suspensão do denunciado de suas funções?",
@@ -15204,7 +15206,7 @@
                 "resposta": "A representação será encaminhada à Comissão de Constituição, Justiça e Redação."
             },
             {
-                "pergueña": "Em que fase do processo são lidos os documentos no expediente?",
+                "pergunta": "Em que fase do processo são lidos os documentos no expediente?",
                 "resposta": "Apresentadas as alegações finais, o processo será encaminhado à Mesa."
             },
             {
@@ -19906,7 +19908,7 @@
             "subtitulo": "Art. 4 - 5",
             "titulo": "Resolução Nº 089/2017 - Plano de Cargos, Carreiras e Vencimentos dos servidores efetivos"
         },
-        "perguntas": "Não consegui interpretar o que você solicitou."
+        "perguntas": []
     },
     {
         "id": "632",
@@ -22990,7 +22992,8 @@
                 "resposta": "É obrigação do órgão central do sistema de pessoal civil"
             },
             {
-                "pergunta": "Quais são as responsabilidades do órgão central do sistema de pessoal civil?"
+                "pergunta": "Quais são as responsabilidades do órgão central do sistema de pessoal civil?",
+                "resposta": ""
             },
             {
                 "pergunta": "O que deve ser feito com o servidor em disponibilidade quando ocorrer uma vaga?",
@@ -23617,7 +23620,8 @@
                 "resposta": "remuneração"
             },
             {
-                "pergunta": "O arresto é uma medida de quais bens?"
+                "pergunta": "O arresto é uma medida de quais bens?",
+                "resposta": ""
             },
             {
                 "pergunta": "O seqüestro também está relacionado à qual direito?",
@@ -26218,7 +26222,7 @@
             "subtitulo": "Art. 130 - 9",
             "titulo": "Regime Jurídico dos Servidores do Rio Grande do Norte, LEI COMPLEMENTAR ESTADUAL Nº 122, DE 30 DE JUNHO DE 1994"
         },
-        "perguntas": "Não posso gerar conteúdo que descreva atividades sexuais. Posso ajudar com outra coisa?"
+        "perguntas": []
     },
     {
         "id": "835",
@@ -28443,7 +28447,7 @@
                 "resposta": "Nenhuma informação disponível no texto."
             },
             {
-                "pergue": "Nome do tipo de lei",
+                "pergunta": "Nome do tipo de lei",
                 "resposta": "Lei Complementar"
             }
         ]
@@ -28598,7 +28602,7 @@
                 "resposta": "pela Lei Complementar nº 308"
             },
             {
-                "perguea": "Data em que foi feita a revogação do art. 205",
+                "pergunta": "Data em que foi feita a revogação do art. 205",
                 "resposta": "de 25 de outubro de 2005"
             },
             {
