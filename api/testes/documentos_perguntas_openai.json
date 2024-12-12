@@ -14,7 +14,7 @@
                 }
             ]
         },
-        "geracao": {
+        "geracao_perguntas": {
             "llm": "OpenAI-API",
             "modelo": "gpt-4o",
             "prompt": "messages=[{\"role\": \"system\", \"content\": \"Você é um gerador de perguntas sobre partes de textos legislativos. Quando recebe um texto, você cria pelo menos 5 perguntas que possam ser respondidas com fragmentos do texto recebido. Nos casos de Artigos revogados, retorne uma lista vazia: []. A saída deve ser uma lista de objetos JSON, com os atributos {{\"pergunta\": \"Texto da pergunta Gerada\", \"resposta\": \"fragmento do artigo que responde a pergunta\"}}. Não adicione nada na resposta, exceto a lista de objetos JSON, sem qualquer comentário adicional.\"}, {\"role\": \"user\",   \"content\": texto_do_artigo}]"
