@@ -1,4 +1,6 @@
-# RAG-Chat
+# RAG-Chat Old
+
+Esse repositório gfoi gerado somente para manter o histórico de mudanças que levaram à versão atual do projeto, mantida em outro repósitório. Devido a problemas no percurso do desenvolvimento, alguns arquivos de grande porte foram inclusos no versionamento, ocasionando com que o repositório ficasse muito grande. Os arquivos foram removidos, uma vez que ficaram obsoletos, mas permanecem no histórico. Para ter o repositório mais enxuto, utilizar https://github.com/saintclairlima/RAG-Chat.
 
 ## Ollama: Instalação e Configuração
 ### Instalando o Ollama
